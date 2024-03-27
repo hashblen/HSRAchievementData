@@ -232,7 +232,7 @@
         "desc": "Collect <unbreak>#1[i]</unbreak> readable item(s) in the Herta Space Station"
     },
     "4080403": {
-        "title": "Non-pulp Fiction",
+        "title": "Non-Pulp Fiction",
         "desc": "Collect <unbreak>#1[i]</unbreak> readable item(s) in Belobog"
     },
     "4080404": {
@@ -1553,7 +1553,7 @@
     },
     "4092602": {
         "title": "The Hunter Games",
-        "desc": "In Simulated Universe: Swarm Disaster, capture <unbreak>#1[i]</unbreak> Trotters through battling in the same plane while following the Path of The Hunt"
+        "desc": "In Simulated Universe: Swarm Disaster, capture more than <unbreak>#1[i]</unbreak> Trotters through combat in the same plane while following the Path of The Hunt"
     },
     "4092603": {
         "title": "Macadam Stories",
@@ -2188,7 +2188,7 @@
         "desc": "Pass through the bronze mirror and obtain the treasure hidden on the floating island"
     },
     "4042802": {
-        "title": "The Golem: How He Came into the World",
+        "title": "The Golem: How He Came Into the World",
         "desc": "In Fyxestroll Garden, obtain a total of <unbreak>#1[i]</unbreak> \"Pathfinder\" rewards"
     },
     "4072801": {
@@ -2536,20 +2536,20 @@
         "desc": "Adjust your perspective and form the Penrose Triangle at the Dream's Edge"
     },
     "4043010": {
-        "title": "FlyMe2theBaloon",
-        "desc": "Break the special Mr. Stone balloon in the Golden Hour."
+        "title": "FlyMe2theBalloon",
+        "desc": "Break the special Boss Stone balloon in Golden Hour"
     },
     "4043011": {
         "title": "Balloon Gakuen 2",
-        "desc": "Break the special Mr. Stone balloon at the Dream's Edge."
+        "desc": "Break the special Boss Stone balloon at Dream's Edge"
     },
     "4043012": {
         "title": "Balloon Impact 3rd",
-        "desc": "Break the special Mr. Stone balloon in \"A Child's Dream.\""
+        "desc": "Break the special Boss Stone balloon in A Child's Dream"
     },
     "4043013": {
         "title": "Penacony: Balloon Rail",
-        "desc": "Break the special Mr. Stone balloon in The Reverie (Dreamscape)"
+        "desc": "Break the special Boss Stone balloon in The Reverie (Dreamscape)"
     },
     "4043014": {
         "title": "I'm a Grown-up!",
@@ -2680,7 +2680,7 @@
         "desc": "Collect <unbreak>#1[i]</unbreak> readable items in Penacony"
     },
     "4033001": {
-        "title": "Do you remember me?",
+        "title": "Do You Remember Me?",
         "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n<color=#8790abff>※ Encounter Acheron in a strange dreamland.</color>"
     },
     "4033002": {
@@ -2752,7 +2752,7 @@
         "desc": "Pepeshi? Or mimic?\\n<color=#8790abff>※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.</color>"
     },
     "4053029": {
-        "title": "The Planet Of Festivities and Six Alfalfa Credits",
+        "title": "The Planet of Festivities and Six Alfalfa Credits",
         "desc": "Which is more important? Love, or dream?\\n<color=#8790abff>※ Discover the story of a family torn apart by the dreams of its members.</color>"
     },
     "4053030": {
@@ -2781,7 +2781,7 @@
     },
     "4053034": {
         "title": "On the Path of Voracity...",
-        "desc": "Consume the Cone Dancer in Vitali"
+        "desc": "Consume Vitali's Cone Dancer"
     },
     "4053035": {
         "title": "Into the Rabbit Hole",
@@ -2862,5 +2862,185 @@
     "4053053": {
         "title": "Oti's Economics",
         "desc": "If everyone gets money, then no one gets money\\n<color=#8790abff>※ Repeatedly trigger the cash-spewer on the streets</color>"
+    },
+    "4033007": {
+        "title": "Sibyl, What Do You Want?",
+        "desc": "Where will good fortune lead gamblers?\\n<color=#8790abff>※ Witness the life of Kakavasha</color>"
+    },
+    "4033009": {
+        "title": "A Drop of the Hard Stuff",
+        "desc": "Cheers to sweet dreams and the dreamer!\\n<color=#8790abff>※ Obtain Gallagher's special mix</color>"
+    },
+    "4033010": {
+        "title": "She Replied, I Want to Die.",
+        "desc": "Sit in the best seat and watch the grand finale\\n<color=#8790abff>※ Defeat \"Ten Stonehearts\" Aventurine</color>"
+    },
+    "4033011": {
+        "title": "To Icarus",
+        "desc": "Relive the past in a faraway land\\n<color=#8790abff>※ Listen to Acheron and Welt's conversation</color>"
+    },
+    "4043022": {
+        "title": "Home Alone",
+        "desc": "Defeat 3 of Boss Stone's minions at once in a Hanu's Adventure stage"
+    },
+    "4043023": {
+        "title": "Anti-Balloon",
+        "desc": "Break the special Boss Stone balloon in Clock Studios Theme Park"
+    },
+    "4043024": {
+        "title": "Saga of the Dreamhaven Tumult",
+        "desc": "Break the special Boss Stone balloon in Dewlight Pavilion"
+    },
+    "4043025": {
+        "title": "Safety Car",
+        "desc": "Complete the shoot without any damage in any mode in Clockie's Extras"
+    },
+    "4043026": {
+        "title": "Non-Racing Line",
+        "desc": "Stay in the middle lane continuously for #1 second(s) in any mode in Clockie's Extras"
+    },
+    "4043027": {
+        "title": "Pole to Win",
+        "desc": "Reach maximum energy again within the duration of Nutty Blitz or Hanu Time in any mode of Clockie's Extras"
+    },
+    "4043028": {
+        "title": "Biggest DRS Beneficiary",
+        "desc": "Perform Turbo Dash <unbreak>#1[i]</unbreak> times in a row without mistakes or interruption in Clockie's Extras: Fast & Furynuts"
+    },
+    "4043029": {
+        "title": "Slow Road to Hell",
+        "desc": "Defeat all enemies that appeared in Clockie's Extras: Way of the Wolf"
+    },
+    "4043030": {
+        "title": "A Dreamy Town, Oak Paradise!",
+        "desc": "Enter the miniature sandpit in Dewlight Pavilion for the first time"
+    },
+    "4043031": {
+        "title": "Dreamweaving Industrialization",
+        "desc": "Complete the Dreamwalker Challenge at the Dewlight Pavilion for some extra income"
+    },
+    "4043032": {
+        "title": "To Get Blood Out of a Stone",
+        "desc": "Transform into Hanu and use Hanu Rocket to defeat Boss Stone's minions for the first time"
+    },
+    "4043033": {
+        "title": "Living With a Wolf",
+        "desc": "Collect the complete <i>Hanu's Adventure (Part 2)</i> collection"
+    },
+    "4043034": {
+        "title": "Maximum Firepower",
+        "desc": "Obtain the maximum ammo limit of Hanu Rocket in Hanu's Adventure"
+    },
+    "4043035": {
+        "title": "Secret Party",
+        "desc": "Discover Clock Studios Theme Park's hidden area via Bubble Pinball"
+    },
+    "4053054": {
+        "title": "Attendance Rate, Zero",
+        "desc": "Make Radiant Speedster lose its fans"
+    },
+    "4053055": {
+        "title": "Birds Art Life: A Year of Observation",
+        "desc": "Become a master bird observer at Dewlight Pavilion"
+    },
+    "4053056": {
+        "title": "For Great Goods",
+        "desc": "Obtain all #1 Clockie merchandise"
+    },
+    "4053057": {
+        "title": "The Cabin in the Woods",
+        "desc": "Witness the bizarre experience of the five at a certain place in Clock Studios Theme Park"
+    },
+    "4053058": {
+        "title": "Proofs And Refutations",
+        "desc": "Purchase a certain good from a food truck owner at a high price during a conversation"
+    },
+    "4053059": {
+        "title": "A Variation Named \"I\"",
+        "desc": "Meet a \"detective\" with peculiar physical attributes in Clock Studios Theme Park"
+    },
+    "4053060": {
+        "title": "The Lady in Gold",
+        "desc": "Investigate the portrait of a certain famous performer at Dewlight Pavilion"
+    },
+    "4053061": {
+        "title": "Lord of War",
+        "desc": "Bring Oksana to justice"
+    },
+    "4053062": {
+        "title": "Better Late Than Never",
+        "desc": "Expose Oksana to the Bloodhounds"
+    },
+    "4053063": {
+        "title": "Dishonored Legacy",
+        "desc": "Let Oksana go"
+    },
+    "4053064": {
+        "title": "Big Shot!",
+        "desc": "Leave your special mix at the Dreamjolt Hostelry"
+    },
+    "4053065": {
+        "title": "Make Your Dream a Blast",
+        "desc": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles"
+    },
+    "4053066": {
+        "title": "To Each Their Own Drink",
+        "desc": "Serve the correct drinks to the customers #1 times"
+    },
+    "4053067": {
+        "title": "Omakase",
+        "desc": "Serve the wrong drinks to the customers #1 times"
+    },
+    "4053068": {
+        "title": "Operation Dreampunk Drinksmith",
+        "desc": "Complete all Dreamjolt Hostelry recipe deductions"
+    },
+    "4073011": {
+        "title": "Boxcars",
+        "desc": "In the battle against Ten Stonehearts: Aventurine of Stratagems, cause at least #1 \"All or Nothings\" to simultaneously roll a #2 with a single attack"
+    },
+    "4073012": {
+        "title": "All My People, All My People...",
+        "desc": "In the battle against Ten Stonehearts: Aventurine of Stratagems, have #1 characters in the team win in the same round of Gamble"
+    },
+    "4073013": {
+        "title": "Lady Snowblood",
+        "desc": "In a single battle, using Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle"
+    },
+    "4073014": {
+        "title": "Blind Stealing",
+        "desc": "In a single battle, when Blind Bet is at #1 point(s), use Aventurine's Ultimate \"Roulette Shark\" to obtain #2 Blind Bet point(s)"
+    },
+    "4073015": {
+        "title": "Purging Heatiness",
+        "desc": "Clear the full stacks of Obscure Blaze on the Memory Zone Meme \"Shell of Faded Rage\" during a Weakness Break"
+    },
+    "4073016": {
+        "title": "Fight Fire With Fire",
+        "desc": "In a single battle, defeat Memory Zone Meme \"Shell of Faded Rage\" without causing Weakness Break"
+    },
+    "4073017": {
+        "title": "Performance Evaluation",
+        "desc": "Use ally Aventurine to fight Senior Staff: Team Leader and deal the finishing blow"
+    },
+    "4083009": {
+        "title": "Divine Judgment Does Not Discriminate",
+        "desc": "During exploration, use Acheron's Technique \"Quadrivalent Ascendance\" to defeat #1 enemies consecutively"
+    },
+    "4083010": {
+        "title": "Why Is the Origami Bird So Huge?",
+        "desc": "Yank out the Origami Big Bird at Dewlight Pavilion"
+    },
+    "4053070": {
+        "title": "Family Portrait",
+        "desc": "Take a family photo of the Express Crew at the photo board in Clock Studios Theme Park"
+    },
+    "4053071": {
+        "title": "\"Clock\" In",
+        "desc": "Take a group photo at the photo board in Clock Studios Theme Park"
+    },
+    "4043036": {
+        "title": "<i>Pac-Man</i>",
+        "desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden"
     }
 }
