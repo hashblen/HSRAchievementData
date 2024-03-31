@@ -1,0 +1,3077 @@
+{
+    "1": {
+        "WorldName": "Herta Space Station",
+        "Series": {
+            "38": {
+                "Title": "Herta Asset Damage Evaluation List",
+                "Books": {
+                    "1": {
+                        "id": "190147",
+                        "title": "Herta Asset Damage Evaluation List"
+                    }
+                }
+            },
+            "39": {
+                "Title": "Cosmos Public Service Award",
+                "Books": {
+                    "1": {
+                        "id": "190148",
+                        "title": "Cosmos Public Service Award"
+                    }
+                }
+            },
+            "41": {
+                "Title": "Letter From the Comet Hunter",
+                "Books": {
+                    "1": {
+                        "id": "190150",
+                        "title": "Letter From the Comet Hunter (I)"
+                    },
+                    "2": {
+                        "id": "190151",
+                        "title": "Letter From the Comet Hunter (II)"
+                    },
+                    "3": {
+                        "id": "190152",
+                        "title": "Letter From the Comet Hunter (III)"
+                    }
+                }
+            },
+            "42": {
+                "Title": "Comet Hunter's Treasure",
+                "Books": {
+                    "1": {
+                        "id": "190153",
+                        "title": "Comet Hunter's Treasure (I)"
+                    },
+                    "2": {
+                        "id": "190154",
+                        "title": "Comet Hunter's Treasure (II)"
+                    },
+                    "3": {
+                        "id": "190155",
+                        "title": "Comet Hunter's Treasure (III)"
+                    },
+                    "4": {
+                        "id": "190156",
+                        "title": "Comet Hunter's Treasure (IV)"
+                    }
+                }
+            },
+            "43": {
+                "Title": "Kapo-Kali Secret Recipe",
+                "Books": {
+                    "1": {
+                        "id": "190157",
+                        "title": "Kapo-Kali Secret Recipe"
+                    }
+                }
+            },
+            "44": {
+                "Title": "Species of the Galaxy: Wubbaboo",
+                "Books": {
+                    "1": {
+                        "id": "190158",
+                        "title": "Species of the Galaxy: Wubbaboo"
+                    }
+                }
+            },
+            "45": {
+                "Title": "Xin-41 Homeward Cloud Messaging",
+                "Books": {
+                    "1": {
+                        "id": "190159",
+                        "title": "Xin-41 Homeward Cloud Messaging"
+                    }
+                }
+            },
+            "48": {
+                "Title": "Researcher Eikura Shuu's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190160",
+                        "title": "Researcher Eikura Shuu's Diary"
+                    }
+                }
+            },
+            "49": {
+                "Title": "Observation on Wubbaboo Behavior",
+                "Books": {
+                    "1": {
+                        "id": "190161",
+                        "title": "Observation on Wubbaboo Behavior"
+                    }
+                }
+            },
+            "50": {
+                "Title": "Fragments of Herta Research Atlas Volume 7: Traffic",
+                "Books": {
+                    "1": {
+                        "id": "190162",
+                        "title": "Fragments of Herta Research Atlas Volume 7: Traffic"
+                    }
+                }
+            },
+            "55": {
+                "Title": "Bye, Herta",
+                "Books": {
+                    "1": {
+                        "id": "190166",
+                        "title": "Bye, Herta"
+                    }
+                }
+            },
+            "56": {
+                "Title": "Letter From Locus Silentii",
+                "Books": {
+                    "1": {
+                        "id": "190167",
+                        "title": "Letter From Locus Silentii"
+                    }
+                }
+            },
+            "57": {
+                "Title": "Herta's Manuscripts",
+                "Books": {
+                    "3": {
+                        "id": "190168",
+                        "title": "Intelligentsia Guild"
+                    },
+                    "4": {
+                        "id": "190169",
+                        "title": "Interastral Peace Corporation"
+                    },
+                    "1": {
+                        "id": "190170",
+                        "title": "Preface"
+                    },
+                    "2": {
+                        "id": "190171",
+                        "title": "Genius Society"
+                    }
+                }
+            },
+            "61": {
+                "Title": "Space Station Love Poems",
+                "Books": {
+                    "1": {
+                        "id": "190172",
+                        "title": "Space Station Love Poems (I)"
+                    },
+                    "2": {
+                        "id": "190173",
+                        "title": "Space Station Love Poems (II)"
+                    },
+                    "3": {
+                        "id": "190174",
+                        "title": "Space Station Love Poems (III)"
+                    }
+                }
+            },
+            "77": {
+                "Title": "Sheila's Character Script",
+                "Books": {
+                    "1": {
+                        "id": "190201",
+                        "title": "Sheila's Character Script"
+                    }
+                }
+            },
+            "78": {
+                "Title": "Confession Letter",
+                "Books": {
+                    "1": {
+                        "id": "190202",
+                        "title": "Confession Letter"
+                    }
+                }
+            },
+            "82": {
+                "Title": "Asta's Letters From Home",
+                "Books": {
+                    "1": {
+                        "id": "190206",
+                        "title": "Asta's Letters From Home"
+                    }
+                }
+            },
+            "83": {
+                "Title": "Asta's Shopping List",
+                "Books": {
+                    "1": {
+                        "id": "190207",
+                        "title": "Asta's Shopping List"
+                    }
+                }
+            },
+            "84": {
+                "Title": "Asta and Business Elite Correspondence Records",
+                "Books": {
+                    "1": {
+                        "id": "190208",
+                        "title": "Asta and Business Elite Correspondence Records"
+                    }
+                }
+            },
+            "130": {
+                "Title": "Asta's Equipment Purchase Contract",
+                "Books": {
+                    "1": {
+                        "id": "190276",
+                        "title": "Asta's Equipment Purchase Contract"
+                    }
+                }
+            },
+            "131": {
+                "Title": "\"Home-Use Object Finder\" After-Sales Feedback Form",
+                "Books": {
+                    "1": {
+                        "id": "190277",
+                        "title": "\"Home-Use Object Finder\" After-Sales Feedback Form"
+                    }
+                }
+            },
+            "132": {
+                "Title": "Species of the Galaxy: Tottonid",
+                "Books": {
+                    "1": {
+                        "id": "190278",
+                        "title": "Species of the Galaxy: Tottonid"
+                    }
+                }
+            },
+            "133": {
+                "Title": "(Recording) A Fool's Play: Calamity's Wrath Seeks Olden Clash, Fool's Blade Rends Divine Flesh",
+                "Books": {
+                    "1": {
+                        "id": "190279",
+                        "title": "(Recording) A Fool's Play: Calamity's Wrath Seeks Olden Clash, Fool's Blade Rends Divine Flesh"
+                    }
+                }
+            },
+            "134": {
+                "Title": "The Well-Kept Secret of the Maintenance Department",
+                "Books": {
+                    "1": {
+                        "id": "190280",
+                        "title": "The Well-Kept Secret of the Maintenance Department"
+                    }
+                }
+            },
+            "135": {
+                "Title": "Notification for Physical Examinations",
+                "Books": {
+                    "1": {
+                        "id": "190281",
+                        "title": "Notification for Physical Examinations"
+                    }
+                }
+            },
+            "136": {
+                "Title": "Space Station Introductory Guide",
+                "Books": {
+                    "1": {
+                        "id": "190282",
+                        "title": "Space Station Introductory Guide"
+                    }
+                }
+            },
+            "137": {
+                "Title": "Herta Collection Room Code of Conduct",
+                "Books": {
+                    "1": {
+                        "id": "190283",
+                        "title": "Herta Collection Room Code of Conduct"
+                    }
+                }
+            },
+            "138": {
+                "Title": "Research Report: Tottonid Crystals",
+                "Books": {
+                    "1": {
+                        "id": "190284",
+                        "title": "Research Report: Tottonid Crystals"
+                    }
+                }
+            },
+            "139": {
+                "Title": "An Incomplete Automatic Transcript",
+                "Books": {
+                    "1": {
+                        "id": "190285",
+                        "title": "An Incomplete Automatic Transcript"
+                    }
+                }
+            },
+            "140": {
+                "Title": "Attack Records of the Obstacle Detection Terminal",
+                "Books": {
+                    "1": {
+                        "id": "190286",
+                        "title": "Attack Records of the Obstacle Detection Terminal"
+                    }
+                }
+            },
+            "141": {
+                "Title": "Researchers' Memo Notes",
+                "Books": {
+                    "1": {
+                        "id": "190287",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190288",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190289",
+                        "title": "Part III"
+                    },
+                    "4": {
+                        "id": "190290",
+                        "title": "Part IV"
+                    },
+                    "5": {
+                        "id": "190291",
+                        "title": "Part V"
+                    },
+                    "6": {
+                        "id": "190292",
+                        "title": "Part VI"
+                    }
+                }
+            },
+            "142": {
+                "Title": "Feedback Form for the Space Station Staff Cafeteria",
+                "Books": {
+                    "1": {
+                        "id": "190293",
+                        "title": "Feedback Form for the Space Station Staff Cafeteria"
+                    }
+                }
+            },
+            "143": {
+                "Title": "Fragment of a Weekly Report by a Department of Ecology Researcher",
+                "Books": {
+                    "1": {
+                        "id": "190294",
+                        "title": "Fragment of a Weekly Report by a Department of Ecology Researcher"
+                    }
+                }
+            },
+            "144": {
+                "Title": "Chat History Between Researchers",
+                "Books": {
+                    "1": {
+                        "id": "190295",
+                        "title": "Chat History Between Researchers"
+                    }
+                }
+            },
+            "145": {
+                "Title": "Tottonids Are Rocks",
+                "Books": {
+                    "1": {
+                        "id": "190296",
+                        "title": "Tottonids Are Rocks"
+                    }
+                }
+            },
+            "147": {
+                "Title": "The Curlcademy Guidelines",
+                "Books": {
+                    "1": {
+                        "id": "190300",
+                        "title": "The Curlcademy Guidelines"
+                    }
+                }
+            },
+            "148": {
+                "Title": "Update Notes for Master Capote's Life Wiki Version 12.0",
+                "Books": {
+                    "1": {
+                        "id": "190301",
+                        "title": "Update Notes for Master Capote's Life Wiki Version 12.0"
+                    }
+                }
+            },
+            "149": {
+                "Title": "Arlan's Work Log",
+                "Books": {
+                    "1": {
+                        "id": "190302",
+                        "title": "Arlan's Work Log"
+                    }
+                }
+            },
+            "171": {
+                "Title": "Adler's Research Report on Ghost Stories",
+                "Books": {
+                    "1": {
+                        "id": "190367",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190368",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190369",
+                        "title": "Part III"
+                    }
+                }
+            },
+            "174": {
+                "Title": "Curio Management Log",
+                "Books": {
+                    "1": {
+                        "id": "190372",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190373",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190374",
+                        "title": "Part III"
+                    }
+                }
+            },
+            "280": {
+                "Title": "Face of Fourteen Illusions",
+                "Books": {
+                    "1": {
+                        "id": "190530",
+                        "title": "Face of Fourteen Illusions"
+                    }
+                }
+            },
+            "282": {
+                "Title": "Genius Society: Research Results",
+                "Books": {
+                    "1": {
+                        "id": "190532",
+                        "title": "Genius Society: Research Results"
+                    }
+                }
+            },
+            "283": {
+                "Title": "Remnants of Ruan Mei's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190533",
+                        "title": "Remnants of Ruan Mei's Diary"
+                    }
+                }
+            },
+            "284": {
+                "Title": "Ruan Mei's Lab Log",
+                "Books": {
+                    "1": {
+                        "id": "190534",
+                        "title": "Ruan Mei's Lab Log"
+                    }
+                }
+            },
+            "285": {
+                "Title": "Department of Ecology's Plant Cultivation Program",
+                "Books": {
+                    "1": {
+                        "id": "190535",
+                        "title": "Department of Ecology's Plant Cultivation Program"
+                    }
+                }
+            },
+            "286": {
+                "Title": "Warning!!!",
+                "Books": {
+                    "1": {
+                        "id": "190536",
+                        "title": "Warning!!!"
+                    }
+                }
+            },
+            "287": {
+                "Title": "Extracts of Comprehensive Snack Recipe",
+                "Books": {
+                    "1": {
+                        "id": "190537",
+                        "title": "Extracts of Comprehensive Snack Recipe"
+                    }
+                }
+            },
+            "288": {
+                "Title": "The Nature of Emotion — A Physiological Analysis",
+                "Books": {
+                    "1": {
+                        "id": "190538",
+                        "title": "The Nature of Emotion — A Physiological Analysis"
+                    }
+                }
+            },
+            "289": {
+                "Title": "Dr. Ratio's Note",
+                "Books": {
+                    "1": {
+                        "id": "190539",
+                        "title": "(I)"
+                    },
+                    "2": {
+                        "id": "190540",
+                        "title": "(II)"
+                    },
+                    "3": {
+                        "id": "190541",
+                        "title": "(III)"
+                    },
+                    "4": {
+                        "id": "190542",
+                        "title": "(IV)"
+                    }
+                }
+            }
+        }
+    },
+    "2": {
+        "WorldName": "Jarilo-VI",
+        "Series": {
+            "1": {
+                "Title": "Floriography Manual Attached to a Bouquet",
+                "Books": {
+                    "1": {
+                        "id": "190101",
+                        "title": "Floriography Manual Attached to a Bouquet"
+                    }
+                }
+            },
+            "2": {
+                "Title": "Remnants of a Barista's Handbook",
+                "Books": {
+                    "1": {
+                        "id": "190102",
+                        "title": "Remnants of a Barista's Handbook"
+                    }
+                }
+            },
+            "3": {
+                "Title": "Miner's Safety Manual",
+                "Books": {
+                    "1": {
+                        "id": "190103",
+                        "title": "Miner's Safety Manual"
+                    }
+                }
+            },
+            "4": {
+                "Title": "Solwarm Festival Celebration Plans",
+                "Books": {
+                    "1": {
+                        "id": "190104",
+                        "title": "Solwarm Festival Celebration Plans"
+                    }
+                }
+            },
+            "5": {
+                "Title": "Mining Equipment Order List",
+                "Books": {
+                    "1": {
+                        "id": "190105",
+                        "title": "Mining Equipment Order List"
+                    }
+                }
+            },
+            "6": {
+                "Title": "Tempering Workshop: A Fresh Start!",
+                "Books": {
+                    "1": {
+                        "id": "190106",
+                        "title": "Tempering Workshop: A Fresh Start!"
+                    }
+                }
+            },
+            "7": {
+                "Title": "Notice Under Bridge",
+                "Books": {
+                    "1": {
+                        "id": "190107",
+                        "title": "Notice Under Bridge"
+                    }
+                }
+            },
+            "8": {
+                "Title": "Family Secret: Spicy Puffy Mushrooms",
+                "Books": {
+                    "1": {
+                        "id": "190108",
+                        "title": "Family Secret: Spicy Puffy Mushrooms"
+                    }
+                }
+            },
+            "9": {
+                "Title": "Great Mine Shift Board",
+                "Books": {
+                    "1": {
+                        "id": "190109",
+                        "title": "Great Mine Shift Board"
+                    }
+                }
+            },
+            "10": {
+                "Title": "Miners Weekly",
+                "Books": {
+                    "1": {
+                        "id": "190110",
+                        "title": "Issue 205"
+                    },
+                    "2": {
+                        "id": "190212",
+                        "title": "Issue 192"
+                    },
+                    "3": {
+                        "id": "190213",
+                        "title": "Issue 158"
+                    }
+                }
+            },
+            "11": {
+                "Title": "Stardust Rose Program",
+                "Books": {
+                    "1": {
+                        "id": "190111",
+                        "title": "Page 1"
+                    },
+                    "2": {
+                        "id": "190112",
+                        "title": "Page 2"
+                    },
+                    "3": {
+                        "id": "190113",
+                        "title": "Page 3"
+                    }
+                }
+            },
+            "12": {
+                "Title": "Citizen Alexandra Program",
+                "Books": {
+                    "1": {
+                        "id": "190114",
+                        "title": "Page 1"
+                    },
+                    "2": {
+                        "id": "190115",
+                        "title": "Page 2"
+                    },
+                    "3": {
+                        "id": "190116",
+                        "title": "Page 3"
+                    }
+                }
+            },
+            "13": {
+                "Title": "Wildfire Flier",
+                "Books": {
+                    "1": {
+                        "id": "190117",
+                        "title": "Wildfire Flier"
+                    }
+                }
+            },
+            "14": {
+                "Title": "Miners' Ultimatum",
+                "Books": {
+                    "1": {
+                        "id": "190118",
+                        "title": "Miners' Ultimatum"
+                    }
+                }
+            },
+            "15": {
+                "Title": "Great Mine Code of Conduct",
+                "Books": {
+                    "1": {
+                        "id": "190119",
+                        "title": "Great Mine Code of Conduct"
+                    }
+                }
+            },
+            "16": {
+                "Title": "Customer Notice From Balaway the Miner's Lamp",
+                "Books": {
+                    "1": {
+                        "id": "190120",
+                        "title": "Customer Notice From Balaway the Miner's Lamp"
+                    }
+                }
+            },
+            "17": {
+                "Title": "Ice Storm Causes",
+                "Books": {
+                    "1": {
+                        "id": "190121",
+                        "title": "Ice Storm Causes"
+                    }
+                }
+            },
+            "18": {
+                "Title": "Jarilo: God of Spring and War",
+                "Books": {
+                    "1": {
+                        "id": "190122",
+                        "title": "Mythological Tales"
+                    },
+                    "2": {
+                        "id": "190123",
+                        "title": "Explanation"
+                    }
+                }
+            },
+            "19": {
+                "Title": "Message For New Repairers",
+                "Books": {
+                    "1": {
+                        "id": "190124",
+                        "title": "Message For New Repairers"
+                    }
+                }
+            },
+            "20": {
+                "Title": "Interview of Daily Life Before the Solwarm Festival",
+                "Books": {
+                    "1": {
+                        "id": "190125",
+                        "title": "Interview on Daily Life Before the Solwarm Festival"
+                    }
+                }
+            },
+            "21": {
+                "Title": "Fashion Brand \"Suburbia\"",
+                "Books": {
+                    "1": {
+                        "id": "190126",
+                        "title": "Fashion Brand \"Suburbia\""
+                    }
+                }
+            },
+            "22": {
+                "Title": "Mine Poison Antidote Inhalant Manual",
+                "Books": {
+                    "1": {
+                        "id": "190127",
+                        "title": "Mine Poison Antidote Inhalant Manual"
+                    }
+                }
+            },
+            "23": {
+                "Title": "Diary of a Civilian Scientist",
+                "Books": {
+                    "1": {
+                        "id": "190128",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190129",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190130",
+                        "title": "Part III"
+                    },
+                    "4": {
+                        "id": "190131",
+                        "title": "Part IV"
+                    }
+                }
+            },
+            "24": {
+                "Title": "A Letter Pieced Together",
+                "Books": {
+                    "1": {
+                        "id": "190132",
+                        "title": "A Letter Pieced Together"
+                    }
+                }
+            },
+            "25": {
+                "Title": "Snapper Jam Appetizer",
+                "Books": {
+                    "1": {
+                        "id": "190133",
+                        "title": "Snapper Jam Appetizer"
+                    }
+                }
+            },
+            "26": {
+                "Title": "The Traveler Who Survived the Blizzard",
+                "Books": {
+                    "1": {
+                        "id": "190134",
+                        "title": "The Traveler Who Survived the Blizzard"
+                    }
+                }
+            },
+            "27": {
+                "Title": "Salmon Bread",
+                "Books": {
+                    "1": {
+                        "id": "190135",
+                        "title": "Salmon Bread"
+                    }
+                }
+            },
+            "28": {
+                "Title": "Oratorio \"Supreme Guardian\" Premiere Spectacular",
+                "Books": {
+                    "1": {
+                        "id": "190136",
+                        "title": "Oratorio \"Supreme Guardian\" Premiere Spectacular"
+                    }
+                }
+            },
+            "29": {
+                "Title": "Rye Bread Soda Iceberg",
+                "Books": {
+                    "1": {
+                        "id": "190137",
+                        "title": "Rye Bread Soda Iceberg"
+                    }
+                }
+            },
+            "30": {
+                "Title": "Bellerain Petroleum Jelly",
+                "Books": {
+                    "1": {
+                        "id": "190138",
+                        "title": "Bellerain Petroleum Jelly"
+                    }
+                }
+            },
+            "31": {
+                "Title": "Dreamland Analysis",
+                "Books": {
+                    "1": {
+                        "id": "190139",
+                        "title": "Dreamland Analysis"
+                    }
+                }
+            },
+            "32": {
+                "Title": "Time Change Notice For Oratorio Rehearsal",
+                "Books": {
+                    "1": {
+                        "id": "190140",
+                        "title": "Time Change Notice For Oratorio Rehearsal"
+                    }
+                }
+            },
+            "33": {
+                "Title": "Belobog Sausage",
+                "Books": {
+                    "1": {
+                        "id": "190141",
+                        "title": "Belobog Sausage"
+                    }
+                }
+            },
+            "34": {
+                "Title": "A Child's Letter",
+                "Books": {
+                    "1": {
+                        "id": "190142",
+                        "title": "A Child's Letter"
+                    }
+                }
+            },
+            "35": {
+                "Title": "Underground Encyclopedia: Plants and Fungi",
+                "Books": {
+                    "1": {
+                        "id": "190143",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190144",
+                        "title": "Part II"
+                    }
+                }
+            },
+            "36": {
+                "Title": "Recipe: Crystal Lizard Satay",
+                "Books": {
+                    "1": {
+                        "id": "190145",
+                        "title": "Recipe: Crystal Lizard Satay"
+                    }
+                }
+            },
+            "37": {
+                "Title": "The Seven Wonders of Belobog",
+                "Books": {
+                    "1": {
+                        "id": "190146",
+                        "title": "The Seven Wonders of Belobog"
+                    }
+                }
+            },
+            "52": {
+                "Title": "The Adventurous Moles: Hidden Treasure",
+                "Books": {
+                    "1": {
+                        "id": "190901",
+                        "title": "Table of Contents"
+                    },
+                    "2": {
+                        "id": "190902",
+                        "title": "Preface"
+                    },
+                    "3": {
+                        "id": "190903",
+                        "title": "The Unexpected Parchment"
+                    },
+                    "4": {
+                        "id": "190904",
+                        "title": "The Missing Miner's Lamp"
+                    },
+                    "5": {
+                        "id": "190905",
+                        "title": "\"The Crates Are the Keys\""
+                    },
+                    "6": {
+                        "id": "190906",
+                        "title": "Treasure Hunt on the Battlefield"
+                    },
+                    "7": {
+                        "id": "190907",
+                        "title": "Postface"
+                    }
+                }
+            },
+            "65": {
+                "Title": "Tale of the Winterlands",
+                "Books": {
+                    "1": {
+                        "id": "190178",
+                        "title": "Chapter 1: Far From Home (I)"
+                    },
+                    "2": {
+                        "id": "190179",
+                        "title": "Chapter 2: Frozen City (I)"
+                    },
+                    "3": {
+                        "id": "190180",
+                        "title": "Chapter 2: Frozen City (II)"
+                    },
+                    "4": {
+                        "id": "190181",
+                        "title": "Chapter 2: Frozen City (III)"
+                    },
+                    "5": {
+                        "id": "190182",
+                        "title": "Chapter 4: Spring Pasture (I)"
+                    },
+                    "6": {
+                        "id": "190183",
+                        "title": "Chapter 5: Water Prison (I)"
+                    },
+                    "7": {
+                        "id": "190184",
+                        "title": "Chapter 6: Lava Kingdom (I)"
+                    },
+                    "8": {
+                        "id": "190185",
+                        "title": "Chapter 6: Lava Kingdom (II)"
+                    },
+                    "9": {
+                        "id": "190186",
+                        "title": "Final Chapter - Satelleden (I)"
+                    }
+                }
+            },
+            "66": {
+                "Title": "Letter attached to a package",
+                "Books": {
+                    "1": {
+                        "id": "190187",
+                        "title": "Letter Attached to a Package"
+                    }
+                }
+            },
+            "67": {
+                "Title": "Pet Diary: Sesame",
+                "Books": {
+                    "1": {
+                        "id": "190188",
+                        "title": "Pet Diary: Sesame"
+                    }
+                }
+            },
+            "68": {
+                "Title": "Underground Encyclopedia: Animals",
+                "Books": {
+                    "1": {
+                        "id": "190189",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190190",
+                        "title": "Part II"
+                    }
+                }
+            },
+            "69": {
+                "Title": "Miner's Lamp Ancient Relic Appraisal Record",
+                "Books": {
+                    "1": {
+                        "id": "190191",
+                        "title": "Semicircular Electrode Collar"
+                    },
+                    "2": {
+                        "id": "190192",
+                        "title": "Old World Building Blocks"
+                    }
+                }
+            },
+            "70": {
+                "Title": "Miner's Medical Certificate",
+                "Books": {
+                    "1": {
+                        "id": "190193",
+                        "title": "Miner's Medical Certificate"
+                    }
+                }
+            },
+            "71": {
+                "Title": "Maddon Tunnel Is Collapsing",
+                "Books": {
+                    "1": {
+                        "id": "190194",
+                        "title": "Maddon Tunnel Is Collapsing"
+                    }
+                }
+            },
+            "75": {
+                "Title": "Vache's Letter",
+                "Books": {
+                    "1": {
+                        "id": "190198",
+                        "title": "Vache's Letter"
+                    }
+                }
+            },
+            "76": {
+                "Title": "Blizzard Immunity Lab Records",
+                "Books": {
+                    "1": {
+                        "id": "190199",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190200",
+                        "title": "Part II"
+                    }
+                }
+            },
+            "86": {
+                "Title": "A Good Establishment Births Generations of Wealth",
+                "Books": {
+                    "1": {
+                        "id": "190210",
+                        "title": "A Good Establishment Births Generations of Wealth"
+                    }
+                }
+            },
+            "87": {
+                "Title": "Mining Equipment Purchase Order",
+                "Books": {
+                    "1": {
+                        "id": "190211",
+                        "title": "Mining Equipment Purchase Order"
+                    }
+                }
+            },
+            "89": {
+                "Title": "Request for Provisions",
+                "Books": {
+                    "1": {
+                        "id": "190214",
+                        "title": "Request for Provisions"
+                    }
+                }
+            },
+            "90": {
+                "Title": "Fragmented Diary",
+                "Books": {
+                    "1": {
+                        "id": "190215",
+                        "title": "Fragmented Diary"
+                    }
+                }
+            },
+            "91": {
+                "Title": "Notice: Additional Barricades on the Main Road of the Plaza",
+                "Books": {
+                    "1": {
+                        "id": "190216",
+                        "title": "Notice: Additional Barricades on the Main Road of the Plaza"
+                    }
+                }
+            },
+            "92": {
+                "Title": "Greasy Food Magazine",
+                "Books": {
+                    "1": {
+                        "id": "190217",
+                        "title": "Greasy Food Magazine"
+                    }
+                }
+            },
+            "93": {
+                "Title": "Venerable Guards Will Defend Us From Enemies!",
+                "Books": {
+                    "1": {
+                        "id": "190218",
+                        "title": "Venerable Guards Will Defend Us From Enemies!"
+                    }
+                }
+            },
+            "94": {
+                "Title": "Dreamchaser's Letter",
+                "Books": {
+                    "1": {
+                        "id": "190219",
+                        "title": "Dreamchaser's Letter"
+                    }
+                }
+            },
+            "95": {
+                "Title": "Opening of the New Tempering Workshop!",
+                "Books": {
+                    "1": {
+                        "id": "190220",
+                        "title": "Opening of the New Tempering Workshop!"
+                    }
+                }
+            },
+            "96": {
+                "Title": "Observation Diary of a \"Changed\" Child",
+                "Books": {
+                    "1": {
+                        "id": "190221",
+                        "title": "Observation Diary of a \"Changed\" Child"
+                    }
+                }
+            },
+            "97": {
+                "Title": "Military Machinery Routine Maintenance Record Form",
+                "Books": {
+                    "1": {
+                        "id": "190222",
+                        "title": "Military Machinery Routine Maintenance Record Form"
+                    }
+                }
+            },
+            "98": {
+                "Title": "Rap Battle Voting Channel Opens",
+                "Books": {
+                    "1": {
+                        "id": "190223",
+                        "title": "Rap Battle Voting Channel Opens"
+                    }
+                }
+            },
+            "99": {
+                "Title": "Will Bite, Do Not Approach!",
+                "Books": {
+                    "1": {
+                        "id": "190224",
+                        "title": "Will Bite, Do Not Approach!"
+                    }
+                }
+            },
+            "100": {
+                "Title": "Boxer Recruitment Form",
+                "Books": {
+                    "1": {
+                        "id": "190225",
+                        "title": "Boxer Recruitment Form"
+                    }
+                }
+            },
+            "101": {
+                "Title": "Musicians of Belobog",
+                "Books": {
+                    "1": {
+                        "id": "190226",
+                        "title": "Volume One"
+                    },
+                    "2": {
+                        "id": "190227",
+                        "title": "Volume Two"
+                    },
+                    "3": {
+                        "id": "190228",
+                        "title": "Volume Three"
+                    },
+                    "4": {
+                        "id": "190229",
+                        "title": "Volume Four"
+                    },
+                    "5": {
+                        "id": "190230",
+                        "title": "Volume Five"
+                    },
+                    "6": {
+                        "id": "190231",
+                        "title": "Volume Six"
+                    },
+                    "7": {
+                        "id": "190232",
+                        "title": "True Ending"
+                    }
+                }
+            },
+            "102": {
+                "Title": "Unsent Letter",
+                "Books": {
+                    "1": {
+                        "id": "190233",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190234",
+                        "title": "Part II"
+                    }
+                }
+            },
+            "103": {
+                "Title": "Goethe Hotel Tea Time Menu",
+                "Books": {
+                    "1": {
+                        "id": "190235",
+                        "title": "Goethe Hotel Tea Time Menu"
+                    }
+                }
+            },
+            "104": {
+                "Title": "Gathering Place Message Board",
+                "Books": {
+                    "1": {
+                        "id": "190236",
+                        "title": "Gathering Place Message Board"
+                    }
+                }
+            },
+            "105": {
+                "Title": "A Letter to All of Furnace Core Base",
+                "Books": {
+                    "1": {
+                        "id": "190237",
+                        "title": "A Letter to All of Furnace Core Base"
+                    }
+                }
+            },
+            "106": {
+                "Title": "Old Newspapers of Backwater Pass",
+                "Books": {
+                    "1": {
+                        "id": "190238",
+                        "title": "Supreme Guardian Tatiana Delivers an Important Speech"
+                    },
+                    "2": {
+                        "id": "190239",
+                        "title": "Brothers in Court, Goethe Mansion Sealed Temporarily"
+                    },
+                    "3": {
+                        "id": "190240",
+                        "title": "Direwolves Sightings, Supreme Guardian Enforces Curfew"
+                    }
+                }
+            },
+            "107": {
+                "Title": "Evening Ember at the Goethe Hotel",
+                "Books": {
+                    "1": {
+                        "id": "190241",
+                        "title": "Part I"
+                    }
+                }
+            },
+            "108": {
+                "Title": "Once Upon a Snowsieged Country Program",
+                "Books": {
+                    "1": {
+                        "id": "190242",
+                        "title": "Page One"
+                    },
+                    "2": {
+                        "id": "190243",
+                        "title": "Page Two"
+                    },
+                    "3": {
+                        "id": "190244",
+                        "title": "Page Three"
+                    }
+                }
+            },
+            "109": {
+                "Title": "Leisha and Mrs. Trude Program",
+                "Books": {
+                    "1": {
+                        "id": "190245",
+                        "title": "Page One"
+                    },
+                    "2": {
+                        "id": "190246",
+                        "title": "Page Two"
+                    },
+                    "3": {
+                        "id": "190247",
+                        "title": "Page Three"
+                    }
+                }
+            },
+            "110": {
+                "Title": "Roadside Picnic Program",
+                "Books": {
+                    "1": {
+                        "id": "190248",
+                        "title": "Page One"
+                    },
+                    "2": {
+                        "id": "190249",
+                        "title": "Page Two"
+                    },
+                    "3": {
+                        "id": "190250",
+                        "title": "Page Three"
+                    }
+                }
+            },
+            "111": {
+                "Title": "Beneath the White Cloak Program",
+                "Books": {
+                    "1": {
+                        "id": "190251",
+                        "title": "Page One"
+                    },
+                    "2": {
+                        "id": "190252",
+                        "title": "Page Two"
+                    },
+                    "3": {
+                        "id": "190253",
+                        "title": "Page Three"
+                    }
+                }
+            },
+            "120": {
+                "Title": "Clara Protection Society Is Seeking New Members!",
+                "Books": {
+                    "1": {
+                        "id": "190264",
+                        "title": "Clara Protection Society Is Seeking New Members!"
+                    }
+                }
+            },
+            "121": {
+                "Title": "Natasha's List",
+                "Books": {
+                    "1": {
+                        "id": "190265",
+                        "title": "Natasha's List"
+                    }
+                }
+            },
+            "122": {
+                "Title": "Densely Packed Schedule",
+                "Books": {
+                    "1": {
+                        "id": "190266",
+                        "title": "Densely Packed Schedule"
+                    }
+                }
+            },
+            "123": {
+                "Title": "Report on Recent Activities in the Silvermane Guard Restricted Zone and Related Suggestions",
+                "Books": {
+                    "1": {
+                        "id": "190267",
+                        "title": "Report on Recent Activities in the Silvermane Guard Restricted Zone and Related Suggestions"
+                    }
+                }
+            },
+            "124": {
+                "Title": "Crystal Daily's Sample Article for the Censorship Office",
+                "Books": {
+                    "1": {
+                        "id": "190268",
+                        "title": "Crystal Daily's Sample Article for the Censorship Office"
+                    }
+                }
+            },
+            "125": {
+                "Title": "Journey of the Moles — Belobog Ancient Poetry Collection",
+                "Books": {
+                    "1": {
+                        "id": "190269",
+                        "title": "Pilgrimage North of Snowfield"
+                    },
+                    "2": {
+                        "id": "190270",
+                        "title": "Dusk in Rivet Town"
+                    },
+                    "3": {
+                        "id": "190271",
+                        "title": "Chubby Larry"
+                    }
+                }
+            },
+            "126": {
+                "Title": "Belobog Academy's Mid-Term Exam Paper",
+                "Books": {
+                    "1": {
+                        "id": "190272",
+                        "title": "Belobog Academy's Mid-Term Exam Paper"
+                    }
+                }
+            },
+            "127": {
+                "Title": "Anti-Fraud Guide, Edited Version",
+                "Books": {
+                    "1": {
+                        "id": "190273",
+                        "title": "Anti-Fraud Guide, Edited Version"
+                    }
+                }
+            },
+            "128": {
+                "Title": "Looking for a Friend",
+                "Books": {
+                    "1": {
+                        "id": "190274",
+                        "title": "Looking for a Friend"
+                    }
+                }
+            },
+            "129": {
+                "Title": "Oath of the Silvermane Guards",
+                "Books": {
+                    "1": {
+                        "id": "190275",
+                        "title": "Oath of the Silvermane Guards"
+                    }
+                }
+            },
+            "146": {
+                "Title": "Pascal's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190297",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190298",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190299",
+                        "title": "Part III"
+                    }
+                }
+            },
+            "151": {
+                "Title": "A Call From The Fragmentum",
+                "Books": {
+                    "1": {
+                        "id": "190311",
+                        "title": "Clues From the Conversation"
+                    },
+                    "2": {
+                        "id": "190312",
+                        "title": "Incident Report Compiled by the Guards"
+                    }
+                }
+            },
+            "152": {
+                "Title": "Cyrille",
+                "Books": {
+                    "1": {
+                        "id": "190313",
+                        "title": "An Old Diary"
+                    },
+                    "2": {
+                        "id": "190314",
+                        "title": "An Old Letter"
+                    },
+                    "3": {
+                        "id": "190315",
+                        "title": "Cyrille the Fool"
+                    }
+                }
+            },
+            "172": {
+                "Title": "Belobog Chronicles: Before the Eternal Freeze",
+                "Books": {
+                    "1": {
+                        "id": "190370",
+                        "title": "Belobog Chronicles: Before the Eternal Freeze"
+                    }
+                }
+            },
+            "173": {
+                "Title": "Wanted Poster Gallery",
+                "Books": {
+                    "1": {
+                        "id": "190371",
+                        "title": "Wanted Poster Gallery"
+                    }
+                }
+            },
+            "250": {
+                "Title": "IPC Worker Loan Script",
+                "Books": {
+                    "1": {
+                        "id": "190499",
+                        "title": "IPC Worker Loan Script"
+                    }
+                }
+            },
+            "251": {
+                "Title": "Code of Conduct for Expatriate Employees: Jarilo-VI Edition",
+                "Books": {
+                    "1": {
+                        "id": "190500",
+                        "title": "Code of Conduct for Expatriate Employees: Jarilo-VI Edition"
+                    }
+                }
+            },
+            "252": {
+                "Title": "Engine of Creation Component Improvement Proposal",
+                "Books": {
+                    "1": {
+                        "id": "190501",
+                        "title": "Engine of Creation Component Improvement Proposal"
+                    }
+                }
+            },
+            "253": {
+                "Title": "Engine of Creation Improvement Plan Description",
+                "Books": {
+                    "1": {
+                        "id": "190502",
+                        "title": "Engine of Creation Improvement Plan Description"
+                    }
+                }
+            },
+            "255": {
+                "Title": "Miners Weekly Issue 226",
+                "Books": {
+                    "1": {
+                        "id": "190504",
+                        "title": "Miners Weekly Issue 226"
+                    }
+                }
+            },
+            "256": {
+                "Title": "Hook's Aetherium Wars Secrets",
+                "Books": {
+                    "1": {
+                        "id": "190505",
+                        "title": "Hook's Aetherium Wars Secrets"
+                    }
+                }
+            },
+            "258": {
+                "Title": "Furnace Ash Tabloid: Part 1",
+                "Books": {
+                    "1": {
+                        "id": "190507",
+                        "title": "Furnace Ash Tabloid: Part 1"
+                    }
+                }
+            },
+            "259": {
+                "Title": "IPC Travel Safety Manual",
+                "Books": {
+                    "1": {
+                        "id": "190508",
+                        "title": "IPC Travel Safety Manual"
+                    }
+                }
+            },
+            "260": {
+                "Title": "Mech Mayhem: Hot-Blooded Radiance",
+                "Books": {
+                    "1": {
+                        "id": "190509",
+                        "title": "Mech Mayhem: Hot-Blooded Radiance"
+                    }
+                }
+            },
+            "261": {
+                "Title": "Screwllum's Message",
+                "Books": {
+                    "1": {
+                        "id": "190510",
+                        "title": "Screwllum's Message"
+                    }
+                }
+            }
+        }
+    },
+    "3": {
+        "WorldName": "The Xianzhou Luofu",
+        "Series": {
+            "112": {
+                "Title": "An Evening Journey Through Exalting Sanctum",
+                "Books": {
+                    "1": {
+                        "id": "190254",
+                        "title": "An Evening Journey Through Exalting Sanctum"
+                    }
+                }
+            },
+            "114": {
+                "Title": "Starskiff Safety Inspection Guide",
+                "Books": {
+                    "1": {
+                        "id": "190256",
+                        "title": "Starskiff Safety Inspection Guide"
+                    }
+                }
+            },
+            "115": {
+                "Title": "Management Strategy for Reporting Starskiff Traffic",
+                "Books": {
+                    "1": {
+                        "id": "190257",
+                        "title": "Management Strategy for Reporting Starskiff Traffic"
+                    }
+                }
+            },
+            "116": {
+                "Title": "The startaro bubble tea tastes horrible.",
+                "Books": {
+                    "1": {
+                        "id": "190258",
+                        "title": "The startaro bubble tea tastes horrible."
+                    }
+                }
+            },
+            "117": {
+                "Title": "Back to the Future",
+                "Books": {
+                    "1": {
+                        "id": "190259",
+                        "title": "Back to the Future"
+                    }
+                }
+            },
+            "118": {
+                "Title": "A Drizzle Douses Dust",
+                "Books": {
+                    "1": {
+                        "id": "190260",
+                        "title": "A Drizzle Douses Dust"
+                    }
+                }
+            },
+            "119": {
+                "Title": "100 Common Xianzhou Proverbs for Outworlders",
+                "Books": {
+                    "1": {
+                        "id": "190261",
+                        "title": "On Travel: Arriving at the Xianzhou"
+                    },
+                    "2": {
+                        "id": "190262",
+                        "title": "On Travel: Presenting Gifts"
+                    },
+                    "3": {
+                        "id": "190263",
+                        "title": "On Work: Life in the Workplace"
+                    }
+                }
+            },
+            "153": {
+                "Title": "An Unsuitable Job for A Puppet",
+                "Books": {
+                    "1": {
+                        "id": "190316",
+                        "title": "Part 1"
+                    },
+                    "2": {
+                        "id": "190317",
+                        "title": "Part 2"
+                    },
+                    "3": {
+                        "id": "190318",
+                        "title": "Part 3"
+                    }
+                }
+            },
+            "154": {
+                "Title": "Protecting Starskiff Haven",
+                "Books": {
+                    "1": {
+                        "id": "190319",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190320",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190321",
+                        "title": "Part III"
+                    }
+                }
+            },
+            "155": {
+                "Title": "Travelogue on Xianzhou",
+                "Books": {
+                    "1": {
+                        "id": "190322",
+                        "title": "Delves"
+                    },
+                    "2": {
+                        "id": "190323",
+                        "title": "Starskiff"
+                    },
+                    "3": {
+                        "id": "190325",
+                        "title": "Realm-Keeping Commission"
+                    },
+                    "4": {
+                        "id": "190327",
+                        "title": "Artisanship Commission"
+                    },
+                    "5": {
+                        "id": "190330",
+                        "title": "Jade Abacus"
+                    },
+                    "6": {
+                        "id": "190387",
+                        "title": "Long-life Species I"
+                    },
+                    "7": {
+                        "id": "190445",
+                        "title": "Long-Life Species, Part 2"
+                    }
+                }
+            },
+            "156": {
+                "Title": "Cloud Knights Against the Borisin",
+                "Books": {
+                    "1": {
+                        "id": "190331",
+                        "title": "Cloud Knights Against the Borisin"
+                    }
+                }
+            },
+            "158": {
+                "Title": "Amnesic Meditation Therapy: A Guide to A Long, Healthy Life!",
+                "Books": {
+                    "1": {
+                        "id": "190339",
+                        "title": "Amnesic Meditation Therapy: A Guide to A Long, Healthy Life!"
+                    }
+                }
+            },
+            "159": {
+                "Title": "Codex of Apocrypha",
+                "Books": {
+                    "1": {
+                        "id": "190340",
+                        "title": "Beasts: Yellow Boulder"
+                    },
+                    "2": {
+                        "id": "190341",
+                        "title": "Beasts: Tuskpir"
+                    },
+                    "3": {
+                        "id": "190342",
+                        "title": "Beasts: Gentle Halcyon"
+                    },
+                    "4": {
+                        "id": "190343",
+                        "title": "Beasts: Downy Antler"
+                    }
+                }
+            },
+            "160": {
+                "Title": "Annotations from \"Ode to Reignbow Path\"",
+                "Books": {
+                    "1": {
+                        "id": "190344",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190345",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190346",
+                        "title": "Part III"
+                    },
+                    "4": {
+                        "id": "190347",
+                        "title": "Part IV"
+                    },
+                    "5": {
+                        "id": "190348",
+                        "title": "Part V"
+                    }
+                }
+            },
+            "168": {
+                "Title": "The Angler Mystery",
+                "Books": {
+                    "1": {
+                        "id": "190356",
+                        "title": "Case 1: Stricken with Mara"
+                    }
+                }
+            },
+            "169": {
+                "Title": "Disciples of Sanctus Medicus: Collection of Exhibits",
+                "Books": {
+                    "1": {
+                        "id": "190357",
+                        "title": "Undelivered Letter"
+                    },
+                    "2": {
+                        "id": "190358",
+                        "title": "Emergency Instructions"
+                    },
+                    "3": {
+                        "id": "190359",
+                        "title": "Disciples' Diary"
+                    },
+                    "4": {
+                        "id": "190360",
+                        "title": "Target: Jing Yuan"
+                    },
+                    "5": {
+                        "id": "190361",
+                        "title": "Disciples of Sanctus Medicus: Secret Order"
+                    },
+                    "6": {
+                        "id": "190362",
+                        "title": "Semblance Reversion Essence"
+                    },
+                    "7": {
+                        "id": "190388",
+                        "title": "Thousand-Handed Merciful Medicus' Salvation"
+                    },
+                    "8": {
+                        "id": "190389",
+                        "title": "Prescription: Draught of Draconic Surge"
+                    },
+                    "9": {
+                        "id": "190433",
+                        "title": "Pharmacological Studies on the Draught of Draconic Surge"
+                    }
+                }
+            },
+            "170": {
+                "Title": "General's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190363",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190364",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190365",
+                        "title": "Part III"
+                    }
+                }
+            },
+            "175": {
+                "Title": "Butterfly Shadow's Special Issue: The Ten Best Butterfly Immersias of the Millennium",
+                "Books": {
+                    "1": {
+                        "id": "190375",
+                        "title": "No. 10: Robe Brethren"
+                    },
+                    "2": {
+                        "id": "190376",
+                        "title": "No. 9: The Old Verdant Home"
+                    },
+                    "3": {
+                        "id": "190377",
+                        "title": "No. 8: Kaib Mongb Kib"
+                    },
+                    "4": {
+                        "id": "190378",
+                        "title": "No. 7: Lolling Grass"
+                    },
+                    "5": {
+                        "id": "190379",
+                        "title": "No. 6: Life on a Plate"
+                    },
+                    "6": {
+                        "id": "190380",
+                        "title": "No. 5: Deep Water"
+                    },
+                    "7": {
+                        "id": "190381",
+                        "title": "No. 4: Starskiff Pilot"
+                    },
+                    "8": {
+                        "id": "190382",
+                        "title": "No. 3: Last Night on the Luofu"
+                    },
+                    "9": {
+                        "id": "190383",
+                        "title": "No. 2: Reignbow Arbiter"
+                    },
+                    "10": {
+                        "id": "190384",
+                        "title": "No. 1: The Bridge to Grandma's Home"
+                    }
+                }
+            },
+            "177": {
+                "Title": "The Luofu Sky-Faring Commission Guilds List",
+                "Books": {
+                    "1": {
+                        "id": "190386",
+                        "title": "The Luofu Sky-Faring Commission Guilds List"
+                    }
+                }
+            },
+            "178": {
+                "Title": "Tiger Boxing Gym Admissions Ad",
+                "Books": {
+                    "1": {
+                        "id": "190390",
+                        "title": "Tiger Boxing Gym Admissions Ad"
+                    }
+                }
+            },
+            "179": {
+                "Title": "Advocate legal and reasonable care for animals, strictly prohibit illegal wildlife trades for \"releases\"",
+                "Books": {
+                    "1": {
+                        "id": "190391",
+                        "title": "Advocate legal and reasonable care for animals, strictly prohibit illegal wildlife trades for \"releases\""
+                    }
+                }
+            },
+            "180": {
+                "Title": "History of the Xianzhou: Errata",
+                "Books": {
+                    "1": {
+                        "id": "190392",
+                        "title": "History of the Xianzhou: Three Sufferings — Fragmented Vol. 1"
+                    },
+                    "2": {
+                        "id": "190393",
+                        "title": "History of the Xianzhou: Three Sufferings — Fragmented Vol. 2"
+                    },
+                    "3": {
+                        "id": "190394",
+                        "title": "Summary of the Chronicles of the Sky-Faring Commission: 3287 Star Calendar — Vol. 3"
+                    },
+                    "4": {
+                        "id": "190395",
+                        "title": "Xianzhou Alliance Declaration: A Preface (Digital Rubbing)"
+                    }
+                }
+            },
+            "184": {
+                "Title": "Cloudcry Songbook",
+                "Books": {
+                    "1": {
+                        "id": "190399",
+                        "title": "Cloudcry Songbook"
+                    }
+                }
+            },
+            "186": {
+                "Title": "A Study into the Mara-Struck",
+                "Books": {
+                    "1": {
+                        "id": "190401",
+                        "title": "(Preface)"
+                    },
+                    "2": {
+                        "id": "190402",
+                        "title": "(I)"
+                    }
+                }
+            },
+            "187": {
+                "Title": "Surveillance Report from the Xianzhou Yuque",
+                "Books": {
+                    "1": {
+                        "id": "190403",
+                        "title": "Surveillance Report from the Xianzhou Yuque"
+                    }
+                }
+            },
+            "188": {
+                "Title": "List of Archenemies",
+                "Books": {
+                    "1": {
+                        "id": "190404",
+                        "title": "Ruin Scroll: Lord Ravager"
+                    },
+                    "2": {
+                        "id": "190405",
+                        "title": "Abomination Scroll: The Borisin"
+                    },
+                    "3": {
+                        "id": "190420",
+                        "title": "Abomination Scroll: Heliobi"
+                    },
+                    "4": {
+                        "id": "190421",
+                        "title": "Abomination Scroll: Wingweavers"
+                    }
+                }
+            },
+            "189": {
+                "Title": "Dahao's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190406",
+                        "title": "(I)"
+                    },
+                    "2": {
+                        "id": "190407",
+                        "title": "(II)"
+                    }
+                }
+            },
+            "190": {
+                "Title": "Record of Reignbow's Road",
+                "Books": {
+                    "1": {
+                        "id": "190408",
+                        "title": "Record of Reignbow's Road"
+                    }
+                }
+            },
+            "191": {
+                "Title": "Divination Report",
+                "Books": {
+                    "1": {
+                        "id": "190409",
+                        "title": "Divination Report"
+                    }
+                }
+            },
+            "192": {
+                "Title": "Glimpses into the Beyond",
+                "Books": {
+                    "1": {
+                        "id": "190410",
+                        "title": "\"Inquiry Into The Gods: An Introduction\""
+                    },
+                    "2": {
+                        "id": "190411",
+                        "title": "\"Inquiry Into The Gods: The Arbiters\""
+                    },
+                    "3": {
+                        "id": "190412",
+                        "title": "\"Inquiry Into The Gods: The Sacrosancts\""
+                    },
+                    "4": {
+                        "id": "190413",
+                        "title": "\"Inquiry Into The Gods: The Authors of Calamity\""
+                    }
+                }
+            },
+            "193": {
+                "Title": "Records of Yellowbell Resonance",
+                "Books": {
+                    "1": {
+                        "id": "190414",
+                        "title": "Records of Yellowbell Resonance"
+                    }
+                }
+            },
+            "196": {
+                "Title": "Records of the Early Nation (Fragment)",
+                "Books": {
+                    "1": {
+                        "id": "190417",
+                        "title": "Records of the Early Nation (Fragment)"
+                    }
+                }
+            },
+            "199": {
+                "Title": "An Appeal from the Vidyadhara",
+                "Books": {
+                    "1": {
+                        "id": "190422",
+                        "title": "(I)"
+                    },
+                    "2": {
+                        "id": "190423",
+                        "title": "(II)"
+                    }
+                }
+            },
+            "203": {
+                "Title": "A Martial Arts Novel That Stopped Updating 300 Years Ago",
+                "Books": {
+                    "1": {
+                        "id": "190427",
+                        "title": "A Martial Arts Novel That Stopped Updating 300 Years Ago"
+                    }
+                }
+            },
+            "206": {
+                "Title": "A Collection of Intelligence on the Xianzhou Luofu",
+                "Books": {
+                    "1": {
+                        "id": "190430",
+                        "title": "A Collection of Intelligence on the Xianzhou Luofu"
+                    }
+                }
+            },
+            "207": {
+                "Title": "Dan Shu's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190432",
+                        "title": "(II)"
+                    }
+                }
+            },
+            "208": {
+                "Title": "Overview of Xianzhou's Materia Medica",
+                "Books": {
+                    "1": {
+                        "id": "190434",
+                        "title": "The Medical Research Collection"
+                    },
+                    "2": {
+                        "id": "190435",
+                        "title": "The Nutritional Sciences"
+                    },
+                    "3": {
+                        "id": "190436",
+                        "title": "The Unorthodox Collection"
+                    },
+                    "4": {
+                        "id": "190437",
+                        "title": "The Heretical Collection"
+                    }
+                }
+            },
+            "209": {
+                "Title": "Compendium of Remedies",
+                "Books": {
+                    "1": {
+                        "id": "190438",
+                        "title": "(Part I)"
+                    },
+                    "2": {
+                        "id": "190439",
+                        "title": "(Part II)"
+                    }
+                }
+            },
+            "210": {
+                "Title": "Official Announcement on the Origins of the Disciples of Sanctus Medicus",
+                "Books": {
+                    "1": {
+                        "id": "190440",
+                        "title": "Official Announcement on the Origins of the Disciples of Sanctus Medicus"
+                    }
+                }
+            },
+            "211": {
+                "Title": "An Exchange Diary Between Pilots",
+                "Books": {
+                    "1": {
+                        "id": "190441",
+                        "title": "Yukong's Exchange Diary"
+                    },
+                    "2": {
+                        "id": "190442",
+                        "title": "Caiyi's Exchange Diary"
+                    }
+                }
+            },
+            "213": {
+                "Title": "A Page From the Alchemy Commission's Official Gazette",
+                "Books": {
+                    "1": {
+                        "id": "190444",
+                        "title": "A Page From the Alchemy Commission's Official Gazette"
+                    }
+                }
+            },
+            "214": {
+                "Title": "Selected Classic Case Studies",
+                "Books": {
+                    "1": {
+                        "id": "190446",
+                        "title": "Selected Classic Case Studies"
+                    }
+                }
+            },
+            "215": {
+                "Title": "Undestroyed Letter",
+                "Books": {
+                    "1": {
+                        "id": "190447",
+                        "title": "Undestroyed Letter"
+                    }
+                }
+            },
+            "216": {
+                "Title": "Undestroyed Notes",
+                "Books": {
+                    "1": {
+                        "id": "190448",
+                        "title": "Undestroyed Notes"
+                    }
+                }
+            },
+            "217": {
+                "Title": "Report: A Rare Plant Specimen",
+                "Books": {
+                    "1": {
+                        "id": "190449",
+                        "title": "Report: A Rare Plant Specimen"
+                    }
+                }
+            },
+            "219": {
+                "Title": "Zhongshan's Letter",
+                "Books": {
+                    "1": {
+                        "id": "190451",
+                        "title": "Zhongshan's Letter"
+                    }
+                }
+            },
+            "225": {
+                "Title": "Verdict: The Great Rebellion of Imbibitor Lunae",
+                "Books": {
+                    "1": {
+                        "id": "190457",
+                        "title": "Verdict: The Great Rebellion of Imbibitor Lunae"
+                    }
+                }
+            },
+            "226": {
+                "Title": "Cold Foods, Heliobi, and Injustice: A Study of the Custom of the Fire Taboo Festival",
+                "Books": {
+                    "1": {
+                        "id": "190458",
+                        "title": "Cold Foods, Heliobi, and Injustice: A Study of the Custom of the Fire Taboo Festival"
+                    }
+                }
+            },
+            "227": {
+                "Title": "The Account of Preceptor Sutuan Crafting a Statue of the High Elder",
+                "Books": {
+                    "1": {
+                        "id": "190459",
+                        "title": "The Account of Preceptor Sutuan Crafting a Statue of the High Elder"
+                    }
+                }
+            },
+            "228": {
+                "Title": "Artisan Congyan's Stone Engraving",
+                "Books": {
+                    "1": {
+                        "id": "190460",
+                        "title": "Artisan Congyan's Stone Engraving"
+                    }
+                }
+            },
+            "229": {
+                "Title": "The Pearlkeeper's Communication Stele",
+                "Books": {
+                    "1": {
+                        "id": "190461",
+                        "title": "The Pearlkeeper's Communication Stele"
+                    }
+                }
+            },
+            "230": {
+                "Title": "Shredded Notes of Scholar Bernini",
+                "Books": {
+                    "1": {
+                        "id": "190462",
+                        "title": "Shredded Notes of Scholar Bernini"
+                    }
+                }
+            },
+            "231": {
+                "Title": "Vidyadhara Elegy: Insight on \"Six Charioteers Adjudicating the Imbibitor Lunae\"",
+                "Books": {
+                    "1": {
+                        "id": "190463",
+                        "title": "Vidyadhara Elegy: Insight on \"Six Charioteers Adjudicating the Imbibitor Lunae\""
+                    }
+                }
+            },
+            "232": {
+                "Title": "A Vidyadhara Youth's Notes",
+                "Books": {
+                    "1": {
+                        "id": "190464",
+                        "title": "A Vidyadhara Youth's Notes"
+                    }
+                }
+            },
+            "233": {
+                "Title": "Preceptor Assembly Chronicle Fragment",
+                "Books": {
+                    "1": {
+                        "id": "190465",
+                        "title": "Preceptor Assembly Chronicle Fragment"
+                    }
+                }
+            },
+            "234": {
+                "Title": "Investigation of Ancient Pattern Rubbings from the Luofu",
+                "Books": {
+                    "1": {
+                        "id": "190466",
+                        "title": "Ethereal Shipcraft"
+                    },
+                    "2": {
+                        "id": "190467",
+                        "title": "Lone Voyage Era"
+                    },
+                    "3": {
+                        "id": "190468",
+                        "title": "Ambrosial Arbor's Arrival"
+                    },
+                    "4": {
+                        "id": "190469",
+                        "title": "Living and Flaming Catastrophes"
+                    },
+                    "5": {
+                        "id": "190470",
+                        "title": "A Shot From the Sky"
+                    },
+                    "6": {
+                        "id": "190471",
+                        "title": "Mara and Null"
+                    },
+                    "7": {
+                        "id": "190472",
+                        "title": "Divine Root Subdual"
+                    },
+                    "8": {
+                        "id": "190473",
+                        "title": "High-Cloud Quintet"
+                    }
+                }
+            },
+            "235": {
+                "Title": "A Letter to Scholar Cleo",
+                "Books": {
+                    "1": {
+                        "id": "190474",
+                        "title": "A Letter to Scholar Cleo"
+                    }
+                }
+            },
+            "236": {
+                "Title": "Observational Monument on the Roots of the Arbor",
+                "Books": {
+                    "1": {
+                        "id": "190475",
+                        "title": "Observational Monument of the Roots of the Arbor"
+                    }
+                }
+            },
+            "237": {
+                "Title": "Views of the Universe from a Starskiff: The Xianzhou Zhuming",
+                "Books": {
+                    "1": {
+                        "id": "190476",
+                        "title": "(I)"
+                    },
+                    "2": {
+                        "id": "190477",
+                        "title": "(II)"
+                    },
+                    "3": {
+                        "id": "190478",
+                        "title": "(III)"
+                    }
+                }
+            },
+            "238": {
+                "Title": "Star-Picking Tours: Aurum Alley Travel Guide",
+                "Books": {
+                    "1": {
+                        "id": "190479",
+                        "title": "Star-Picking Tours: Aurum Alley Travel Guide"
+                    }
+                }
+            },
+            "239": {
+                "Title": "Spices Supreme's Perfect Reviews",
+                "Books": {
+                    "1": {
+                        "id": "190480",
+                        "title": "Spices Supreme's Perfect Reviews"
+                    }
+                }
+            },
+            "240": {
+                "Title": "Majima's Labor Contract",
+                "Books": {
+                    "1": {
+                        "id": "190481",
+                        "title": "Majima's Labor Contract"
+                    }
+                }
+            },
+            "241": {
+                "Title": "Black Market Dealer Investigative Notes",
+                "Books": {
+                    "1": {
+                        "id": "190482",
+                        "title": "Black Market Dealer Investigative Notes"
+                    }
+                }
+            },
+            "242": {
+                "Title": "Guinaifen's script for videos regarding visiting restaurants",
+                "Books": {
+                    "1": {
+                        "id": "190483",
+                        "title": "Guinaifen's food vlog script"
+                    }
+                }
+            },
+            "243": {
+                "Title": "Xianzhou Alliance Travel Guide",
+                "Books": {
+                    "1": {
+                        "id": "190484",
+                        "title": "The Fanghu"
+                    },
+                    "2": {
+                        "id": "190485",
+                        "title": "The Yaoqing"
+                    }
+                }
+            },
+            "244": {
+                "Title": "Letter from Fu Xuan to Scholar Yaakob",
+                "Books": {
+                    "1": {
+                        "id": "190486",
+                        "title": "Letter from Fu Xuan to Scholar Yaakob"
+                    }
+                }
+            },
+            "245": {
+                "Title": "An Overview of the Faith Crises in the Xianzhou Alliance",
+                "Books": {
+                    "1": {
+                        "id": "190487",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190488",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190489",
+                        "title": "Part III"
+                    },
+                    "4": {
+                        "id": "190490",
+                        "title": "Part IV"
+                    }
+                }
+            },
+            "246": {
+                "Title": "Memorial to the Illustrious Officials Xiao and Hong",
+                "Books": {
+                    "1": {
+                        "id": "190491",
+                        "title": "Memorial to the Illustrious Officials Xiao and Hong"
+                    }
+                }
+            },
+            "265": {
+                "Title": "Heliobus Purging Manual",
+                "Books": {
+                    "1": {
+                        "id": "190514",
+                        "title": "Heliobus Purging Manual"
+                    }
+                }
+            },
+            "268": {
+                "Title": "Summary of the Luofu's Ambrosial Arbor Crisis",
+                "Books": {
+                    "1": {
+                        "id": "190518",
+                        "title": "Summary of the Luofu's Ambrosial Arbor Crisis"
+                    }
+                }
+            },
+            "269": {
+                "Title": "Foxian Drum Chanting Lament of the Six Follies",
+                "Books": {
+                    "1": {
+                        "id": "190519",
+                        "title": "Foxian Drum Chanting Lament of the Six Follies"
+                    }
+                }
+            },
+            "270": {
+                "Title": "Otherworldly Delights",
+                "Books": {
+                    "1": {
+                        "id": "190520",
+                        "title": "Preamble"
+                    }
+                }
+            },
+            "271": {
+                "Title": "Borisin Folk Song Collection",
+                "Books": {
+                    "1": {
+                        "id": "190521",
+                        "title": "Part I"
+                    }
+                }
+            },
+            "272": {
+                "Title": "Exalting Sanctum Chancery Report to the General Affairs Office",
+                "Books": {
+                    "1": {
+                        "id": "190522",
+                        "title": "Exalting Sanctum Chancery Report to the General Affairs Office"
+                    }
+                }
+            },
+            "273": {
+                "Title": "Sanctus Medicus Devils Criminal Evidence Records",
+                "Books": {
+                    "1": {
+                        "id": "190523",
+                        "title": "Sanctus Medicus Devils Criminal Evidence Records"
+                    }
+                }
+            },
+            "274": {
+                "Title": "Ten Unpardonable Sins Detailed Breakdown",
+                "Books": {
+                    "1": {
+                        "id": "190524",
+                        "title": "Ten Unpardonable Sins Detailed Breakdown"
+                    }
+                }
+            },
+            "275": {
+                "Title": "Ten-Lords Commission Criminal Directory",
+                "Books": {
+                    "1": {
+                        "id": "190525",
+                        "title": "Ten-Lords Commission Criminal Directory"
+                    }
+                }
+            },
+            "276": {
+                "Title": "Transcript of Ten-Lords Commission Interrogation With the Wingweaver Xili",
+                "Books": {
+                    "1": {
+                        "id": "190526",
+                        "title": "Transcript of Ten-Lords Commission Interrogation With the Wingweaver Xili"
+                    }
+                }
+            },
+            "277": {
+                "Title": "The Angler Mystery Anniversary Special Edition Review",
+                "Books": {
+                    "1": {
+                        "id": "190527",
+                        "title": "The Angler Mystery Anniversary Special Edition Review"
+                    }
+                }
+            },
+            "278": {
+                "Title": "List of Ten-Lords Commission Criminals Transferral by Cloud Knights",
+                "Books": {
+                    "1": {
+                        "id": "190528",
+                        "title": "List of Ten-Lords Commission Criminals Transferral by Cloud Knights"
+                    }
+                }
+            },
+            "279": {
+                "Title": "Correspondence From Realm-Keeping Commissioner",
+                "Books": {
+                    "1": {
+                        "id": "190529",
+                        "title": "Correspondence From Realm-Keeping Commissioner"
+                    }
+                }
+            }
+        }
+    },
+    "4": {
+        "WorldName": "Penacony",
+        "Series": {
+            "290": {
+                "Title": "Welcome to ■■■■",
+                "Books": {
+                    "1": {
+                        "id": "190543",
+                        "title": "Welcome to ■■■■"
+                    }
+                }
+            },
+            "291": {
+                "Title": "Giovanna's Work Diary",
+                "Books": {
+                    "1": {
+                        "id": "190544",
+                        "title": "Giovanna's Work Diary"
+                    }
+                }
+            },
+            "292": {
+                "Title": "Louis's Art Critiques",
+                "Books": {
+                    "1": {
+                        "id": "190545",
+                        "title": "Night of the Majestic Cosmos: The Dawn of Dreams & Freedom"
+                    },
+                    "2": {
+                        "id": "190546",
+                        "title": "Coastline: Metamorphosis & Rebirth"
+                    },
+                    "3": {
+                        "id": "190547",
+                        "title": "Paradise on Earth: When Dreamscape Overlooks Reality"
+                    }
+                }
+            },
+            "293": {
+                "Title": "Dreamscape Nursery Rhyme: The Family of Seven",
+                "Books": {
+                    "1": {
+                        "id": "190548",
+                        "title": "Dreamscape Nursery Rhyme: The Family of Seven"
+                    }
+                }
+            },
+            "294": {
+                "Title": "Nickodeum Cinemas Special Feature: Night of Fright",
+                "Books": {
+                    "1": {
+                        "id": "190549",
+                        "title": "Nickodeum Cinemas Special Feature: Night of Fright"
+                    }
+                }
+            },
+            "295": {
+                "Title": "SoulGlad Cyclopedia",
+                "Books": {
+                    "1": {
+                        "id": "190550",
+                        "title": "SoulGlad Cyclopedia"
+                    }
+                }
+            },
+            "301": {
+                "Title": "Hanu's Adventure",
+                "Books": {
+                    "1": {
+                        "id": "190556",
+                        "title": "Preface"
+                    },
+                    "2": {
+                        "id": "190557",
+                        "title": "Part 1, Chapter 1"
+                    },
+                    "3": {
+                        "id": "190558",
+                        "title": "Part 1, Chapter 2"
+                    },
+                    "4": {
+                        "id": "190559",
+                        "title": "Part 1, Chapter 3"
+                    },
+                    "5": {
+                        "id": "190560",
+                        "title": "Part 1, Chapter 4"
+                    },
+                    "6": {
+                        "id": "190619",
+                        "title": "Part 2 Chapter 1"
+                    },
+                    "7": {
+                        "id": "190620",
+                        "title": "Part 2 Chapter 2"
+                    },
+                    "8": {
+                        "id": "190621",
+                        "title": "Part 2 Chapter 3"
+                    },
+                    "9": {
+                        "id": "190622",
+                        "title": "Part 2 Chapter 4"
+                    }
+                }
+            },
+            "302": {
+                "Title": "The Planet Of Canticles' Final Song: Song of Beauty Concert",
+                "Books": {
+                    "1": {
+                        "id": "190561",
+                        "title": "The Planet Of Canticles' Final Song: Song of Beauty Concert"
+                    }
+                }
+            },
+            "303": {
+                "Title": "Silver Screen Shockwave Issue 280",
+                "Books": {
+                    "1": {
+                        "id": "190562",
+                        "title": "Silver Screen Shockwave Issue 280"
+                    }
+                }
+            },
+            "304": {
+                "Title": "Memory Zone Meme Victim List Snippet",
+                "Books": {
+                    "1": {
+                        "id": "190563",
+                        "title": "Memory Zone Meme Victim List Snippet"
+                    }
+                }
+            },
+            "306": {
+                "Title": "Night of Bruce Promotional Flyer",
+                "Books": {
+                    "1": {
+                        "id": "190565",
+                        "title": "Night of Bruce Promotional Flyer"
+                    }
+                }
+            },
+            "307": {
+                "Title": "Cosmic Star's Story",
+                "Books": {
+                    "1": {
+                        "id": "190566",
+                        "title": "Clippings From Fans"
+                    },
+                    "2": {
+                        "id": "190567",
+                        "title": "Lesley Dean's Rebirth Project"
+                    }
+                }
+            },
+            "308": {
+                "Title": "Research On Capsule Machine No. ■",
+                "Books": {
+                    "1": {
+                        "id": "190568",
+                        "title": "Research On Capsule Machine No. ■"
+                    }
+                }
+            },
+            "309": {
+                "Title": "Press Releases",
+                "Books": {
+                    "1": {
+                        "id": "190569",
+                        "title": "Press Releases"
+                    }
+                }
+            },
+            "310": {
+                "Title": "Dreamscape Tourist Compendium — Transport",
+                "Books": {
+                    "1": {
+                        "id": "190570",
+                        "title": "Dreamscape Tourist Compendium — Transport"
+                    }
+                }
+            },
+            "311": {
+                "Title": "Dreamscape Tourist Compendium — Shopping",
+                "Books": {
+                    "1": {
+                        "id": "190571",
+                        "title": "Dreamscape Tourist Compendium — Shopping"
+                    }
+                }
+            },
+            "312": {
+                "Title": "Dreamscape Tourist Compendium — Entertainment",
+                "Books": {
+                    "1": {
+                        "id": "190572",
+                        "title": "Dreamscape Tourist Compendium — Entertainment"
+                    }
+                }
+            },
+            "313": {
+                "Title": "Planet of Festivities Collectible Card",
+                "Books": {
+                    "1": {
+                        "id": "190573",
+                        "title": "Planet of Festivities: Robin"
+                    },
+                    "2": {
+                        "id": "190576",
+                        "title": "Planet of Festivities: Oti Alfalfa"
+                    },
+                    "5": {
+                        "id": "190577",
+                        "title": "Planet of Festivities: Hamz"
+                    },
+                    "3": {
+                        "id": "190578",
+                        "title": "Planet of Festivities: Mr. Aideen"
+                    },
+                    "4": {
+                        "id": "190580",
+                        "title": "Planet of Festivities: Lesley Dean"
+                    },
+                    "6": {
+                        "id": "190586",
+                        "title": "Planet of Festivities: Maeven Ellis"
+                    },
+                    "7": {
+                        "id": "190587",
+                        "title": "Planet of Festivities: Gopher Wood"
+                    }
+                }
+            },
+            "315": {
+                "Title": "Attendant Hamilton's Notes",
+                "Books": {
+                    "1": {
+                        "id": "190582",
+                        "title": "Part I"
+                    },
+                    "2": {
+                        "id": "190583",
+                        "title": "Part II"
+                    },
+                    "3": {
+                        "id": "190584",
+                        "title": "Part III"
+                    },
+                    "4": {
+                        "id": "190585",
+                        "title": "Part IV"
+                    }
+                }
+            },
+            "321": {
+                "Title": "Summary of Clock Studios Financial Report",
+                "Books": {
+                    "1": {
+                        "id": "190593",
+                        "title": "Summary of Clock Studios Financial Report"
+                    }
+                }
+            },
+            "322": {
+                "Title": "Maker's Diary about Mecha Town",
+                "Books": {
+                    "1": {
+                        "id": "190594",
+                        "title": "Maker's Diary about Mecha Town"
+                    }
+                }
+            },
+            "323": {
+                "Title": "Clockie and Mirror Princess",
+                "Books": {
+                    "1": {
+                        "id": "190595",
+                        "title": "Part 1"
+                    },
+                    "2": {
+                        "id": "190596",
+                        "title": "Part 2"
+                    }
+                }
+            },
+            "324": {
+                "Title": "Watchmaker Investigation Record",
+                "Books": {
+                    "1": {
+                        "id": "190597",
+                        "title": "Watchmaker Investigation Record"
+                    }
+                }
+            },
+            "325": {
+                "Title": "A Hymn of Charmonic Strings",
+                "Books": {
+                    "1": {
+                        "id": "190598",
+                        "title": "A Hymn of Charmonic Strings"
+                    }
+                }
+            },
+            "326": {
+                "Title": "Odes of Harmony",
+                "Books": {
+                    "1": {
+                        "id": "190599",
+                        "title": "I"
+                    }
+                }
+            },
+            "327": {
+                "Title": "Comments on Scorchsand Adventure",
+                "Books": {
+                    "1": {
+                        "id": "190603",
+                        "title": "Comments on Scorchsand Adventure"
+                    }
+                }
+            },
+            "328": {
+                "Title": "A Letter of Complaint",
+                "Books": {
+                    "1": {
+                        "id": "190604",
+                        "title": "A Letter of Complaint"
+                    }
+                }
+            },
+            "329": {
+                "Title": "My Romantic Encounters",
+                "Books": {
+                    "1": {
+                        "id": "190605",
+                        "title": "My Romantic Encounters"
+                    }
+                }
+            },
+            "330": {
+                "Title": "A Letter to Dreamscape Motivators",
+                "Books": {
+                    "1": {
+                        "id": "190606",
+                        "title": "A Letter to Dreamscape Motivators"
+                    }
+                }
+            },
+            "331": {
+                "Title": "Project: Scarab",
+                "Books": {
+                    "1": {
+                        "id": "190608",
+                        "title": "Project: Scarab"
+                    }
+                }
+            },
+            "332": {
+                "Title": "A Scrawled Note",
+                "Books": {
+                    "1": {
+                        "id": "190609",
+                        "title": "A Scrawled Note"
+                    }
+                }
+            },
+            "333": {
+                "Title": "A Handwritten Letter",
+                "Books": {
+                    "1": {
+                        "id": "190610",
+                        "title": "A Handwritten Letter"
+                    }
+                }
+            },
+            "334": {
+                "Title": "Supernatural Encounters in Paperfold Academy",
+                "Books": {
+                    "1": {
+                        "id": "190611",
+                        "title": "Supernatural Encounters in Paperfold Academy"
+                    }
+                }
+            },
+            "335": {
+                "Title": "An Unsent Letter",
+                "Books": {
+                    "1": {
+                        "id": "190612",
+                        "title": "An Unsent Letter"
+                    }
+                }
+            },
+            "336": {
+                "Title": "Claudia's Gathered Clues",
+                "Books": {
+                    "1": {
+                        "id": "190613",
+                        "title": "Claudia's Gathered Clues"
+                    }
+                }
+            },
+            "337": {
+                "Title": "A Letter of Diffidation",
+                "Books": {
+                    "1": {
+                        "id": "190614",
+                        "title": "A Letter of Diffidation"
+                    }
+                }
+            },
+            "338": {
+                "Title": "Classified: Major Incidents in Dreamscape",
+                "Books": {
+                    "1": {
+                        "id": "190615",
+                        "title": "Classified: Major Incidents in Dreamscape"
+                    }
+                }
+            },
+            "339": {
+                "Title": "Excerpts from Dreamscape Crime Files",
+                "Books": {
+                    "1": {
+                        "id": "190616",
+                        "title": "Excerpts from Dreamscape Crime Files"
+                    }
+                }
+            },
+            "340": {
+                "Title": "Quinn's Diary",
+                "Books": {
+                    "1": {
+                        "id": "190617",
+                        "title": "Quinn's Diary"
+                    }
+                }
+            },
+            "341": {
+                "Title": "Alfalfa Bank Insurance Package Information Booklet",
+                "Books": {
+                    "1": {
+                        "id": "190618",
+                        "title": "Alfalfa Bank Insurance Package Information Booklet"
+                    }
+                }
+            }
+        }
+    }
+}
