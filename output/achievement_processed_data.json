@@ -1697,7 +1697,7 @@
     },
     "4092638": {
         "title": "Nuke Them From Orbit",
-        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty V"
+        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty 5"
     },
     "4092639": {
         "title": "Plague Across Eons",
@@ -1857,7 +1857,7 @@
     },
     "4072609": {
         "title": "Full Metal Racket",
-        "desc": "Enter a battle by attacking a distant enemy with Natasha during exploration"
+        "desc": "Enter a battle by attacking a distant enemy or destroy a destructible object at a distance with Natasha during exploration"
     },
     "4072610": {
         "title": "Dragon Trifecta",
@@ -2429,7 +2429,7 @@
     },
     "4092929": {
         "title": "XK-Class Scenario",
-        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V"
+        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty 5"
     },
     "4092930": {
         "title": "Mechanical Ascension",
@@ -2461,7 +2461,7 @@
     },
     "4092937": {
         "title": "Gloomy Blues",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have #1[i] blue Dice Face(s) equipped (Difficulty III or higher)"
+        "desc": "When clearing Simulated Universe: Gold and Gears, have #1[i] blue Dice Face(s) equipped (Difficulty 3 or higher)"
     },
     "4092938": {
         "title": "All Watched Over By Machines of Loving Grace",
@@ -2980,7 +2980,7 @@
         "desc": "Leave your special mix at the Dreamjolt Hostelry"
     },
     "4053065": {
-        "title": "Make Your Dream a Blast",
+        "title": "Make Your Dreams a Blast",
         "desc": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles"
     },
     "4053066": {
@@ -3005,7 +3005,7 @@
     },
     "4073013": {
         "title": "Lady Snowblood",
-        "desc": "In a single battle, using Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle"
+        "desc": "In a single battle, use Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle"
     },
     "4073014": {
         "title": "Blind Stealing",
@@ -3042,5 +3042,305 @@
     "4043036": {
         "title": "Pac-Man",
         "desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden"
+    },
+    "4033201": {
+        "title": "The Last Tycoon",
+        "desc": "Commune with the Watchmaker\\n※ Meet the first Nameless in Penacony"
+    },
+    "4033202": {
+        "title": "We Will Be Freemen as Our Fathers Were",
+        "desc": "Inherit the Watchmaker's legacy\\n※ Continue the unfinished journey of the last Nameless in Penacony"
+    },
+    "4033203": {
+        "title": "If We Walk in the Light",
+        "desc": "Embark on a new trailblaze journey as desired\\n※ Defeat the Harmonious Choir, Dominicus..."
+    },
+    "4033204": {
+        "title": "In the End, We Awaken From Our Dreams",
+        "desc": "Witness the first light of dawn on Penacony\\nDefeat \"Embryo of Philosophy\" Sunday"
+    },
+    "4033205": {
+        "title": "Sincerity Is Eternally the Ultimate",
+        "desc": "Make peace with the Penacony's custodian of justice\\n※ Persuade Argenti in Superstar Showdown"
+    },
+    "4033206": {
+        "title": "The Ultimate is Eternal Sincerity",
+        "desc": "Defeat Penacony's custodian of justice\\n※ Defeat Argenti in Superstar Showdown"
+    },
+    "4043201": {
+        "title": "Elysian Balloon",
+        "desc": "Break the special Boss Stone balloon at Dreamflux Reef"
+    },
+    "4043202": {
+        "title": "Second Balloon Eruption",
+        "desc": "Break the special Boss Stone balloon at Scorchsand Audition Venue"
+    },
+    "4043203": {
+        "title": "A Post-Balloon Odyssey",
+        "desc": "Break the special Boss Stone balloon at Penacony Grand Theater"
+    },
+    "4043205": {
+        "title": "New Penacony Dreams",
+        "desc": "Open Treasures #1[i] time(s) in Penacony"
+    },
+    "4043206": {
+        "title": "Blood Sugar Highs",
+        "desc": "Eat all the SoulGlad items in the Fast & Furynuts challenge located at the Scorchsand Audition Venue"
+    },
+    "4043207": {
+        "title": "Chirp... I Can't Move Anymore",
+        "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
+    },
+    "4043208": {
+        "title": "Audition Funhouse",
+        "desc": "Discover any hidden challenge on the Audition Shuttle interface"
+    },
+    "4043209": {
+        "title": "Audition Rizzler",
+        "desc": "Successfully triggered a total of #1 Audition Shuttle hidden challenge(s)"
+    },
+    "4043210": {
+        "title": "Disqualified!",
+        "desc": "Break all Boss Stone balloons in the Audition Plaza"
+    },
+    "4053201": {
+        "title": "Bottling History",
+        "desc": "Explore the Four Great Treasures of the soda cellar in the Scorchsand Audition Venue"
+    },
+    "4053202": {
+        "title": "The Tale of Syrupy Medicine",
+        "desc": "Find the most precious hoard of the soda cellar in the Scorchsand Audition Venue"
+    },
+    "4053203": {
+        "title": "Gold and Gear... Clock?",
+        "desc": "Uncover the mystery behind Clockie turning rocks into gold in the Scorchsand Audition Venue"
+    },
+    "4053204": {
+        "title": "Just A Walking Shadow",
+        "desc": "Listen to the stories of the eight puppets by Penacony Grand Theater's stage"
+    },
+    "4043211": {
+        "title": "First Blood",
+        "desc": "Complete the Hanu Wars challenge for the first time"
+    },
+    "4083202": {
+        "title": "Think Thrice Before Acts",
+        "desc": "After placing Bubble Bridge on the Dream Module, move the Dream Module away without passing through the Bubble Bridge"
+    },
+    "4043212": {
+        "title": "Wolflike",
+        "desc": "Rebound every piece of Boss Stone's coins in any \"Way of the Wolf (End)\" stages"
+    },
+    "4043213": {
+        "title": "Old Wolf Homecoming",
+        "desc": "Complete all \"Way of the Wolf (End)\" stages"
+    },
+    "4043214": {
+        "title": "Like a Wolf Arrives!",
+        "desc": "Defeat Boss Stone in any \"Way of the Wolf (End)\" stages without rebounding any coin attacks"
+    },
+    "4043215": {
+        "title": "Fifteenth Blood",
+        "desc": "Complete all Hanu Wars challenges"
+    },
+    "4043216": {
+        "title": "How Many Drops Are We At Now?",
+        "desc": "Complete all Hanu Wars challenges flawlessly"
+    },
+    "4043217": {
+        "title": "Armor-Piercing Bullet",
+        "desc": "Hit #1 target(s) with a single shot in Hanu Wars"
+    },
+    "4043218": {
+        "title": "The Crocodile Enemy",
+        "desc": "Defeat Steely Gator in the final stage of Hanu's Adventure"
+    },
+    "4043219": {
+        "title": "Goodbye, Hanunue",
+        "desc": "Collect all Hanu's Adventure story books"
+    },
+    "4043220": {
+        "title": "Final Blood",
+        "desc": "Hit all targets for the first time in Hanu Wars"
+    },
+    "4043221": {
+        "title": "Hanu's Legacy",
+        "desc": "Find the hidden treasure in the Festivity Auditions' Gunfire Trial"
+    },
+    "4043222": {
+        "title": "Za Warudo!",
+        "desc": "Hit #1 target(s) using Clock Time in Hanu Wars"
+    },
+    "4053206": {
+        "title": "Unfinished Dream Song",
+        "desc": "Persuade Orla to awaken from the Dreamscape"
+    },
+    "4053207": {
+        "title": "Just Leave",
+        "desc": "Let Orla and her companions leave"
+    },
+    "4053208": {
+        "title": "The Birth of Hanu Union",
+        "desc": "Help all the billboard staff escape in the Brother Hanu's Great Heist Commercial for Dreamjoy Memoir"
+    },
+    "4053209": {
+        "title": "SoulGlad Ambassador",
+        "desc": "Step across all SoulGlad Floor Tiles in all maps in the Bubbly Clockie Commercial for Dreamjoy Memoir"
+    },
+    "4053210": {
+        "title": "The Wonderful Wizard of Dreamville",
+        "desc": "Ensure that all shots perfectly meet the director's requirements in the Dreamjoy Ascension Commercial for Dreamjoy Memoir"
+    },
+    "4053211": {
+        "title": "Clockie and His Companions",
+        "desc": "Help Dreamjoy Memoir's animators produce all of the extra stories"
+    },
+    "4053212": {
+        "title": "Railboard 100",
+        "desc": "Obtain Robin's records"
+    },
+    "4053213": {
+        "title": "Lifeboat",
+        "desc": "Help the SoulGlad who wants to become a superstar"
+    },
+    "4053214": {
+        "title": "Dreamflux Study Group",
+        "desc": "Create a new home for the vagrants"
+    },
+    "4053215": {
+        "title": "Angel's Murmur",
+        "desc": "Witness the end of Emanator of Cans"
+    },
+    "4053216": {
+        "title": "The Feather He Dropped",
+        "desc": "Help Robin find clues about Sunday"
+    },
+    "4053217": {
+        "title": "Permanent Boarding Pass",
+        "desc": "Ride the Spheroid to the mysterious station at the Dreamflux Reef"
+    },
+    "4053218": {
+        "title": "Anyway, It's Cool",
+        "desc": "Find seven special manhole covers at Dreamflux Reef"
+    },
+    "4053219": {
+        "title": "Where Splendor Meets Sorrow",
+        "desc": "Find Clockie's traces in the elevator shaft in Dreamflux Reef"
+    },
+    "4053220": {
+        "title": "Temporal Wonder",
+        "desc": "Complete the Adventure Mission \"Once Upon a Dreamville...\""
+    },
+    "4053221": {
+        "title": "Whispers of the Past",
+        "desc": "Complete the editing work of all endings in Dreamjoy Memoir"
+    },
+    "4053222": {
+        "title": "Dreamscape Top 100",
+        "desc": "Reach an Audience Score of #1 in Dreamjoy Memoir's Anthology"
+    },
+    "4053223": {
+        "title": "Emotions Beyond the Lens",
+        "desc": "All three Audience Emotions reach at least #1 simultaneously in Dreamjoy Memoir"
+    },
+    "4053224": {
+        "title": "The Lost Generation",
+        "desc": "Enter a special story branch in Dreamjoy Memoir"
+    },
+    "4053225": {
+        "title": "High-Budget Movie",
+        "desc": "In Dreamjoy Memoir, obtain at least #1 Time Dice, \"#2\", in the same turn"
+    },
+    "4053226": {
+        "title": "Natural 0 Roll",
+        "desc": "When conducting the test screening in Dreamjoy Memoir, all the required Emotions perfectly match the review criteria"
+    },
+    "4053227": {
+        "title": "Rail Road, Take Me Home",
+        "desc": "Enter A Child's Dream through the Watchmaker's dream bubble in Dreamflux Reef"
+    },
+    "4043224": {
+        "title": "Saturation Bombing",
+        "desc": "Defeat #1 of Boss Stone's minions at once in a Hanu's Adventure stage"
+    },
+    "4043226": {
+        "title": "In the Name of The Family",
+        "desc": "Help Family members retrieve all the stolen goods"
+    },
+    "4083203": {
+        "title": "Going Dutch",
+        "desc": "Let Boothill and Aventurine fight over taking the bill\\n※ In the same battle, trigger Aventurine's \"Skill 1\" voice line and Boothill's \"Battle Begins: Weakness Break\" voice line"
+    },
+    "4073201": {
+        "title": "JACKPOT!",
+        "desc": "Make Dreamjolt Troupe's Fortune Seller produce \"Jackpot!\" once"
+    },
+    "4073202": {
+        "title": "Soap Opera",
+        "desc": "Have #1 character(s) enter the sleeping state when battling \"Tomorrow in Harmonious Chords\""
+    },
+    "4073203": {
+        "title": "Passion Play",
+        "desc": "Use one character to take all DMG from \"Past Confined and Caged\"'s ability, \"Desmios Evangelion\" without being knocked down"
+    },
+    "4073204": {
+        "title": "Ensemble Piece",
+        "desc": "In the first phase of \"The Past, Present, and Eternal Show,\" cause #1 enemies to take turns to become Impresario for 1 time"
+    },
+    "4073205": {
+        "title": "One-Act Play",
+        "desc": "In the second phase of \"The Past, Present, and Eternal Show,\" the enemy uses \"Dance for Synchrony\" at most once"
+    },
+    "4073206": {
+        "title": "Literary Fragment",
+        "desc": "After \"Present Inebriated in Revelry\" enters the Charge state, interrupt its Charging"
+    },
+    "4073207": {
+        "title": "Duration of a Song",
+        "desc": "Listen to Robin's singing\\n※ In combat, view Robin for more than #1 seconds in Checking Mode after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\""
+    },
+    "4073208": {
+        "title": "Pied Piper of Hamelin",
+        "desc": "After using Robin's Technique \"Overture of Inebriation\" in exploration, attract #1 or more enemies to follow"
+    },
+    "4073209": {
+        "title": "Ultimate Dance Move!",
+        "desc": "In combat, use the Backup Dancer effect of {NICKNAME}: Harmony's Ultimate \"All-Out Footlight Parade\" to defeat an Elite Enemy"
+    },
+    "4073210": {
+        "title": "Russian Roulette",
+        "desc": "In combat, ally Boothill accumulates a total of #1 stack(s) of Pocket Trickshot within 1 turn"
+    },
+    "4073211": {
+        "title": "Workday Without God",
+        "desc": "Break all Echoes of Faded Dreams before The \"Harmonious Choir\" The Great Septimus uses \"Volteggiando\" or \"Tempestoso\""
+    },
+    "4073212": {
+        "title": "And Then It Is Monday...",
+        "desc": "Accumulate enough Shield to completely block \"Embryo of Philosophy\" Sunday's ability, Im Anfang war die Tat"
+    },
+    "4053228": {
+        "title": "Where Are You Going, Mikhail?",
+        "desc": "I have walked the path I should have walked\\n※ When the dust settles, return to A Child's Moongazing Spot"
+    },
+    "4053229": {
+        "title": "Boxes and Ladders",
+        "desc": "Climb the mountain made from wooden boxes at Dreamflux Reef"
+    },
+    "4053230": {
+        "title": "Waiting for Godot",
+        "desc": "Patiently wait for the arrival of the ghost train"
+    },
+    "4053231": {
+        "title": "An Afternoon's Worth of Sitting",
+        "desc": "Enjoy a brief moment of respite on the couch at Dreamflux Reef"
+    },
+    "4053232": {
+        "title": "City of Love",
+        "desc": "Help the Billboard Hurrylove to pass a message to its lover"
+    },
+    "4013201": {
+        "title": "Nessun Dorma",
+        "desc": "Tread on the Path of Harmony"
     }
 }
