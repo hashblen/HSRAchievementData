@@ -5,63 +5,63 @@
     },
     "4010201": {
         "title": "Destiny Beckons (I)",
-        "desc": "Possess 1 Lv. <unbreak>#1[i]</unbreak> Light Cone"
+        "desc": "Possess 1 Lv. #1[i] Light Cone"
     },
     "4010202": {
         "title": "Destiny Beckons (II)",
-        "desc": "Possess 1 Lv. <unbreak>#1[i]</unbreak> Light Cone"
+        "desc": "Possess 1 Lv. #1[i] Light Cone"
     },
     "4010203": {
         "title": "Destiny Beckons (III)",
-        "desc": "Possess 1 Lv. <unbreak>#1[i]</unbreak> Light Cone"
+        "desc": "Possess 1 Lv. #1[i] Light Cone"
     },
     "4010103": {
         "title": "Time Enough for Love",
-        "desc": "Possess 4 Light Cones at Lv. <unbreak>80</unbreak>"
+        "desc": "Possess 4 Light Cones at Lv. 80"
     },
     "4080201": {
         "title": "Don't Make This Too Easy (I)",
-        "desc": "Reach Equilibrium Level <unbreak>#1[i]</unbreak>"
+        "desc": "Reach Equilibrium Level #1[i]"
     },
     "4010301": {
         "title": "My Childhood",
-        "desc": "Reach Character Level <unbreak>#1[i]</unbreak> with any character"
+        "desc": "Reach Character Level #1[i] with any character"
     },
     "4080202": {
         "title": "Don't Make This Too Easy (II)",
-        "desc": "Reach Equilibrium Level <unbreak>#1[i]</unbreak>"
+        "desc": "Reach Equilibrium Level #1[i]"
     },
     "4010302": {
         "title": "My Apprenticeship",
-        "desc": "Reach Character Level <unbreak>#1[i]</unbreak> with any character"
+        "desc": "Reach Character Level #1[i] with any character"
     },
     "4080203": {
         "title": "Don't Make This Too Easy (III)",
-        "desc": "Reach Equilibrium Level <unbreak>#1[i]</unbreak>"
+        "desc": "Reach Equilibrium Level #1[i]"
     },
     "4010303": {
         "title": "My Universities",
-        "desc": "Reach Character Level <unbreak>#1[i]</unbreak> with any character"
+        "desc": "Reach Character Level #1[i] with any character"
     },
     "4010102": {
         "title": "Childhood's End",
-        "desc": "Enhance 4 characters to Lv. <unbreak>80</unbreak>"
+        "desc": "Enhance 4 characters to Lv. 80"
     },
     "4010501": {
         "title": "Path Traces (I)",
-        "desc": "Activate or level up character Traces <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Activate or level up character Traces #1[i] time(s)"
     },
     "4010502": {
         "title": "Path Traces (II)",
-        "desc": "Activate or level up character Traces <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Activate or level up character Traces #1[i] time(s)"
     },
     "4010503": {
         "title": "Path Traces (III)",
-        "desc": "Activate or level up character Traces <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Activate or level up character Traces #1[i] time(s)"
     },
     "4010504": {
         "title": "Path Traces (IV)",
-        "desc": "Activate or level up character Traces <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Activate or level up character Traces #1[i] time(s)"
     },
     "4012302": {
         "title": "I Have Finished The Race",
@@ -77,39 +77,39 @@
     },
     "4010401": {
         "title": "Armed to the Teeth",
-        "desc": "Level up 4 Relics to Lv.<unbreak>#1[i]</unbreak>"
+        "desc": "Level up 4 Relics to Lv.#1[i]"
     },
     "4012301": {
         "title": "Sovereign Warframe",
-        "desc": "Equip 5-star Relics enhanced to level <unbreak>15</unbreak> in all Relic slots for one character"
+        "desc": "Equip 5-star Relics enhanced to level 15 in all Relic slots for one character"
     },
     "4022302": {
         "title": "Mega Rich Light-Bending Guy",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> credits in total"
+        "desc": "Obtain #1[i] credits in total"
     },
     "4020201": {
         "title": "The Express Passenger's Guide to the Galaxy",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> characters"
+        "desc": "Obtain #1[i] characters"
     },
     "4020202": {
         "title": "Express Crew Roster",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> characters"
+        "desc": "Obtain #1[i] characters"
     },
     "4020203": {
         "title": "The Great Interastral Migration",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> characters"
+        "desc": "Obtain #1[i] characters"
     },
     "4020401": {
         "title": "Ripples on the Dirac Sea (I)",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> type(s) of Light Cones"
+        "desc": "Obtain #1[i] type(s) of Light Cones"
     },
     "4020402": {
         "title": "Ripples on the Dirac Sea (II)",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> type(s) of Light Cones"
+        "desc": "Obtain #1[i] type(s) of Light Cones"
     },
     "4020403": {
         "title": "Ripples on the Dirac Sea (III)",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> type(s) of Light Cones"
+        "desc": "Obtain #1[i] type(s) of Light Cones"
     },
     "4020502": {
         "title": "Supreme Treasure of the Netherworld",
@@ -117,59 +117,59 @@
     },
     "4020503": {
         "title": "Fate/stranger Fake",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> 5-star Relic(s) from the Omni-Synthesizer"
+        "desc": "Obtain #1[i] 5-star Relic(s) from the Omni-Synthesizer"
     },
     "4020701": {
         "title": "Interastral Peace Diamond Membership",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> credits in total"
+        "desc": "Obtain #1[i] credits in total"
     },
     "4020702": {
         "title": "Interastral Peace Supreme Diamond Membership",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> credits in total"
+        "desc": "Obtain #1[i] credits in total"
     },
     "4030101": {
         "title": "My Heart Lies With the Stars",
-        "desc": "Launch a journey into the vast cosmos\\n<color=#8790abff>※ Congratulations! You've boarded the Astral Express!</color>"
+        "desc": "Launch a journey into the vast cosmos\\n※ Congratulations! You've boarded the Astral Express!"
     },
     "4030102": {
         "title": "Everwinter Night",
-        "desc": "After enduring the snow storm...\\n<color=#8790abff>※ You have arrived at the city named Belobog</color>"
+        "desc": "After enduring the snow storm...\\n※ You have arrived at the city named Belobog"
     },
     "4030103": {
         "title": "Lost World",
-        "desc": "Discover the secret beneath Jarilo-VI\\n<color=#8790abff>※ There are people living underground...</color>"
+        "desc": "Discover the secret beneath Jarilo-VI\\n※ There are people living underground..."
     },
     "4030104": {
         "title": "Half the Wizard of Oz",
-        "desc": "Defeat the tin man and the little girl\\n<color=#8790abff>※ Svarog and Clara became your friends!</color>"
+        "desc": "Defeat the tin man and the little girl\\n※ Svarog and Clara became your friends!"
     },
     "4030105": {
         "title": "Winter Is Leaving",
-        "desc": "Let's change Belobog, starting with me!\\n<color=#8790abff>※ Step One: Defeat Supreme Guardian Cocolia...</color>"
+        "desc": "Let's change Belobog, starting with me!\\n※ Step One: Defeat Supreme Guardian Cocolia..."
     },
     "4030201": {
         "title": "Sauntering Fox",
-        "desc": "Diplomacy is but a trade of opinions...\\n<color=#8790abff>※ Confer with the leader(s) of the Xianzhou Luofu</color>"
+        "desc": "Diplomacy is but a trade of opinions...\\n※ Confer with the leader(s) of the Xianzhou Luofu"
     },
     "4030202": {
         "title": "Omniscia Spares None",
-        "desc": "What goes around comes around. No rogue shall escape capture.\\n<color=#8790abff>※ Successfully capture the Stellaron Hunter Kafka</color>"
+        "desc": "What goes around comes around. No rogue shall escape capture.\\n※ Successfully capture the Stellaron Hunter Kafka"
     },
     "4032305": {
         "title": "A Professional Onlooker",
-        "desc": "When the wind-watcher watches you...\\n<color=#8790abff>※ Find Qingque, who is \"working hard\" at playing games...</color>"
+        "desc": "When the wind-watcher watches you...\\n※ Find Qingque, who is \"working hard\" at playing games..."
     },
     "4032307": {
         "title": "Prophets Do Not Prophesize",
-        "desc": "Witness the mystery of the Divination Commission's matrix\\n<color=#8790abff>※ Interrogate Kafka with the Matrix of Prescience, and challenge the divination with this foresight...</color>"
+        "desc": "Witness the mystery of the Divination Commission's matrix\\n※ Interrogate Kafka with the Matrix of Prescience, and challenge the divination with this foresight..."
     },
     "4032308": {
         "title": "The Deer Hunter",
-        "desc": "The furnace undoused, the deer silenced\\n<color=#8790abff>※ Save the Artisanship Commission from the crisis</color>"
+        "desc": "The furnace undoused, the deer silenced\\n※ Save the Artisanship Commission from the crisis"
     },
     "4032306": {
         "title": "Slayer of a Very \"Deer\" Friend",
-        "desc": "Try to walk on the Path of The Hunt...\\n<color=#8790abff>※ Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\"</color>"
+        "desc": "Try to walk on the Path of The Hunt...\\n※ Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\""
     },
     "4032309": {
         "title": "Draconic Opulence",
@@ -177,39 +177,39 @@
     },
     "4040201": {
         "title": "Until the Light Takes Us",
-        "desc": "Activate <unbreak>#1[i]</unbreak> Space Anchors in the Herta Space Station"
+        "desc": "Activate #1[i] Space Anchors in the Herta Space Station"
     },
     "4040202": {
         "title": "Unopen World",
-        "desc": "Activate <unbreak>#1[i]</unbreak> Space Anchors in Belobog"
+        "desc": "Activate #1[i] Space Anchors in Belobog"
     },
     "4042307": {
         "title": "Where the Celestial Path May Lead",
-        "desc": "Activate <unbreak>#1[i]</unbreak> Space Anchors on the Xianzhou Luofu"
+        "desc": "Activate #1[i] Space Anchors on the Xianzhou Luofu"
     },
     "4040101": {
         "title": "Proper Role-Playing Gamer",
-        "desc": "Open Treasures <unbreak>#1[i]</unbreak> times on the Herta Space Station"
+        "desc": "Open Treasures #1[i] times on the Herta Space Station"
     },
     "4040102": {
         "title": "But at What Cost?",
-        "desc": "Open Treasures <unbreak>#1[i]</unbreak> times in Belobog"
+        "desc": "Open Treasures #1[i] times in Belobog"
     },
     "4042308": {
         "title": "A Drop in the Bucket",
-        "desc": "Open Treasures <unbreak>#1[i]</unbreak> time(s) on the Xianzhou Luofu"
+        "desc": "Open Treasures #1[i] time(s) on the Xianzhou Luofu"
     },
     "4040301": {
         "title": "Destructive Impulse",
-        "desc": "Destroy <unbreak>#1[i]</unbreak> destructible objects"
+        "desc": "Destroy #1[i] destructible objects"
     },
     "4040302": {
         "title": "Free Will of Destruction",
-        "desc": "Destroy <unbreak>#1[i]</unbreak> destructible objects"
+        "desc": "Destroy #1[i] destructible objects"
     },
     "4040601": {
         "title": "Take by Surprise",
-        "desc": "Enter combat with attacks of corresponding Types for <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Enter combat with attacks of corresponding Types for #1[i] time(s)"
     },
     "4040602": {
         "title": "Can't See Behind",
@@ -217,51 +217,51 @@
     },
     "4040603": {
         "title": "The Tertiary Power",
-        "desc": "Use Technique <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Use Technique #1[i] time(s)"
     },
     "4040604": {
         "title": "The Tertiary Dimension",
-        "desc": "Use Technique <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Use Technique #1[i] time(s)"
     },
     "4080401": {
         "title": "Dissertation Proposal",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable item(s) in the Herta Space Station"
+        "desc": "Collect #1[i] readable item(s) in the Herta Space Station"
     },
     "4080402": {
         "title": "Literature Review",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable item(s) in the Herta Space Station"
+        "desc": "Collect #1[i] readable item(s) in the Herta Space Station"
     },
     "4080403": {
         "title": "Non-Pulp Fiction",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable item(s) in Belobog"
+        "desc": "Collect #1[i] readable item(s) in Belobog"
     },
     "4080404": {
         "title": "Everwinter City's Resident Historian",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable item(s) in Belobog"
+        "desc": "Collect #1[i] readable item(s) in Belobog"
     },
     "4040407": {
         "title": "Red-Name Alert",
-        "desc": "Complete the Formidable Foe Challenge <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete the Formidable Foe Challenge #1[i] time(s)"
     },
     "4040408": {
         "title": "High-Level Domination",
-        "desc": "Complete the Formidable Foe Challenge <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete the Formidable Foe Challenge #1[i] time(s)"
     },
     "4040503": {
         "title": "Inter-Domain Roaming",
-        "desc": "Complete Warring Expedition <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Warring Expedition #1[i] time(s)"
     },
     "4040504": {
         "title": "You Want Me to Raid Without Achievements?",
-        "desc": "Complete Warring Expedition <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Warring Expedition #1[i] time(s)"
     },
     "4040701": {
         "title": "Tindalos Piggy",
-        "desc": "Capture Warp Trotter <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Capture Warp Trotter #1[i] time(s)"
     },
     "4040702": {
         "title": "Phase ATM",
-        "desc": "Capture Warp Trotter <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Capture Warp Trotter #1[i] time(s)"
     },
     "4042301": {
         "title": "Sensory Socialization",
@@ -285,11 +285,11 @@
     },
     "4040406": {
         "title": "The Tale of Moles",
-        "desc": "Collect all of <i>The Adventurous Moles</i>"
+        "desc": "Collect all of The Adventurous Moles"
     },
     "4040410": {
         "title": "Red to Red and White to White",
-        "desc": "Complete Magflow Link <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Magflow Link #1[i] time(s)"
     },
     "4051101": {
         "title": "Don't You Dare Waste It",
@@ -297,11 +297,11 @@
     },
     "4040411": {
         "title": "A Metaphor of Caves",
-        "desc": "Complete the Hexanexus <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete the Hexanexus #1[i] time(s)"
     },
     "4040412": {
         "title": "North by Northwest",
-        "desc": "Complete the Navigation Compass <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete the Navigation Compass #1[i] time(s)"
     },
     "4051001": {
         "title": "Guess Who I Am",
@@ -357,7 +357,7 @@
     },
     "4052305": {
         "title": "Bzzt! Clock Out!",
-        "desc": "Turn off the little robots in the space station <unbreak>#1[i]</unbreak> times"
+        "desc": "Turn off the little robots in the space station #1[i] times"
     },
     "4052306": {
         "title": "Door to A New World",
@@ -400,12 +400,12 @@
         "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\""
     },
     "4080603": {
-        "title": "<unbreak>50</unbreak> Credits!?",
+        "title": "50 Credits!?",
         "desc": "Collect all wanted posters of the Express Crew in Belobog"
     },
     "4052310": {
         "title": "Twinkly, Winkly",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> Ancient Coin(s)"
+        "desc": "Obtain #1[i] Ancient Coin(s)"
     },
     "4080604": {
         "title": "Sweet Pom-Pom O'Mine",
@@ -444,7 +444,7 @@
         "desc": "Finish listening to the vagrant's rap"
     },
     "4052317": {
-        "title": "For Ages <unbreak>12</unbreak> and Up",
+        "title": "For Ages 12 and Up",
         "desc": "Participate in the Dark Fist Tournament and become the ultimate winner"
     },
     "4052349": {
@@ -464,8 +464,8 @@
         "desc": "Find all hidden treasures in the Mission \"The Adventurous Moles\""
     },
     "4052321": {
-        "title": "<i>The Adventurous Moles</i> Super Grown-Up Edition",
-        "desc": "Buy <i>The Adventurous Moles: Hidden Treasure</i> from the Belobog Book Merchant"
+        "title": "The Adventurous Moles Super Grown-Up Edition",
+        "desc": "Buy The Adventurous Moles: Hidden Treasure from the Belobog Book Merchant"
     },
     "4052323": {
         "title": "A Simple Life",
@@ -517,15 +517,15 @@
     },
     "4052335": {
         "title": "Hasta la vista, Hexanexus!",
-        "desc": "Complete <unbreak>#1[i]</unbreak> Hexanexus challenge(s) from the Hex Club"
+        "desc": "Complete #1[i] Hexanexus challenge(s) from the Hex Club"
     },
     "4052336": {
         "title": "Rubik's Headache",
-        "desc": "Complete <unbreak>#1[i]</unbreak> new Hexanexus challenge(s) from the Hex Club"
+        "desc": "Complete #1[i] new Hexanexus challenge(s) from the Hex Club"
     },
     "4052337": {
         "title": "Labor Omnia Vincit",
-        "desc": "Examine <unbreak>#1[i]</unbreak> separate file cabinets in the Seat of Divine Foresight"
+        "desc": "Examine #1[i] separate file cabinets in the Seat of Divine Foresight"
     },
     "4052338": {
         "title": "The Crimes That Bind",
@@ -573,223 +573,223 @@
     },
     "4060101": {
         "title": "Shadows Die Ad Infinitum (I)",
-        "desc": "Defeat Stagnant Shadow <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat Stagnant Shadow #1[i] time(s)"
     },
     "4060102": {
         "title": "Shadows Die Ad Infinitum (II)",
-        "desc": "Defeat Stagnant Shadow <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat Stagnant Shadow #1[i] time(s)"
     },
     "4060103": {
         "title": "Shadows Die Ad Infinitum (III)",
-        "desc": "Defeat Stagnant Shadow <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat Stagnant Shadow #1[i] time(s)"
     },
     "4060201": {
         "title": "Day of the Triffids (I)",
-        "desc": "Defeat Calyx <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat Calyx #1[i] time(s)"
     },
     "4060202": {
         "title": "Day of the Triffids (II)",
-        "desc": "Defeat Calyx <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat Calyx #1[i] time(s)"
     },
     "4060203": {
         "title": "Day of the Triffids (III)",
-        "desc": "Defeat Calyx <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat Calyx #1[i] time(s)"
     },
     "4060301": {
         "title": "Phantom of the Cavern (I)",
-        "desc": "Complete Caverns of Corrosion <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Caverns of Corrosion #1[i] time(s)"
     },
     "4060302": {
         "title": "Phantom of the Cavern (II)",
-        "desc": "Complete Caverns of Corrosion <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Caverns of Corrosion #1[i] time(s)"
     },
     "4060303": {
         "title": "Phantom of the Cavern (III)",
-        "desc": "Complete Caverns of Corrosion <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Caverns of Corrosion #1[i] time(s)"
     },
     "4060401": {
         "title": "Echo of War (I)",
-        "desc": "Complete Echo of War <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Echo of War #1[i] time(s)"
     },
     "4060402": {
         "title": "Echo of War (II)",
-        "desc": "Complete Echo of War <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Complete Echo of War #1[i] time(s)"
     },
     "4070101": {
         "title": "Unstoppable",
-        "desc": "Use <unbreak>#1[i]</unbreak> Ultimates in a row"
+        "desc": "Use #1[i] Ultimates in a row"
     },
     "4070201": {
         "title": "Break Till Broken",
-        "desc": "Inflict Weakness Break <unbreak>#2[i]</unbreak> time(s) upon the same enemy in a single battle"
+        "desc": "Inflict Weakness Break #2[i] time(s) upon the same enemy in a single battle"
     },
     "4070303": {
         "title": "Annihilation",
-        "desc": "Deal equal to or more than <unbreak>#1[i]</unbreak> DMG in a single hit"
+        "desc": "Deal equal to or more than #1[i] DMG in a single hit"
     },
     "4070403": {
         "title": "Reverberating Ruin",
-        "desc": "Deal <unbreak>#1[i]</unbreak> DMG in a single attack"
+        "desc": "Deal #1[i] DMG in a single attack"
     },
     "4070421": {
         "title": "Trauma Team Platinum Bundle",
-        "desc": "An ally heals for more than <unbreak>#1[i]</unbreak> HP in a single heal"
+        "desc": "An ally heals for more than #1[i] HP in a single heal"
     },
     "4070441": {
         "title": "Earthwork",
-        "desc": "An ally has a combined Shield effect greater than <unbreak>#1[i]</unbreak> at any time"
+        "desc": "An ally has a combined Shield effect greater than #1[i] at any time"
     },
     "4070301": {
         "title": "Serious Punch",
-        "desc": "Deal equal to or more than <unbreak>#1[i]</unbreak> DMG in a single hit"
+        "desc": "Deal equal to or more than #1[i] DMG in a single hit"
     },
     "4070302": {
         "title": "Ki Impact",
-        "desc": "Deal equal to or more than <unbreak>#1[i]</unbreak> DMG in a single hit"
+        "desc": "Deal equal to or more than #1[i] DMG in a single hit"
     },
     "4070401": {
         "title": "Consecutive Normal Punches",
-        "desc": "Deal <unbreak>#1[i]</unbreak> DMG in a single attack"
+        "desc": "Deal #1[i] DMG in a single attack"
     },
     "4070402": {
         "title": "Blade of Taixu",
-        "desc": "Deal <unbreak>#1[i]</unbreak> DMG in a single attack"
+        "desc": "Deal #1[i] DMG in a single attack"
     },
     "4070501": {
         "title": "A Song of Vice and Dire",
-        "desc": "Inflict both Burn and Freeze upon <unbreak>#1[i]</unbreak> enemy at the same time"
+        "desc": "Inflict both Burn and Freeze upon #1[i] enemy at the same time"
     },
     "4070502": {
         "title": "Memory, Sorrow, and Thorn",
-        "desc": "Inflict <unbreak>#2[i]</unbreak> DoT effects upon <unbreak>#1[i]</unbreak> enemie(s) at the same time"
+        "desc": "Inflict #2[i] DoT effects upon #1[i] enemie(s) at the same time"
     },
     "4070601": {
         "title": "Electric Dreams",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Lightning Break DMG in a single battle"
+        "desc": "Defeat #1[i] enemies with Lightning Break DMG in a single battle"
     },
     "4070602": {
-        "title": "Fahrenheit <unbreak>451</unbreak>",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Fire Break DMG in a single battle"
+        "title": "Fahrenheit 451",
+        "desc": "Defeat #1[i] enemies with Fire Break DMG in a single battle"
     },
     "4070603": {
         "title": "Sunstorm",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Wind Break DMG in a single battle"
+        "desc": "Defeat #1[i] enemies with Wind Break DMG in a single battle"
     },
     "4070604": {
         "title": "The Demolished Man",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Physical Break DMG in a single battle"
+        "desc": "Defeat #1[i] enemies with Physical Break DMG in a single battle"
     },
     "4070605": {
         "title": "Lightning Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Lightning Break DMG"
+        "desc": "Defeat #1[i] enemies with Lightning Break DMG"
     },
     "4070606": {
         "title": "Lightning Breaker (II)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Lightning Break DMG"
+        "desc": "Defeat #1[i] enemies with Lightning Break DMG"
     },
     "4070607": {
         "title": "Fire Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Fire Break DMG"
+        "desc": "Defeat #1[i] enemies with Fire Break DMG"
     },
     "4070608": {
         "title": "Fire Breaker (II)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Fire Break DMG"
+        "desc": "Defeat #1[i] enemies with Fire Break DMG"
     },
     "4070609": {
         "title": "Wind Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Wind Break DMG"
+        "desc": "Defeat #1[i] enemies with Wind Break DMG"
     },
     "4070610": {
         "title": "Wind Breaker (II)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Wind Break DMG"
+        "desc": "Defeat #1[i] enemies with Wind Break DMG"
     },
     "4070611": {
         "title": "Physical Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Physical Break DMG"
+        "desc": "Defeat #1[i] enemies with Physical Break DMG"
     },
     "4070612": {
         "title": "Physical Breaker (II)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Physical Break DMG"
+        "desc": "Defeat #1[i] enemies with Physical Break DMG"
     },
     "4070701": {
         "title": "Schrödinger's Other Cat",
-        "desc": "Inflict <unbreak>#1[i]</unbreak> Quantum Weakness Breaks in a single battle"
+        "desc": "Inflict #1[i] Quantum Weakness Breaks in a single battle"
     },
     "4070702": {
         "title": "The Cold Equations",
-        "desc": "Inflict <unbreak>#1[i]</unbreak> Ice Weakness Breaks in a single battle"
+        "desc": "Inflict #1[i] Ice Weakness Breaks in a single battle"
     },
     "4070703": {
         "title": "Unimaginably Imaginary",
-        "desc": "Inflict <unbreak>#1[i]</unbreak> Imaginary Weakness Breaks in a single battle"
+        "desc": "Inflict #1[i] Imaginary Weakness Breaks in a single battle"
     },
     "4070704": {
         "title": "Quantum Breaker (I)",
-        "desc": "Inflict Quantum Weakness Break <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Inflict Quantum Weakness Break #1[i] time(s)"
     },
     "4070705": {
         "title": "Quantum Breaker (II)",
-        "desc": "Inflict Quantum Weakness Break <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Inflict Quantum Weakness Break #1[i] time(s)"
     },
     "4070706": {
         "title": "Ice Breaker (I)",
-        "desc": "Inflict Ice Weakness Break <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Inflict Ice Weakness Break #1[i] time(s)"
     },
     "4070707": {
         "title": "Ice Breaker (II)",
-        "desc": "Inflict Ice Weakness Break <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Inflict Ice Weakness Break #1[i] time(s)"
     },
     "4070708": {
         "title": "Imaginary Breaker (I)",
-        "desc": "Inflict Imaginary Weakness Break <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Inflict Imaginary Weakness Break #1[i] time(s)"
     },
     "4070709": {
         "title": "Imaginary Breaker (II)",
-        "desc": "Inflict Imaginary Weakness Break <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Inflict Imaginary Weakness Break #1[i] time(s)"
     },
     "4070801": {
         "title": "Preemptive Strike",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemy with Technique DMG"
+        "desc": "Defeat #1[i] enemy with Technique DMG"
     },
     "4070802": {
         "title": "Technique Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with Technique DMG"
+        "desc": "Defeat #1[i] enemies with Technique DMG"
     },
     "4070803": {
         "title": "Mozambique Drill",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with follow-up attacks in a single battle"
+        "desc": "Defeat #1[i] enemies with follow-up attacks in a single battle"
     },
     "4070804": {
         "title": "Follow-Up Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with follow-up attacks"
+        "desc": "Defeat #1[i] enemies with follow-up attacks"
     },
     "4070805": {
         "title": "Follow-Up Breaker (II)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with follow-up attacks"
+        "desc": "Defeat #1[i] enemies with follow-up attacks"
     },
     "4070806": {
         "title": "A Thousand Cuts...",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies using DoT in a single battle"
+        "desc": "Defeat #1[i] enemies using DoT in a single battle"
     },
     "4070807": {
         "title": "DoT Breaker (I)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with DoT attacks"
+        "desc": "Defeat #1[i] enemies with DoT attacks"
     },
     "4070808": {
         "title": "DoT Breaker (II)",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies with DoT attacks"
+        "desc": "Defeat #1[i] enemies with DoT attacks"
     },
     "4070810": {
         "title": "No Offense",
-        "desc": "Remove buffs on enemies <unbreak>#1[i]</unbreak> time(s) in a single battle"
+        "desc": "Remove buffs on enemies #1[i] time(s) in a single battle"
     },
     "4070812": {
         "title": "The Exorcist",
-        "desc": "Remove debuffs from allies <unbreak>#1[i]</unbreak> time(s) in a single battle"
+        "desc": "Remove debuffs from allies #1[i] time(s) in a single battle"
     },
     "4071001": {
         "title": "Perpetual Freezer",
-        "desc": "Freeze <unbreak>#1[i]</unbreak> enemies for <unbreak>#2[i]</unbreak> turns in a row"
+        "desc": "Freeze #1[i] enemies for #2[i] turns in a row"
     },
     "4071002": {
         "title": "Morituri Te Salutant",
@@ -797,31 +797,31 @@
     },
     "4071003": {
         "title": "One on One",
-        "desc": "Enter combat with <unbreak>#1[i]</unbreak> character(s) but win with only <unbreak>#2[i]</unbreak> character(s) still standing"
+        "desc": "Enter combat with #1[i] character(s) but win with only #2[i] character(s) still standing"
     },
     "4071004": {
         "title": "All Men Must Die",
-        "desc": "Receive a killing blow from enemies when at <unbreak>100%</unbreak> HP"
+        "desc": "Receive a killing blow from enemies when at 100% HP"
     },
     "4071005": {
         "title": "Energy Grandet",
-        "desc": "Have a character whose Energy is at <unbreak>100%</unbreak> at the beginning of a turn for <unbreak>#1[i]</unbreak> turns in a row"
+        "desc": "Have a character whose Energy is at 100% at the beginning of a turn for #1[i] turns in a row"
     },
     "4071006": {
         "title": "Passing as a Flower in the City of the Dead",
-        "desc": "Revive <unbreak>#1[i]</unbreak> downed character(s) in a single battle"
+        "desc": "Revive #1[i] downed character(s) in a single battle"
     },
     "4071007": {
         "title": "Add Insult to Injury",
-        "desc": "Deal a total of <unbreak>#1[i]</unbreak> DMG to enemies inflicted with Weakness Break in a single battle"
+        "desc": "Deal a total of #1[i] DMG to enemies inflicted with Weakness Break in a single battle"
     },
     "4071008": {
         "title": "A Casualty of Armors",
-        "desc": "Receive a total of <unbreak>#1[i]</unbreak> DMG on 1 character in a single battle"
+        "desc": "Receive a total of #1[i] DMG on 1 character in a single battle"
     },
     "4071009": {
         "title": "Serial Breaker",
-        "desc": "Inflict Weakness Break to <unbreak>#1[i]</unbreak> enemies in a single action"
+        "desc": "Inflict Weakness Break to #1[i] enemies in a single action"
     },
     "4071012": {
         "title": "Heavenly Hand",
@@ -829,19 +829,19 @@
     },
     "4071013": {
         "title": "Always Come Prepared",
-        "desc": "A character has <unbreak>#1[i]</unbreak> or more buffs at the beginning of a turn"
+        "desc": "A character has #1[i] or more buffs at the beginning of a turn"
     },
     "4071014": {
         "title": "Highway Star",
-        "desc": "Allies act for <unbreak>#1[i]</unbreak> times in a single battle"
+        "desc": "Allies act for #1[i] times in a single battle"
     },
     "4071015": {
         "title": "Extreme Survival",
-        "desc": "Win a battle with all four allies having HP percentages equal to or less than <unbreak>#1[i]%</unbreak>"
+        "desc": "Win a battle with all four allies having HP percentages equal to or less than #1[i]%"
     },
     "4071016": {
         "title": "Bullet Time",
-        "desc": "Allies have <unbreak>#1[i]</unbreak> turns of action unbroken by enemies"
+        "desc": "Allies have #1[i] turns of action unbroken by enemies"
     },
     "4071017": {
         "title": "Perish Song",
@@ -849,39 +849,39 @@
     },
     "4071018": {
         "title": "Bring a Gun to a Knife Fight",
-        "desc": "Deal <unbreak>#2[i]</unbreak> DMG or higher to an enemy whose HP percentage is equal to or lower than <unbreak>#1[i]%</unbreak> in one single attack"
+        "desc": "Deal #2[i] DMG or higher to an enemy whose HP percentage is equal to or lower than #1[i]% in one single attack"
     },
     "4071401": {
         "title": "Deus Ex Machina",
-        "desc": "Inflict Weakness Break on enemies <unbreak>#1[i]</unbreak> time(s) using the Trailblazer (Destruction) in a single battle"
+        "desc": "Inflict Weakness Break on enemies #1[i] time(s) using the Trailblazer (Destruction) in a single battle"
     },
     "4071501": {
         "title": "Four-and-a-Half Pirouettes",
-        "desc": "Trigger Herta's talent with an ally's single attack, and have her twirl <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Trigger Herta's talent with an ally's single attack, and have her twirl #1[i] time(s)"
     },
     "4071502": {
         "title": "Surge of Tiles",
-        "desc": "Qingque starts her turn in the \"Hidden Hand\" state for <unbreak>#1[i]</unbreak> turn(s) in a row"
+        "desc": "Qingque starts her turn in the \"Hidden Hand\" state for #1[i] turn(s) in a row"
     },
     "4071503": {
         "title": "It's My Turn",
-        "desc": "Seele acts <unbreak>#1[i]</unbreak> time(s) in a row before the next ally unit's turn"
+        "desc": "Seele acts #1[i] time(s) in a row before the next ally unit's turn"
     },
     "4071504": {
         "title": "Trial of Thirteen",
-        "desc": "In a single battle, make Svarog block attacks toward Clara <unbreak>13</unbreak> times"
+        "desc": "In a single battle, make Svarog block attacks toward Clara 13 times"
     },
     "4071505": {
         "title": "Coffee Lover",
-        "desc": "A cup of coffee thrice a day, keeps the foggy head at bay\\n<color=#8790abff>※ In a single battle, use Himeko's Ultimate 3 times</color>"
+        "desc": "A cup of coffee thrice a day, keeps the foggy head at bay\\n※ In a single battle, use Himeko's Ultimate 3 times"
     },
     "4071506": {
         "title": "Over-Protective",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle(s) without having Gepard's Shields take any DMG"
+        "desc": "Win #1[i] battle(s) without having Gepard's Shields take any DMG"
     },
     "4071603": {
         "title": "When the National Anthem Rings",
-        "desc": "Have ally Bronya use \"The Belobog March\" <unbreak>#1[i]</unbreak> time(s) when fighting the bosses Gepard, Cocolia, and Bronya respectively"
+        "desc": "Have ally Bronya use \"The Belobog March\" #1[i] time(s) when fighting the bosses Gepard, Cocolia, and Bronya respectively"
     },
     "4071607": {
         "title": "Foolish Little Brother...",
@@ -901,7 +901,7 @@
     },
     "4072001": {
         "title": "\"I Don't Get No Respect!\"",
-        "desc": "Enrage the Guardian Shadow with <unbreak>#1[i]</unbreak> character(s) in your team"
+        "desc": "Enrage the Guardian Shadow with #1[i] character(s) in your team"
     },
     "4072002": {
         "title": "Chad Norris",
@@ -909,7 +909,7 @@
     },
     "4072003": {
         "title": "Attack! No Matter the Cost!",
-        "desc": "Trigger Silvermane Lieutenant's Shield Reflect at least <unbreak>#1[i]</unbreak> time(s) and defeat it"
+        "desc": "Trigger Silvermane Lieutenant's Shield Reflect at least #1[i] time(s) and defeat it"
     },
     "4072004": {
         "title": "Decapitation Strike",
@@ -953,11 +953,11 @@
     },
     "4072022": {
         "title": "Right-Hand Man's Many Right-Handed Right Hands",
-        "desc": "Defeat Svarog after destroying <unbreak>#1[i]</unbreak> Auxiliary Robot Arm Unit(s)"
+        "desc": "Defeat Svarog after destroying #1[i] Auxiliary Robot Arm Unit(s)"
     },
     "4072023": {
         "title": "Homemade Crushed Ice",
-        "desc": "Defeat the Ice Edge summoned by Cocolia <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Defeat the Ice Edge summoned by Cocolia #1[i] time(s)"
     },
     "4072024": {
         "title": "Road to Canossa",
@@ -989,191 +989,191 @@
     },
     "4080101": {
         "title": "Earth Week",
-        "desc": "Log in <unbreak>#1[i]</unbreak> days in a row"
+        "desc": "Log in #1[i] days in a row"
     },
     "4082301": {
         "title": "Earth Year",
-        "desc": "Log in for a total of <unbreak>#1[i]</unbreak> days"
+        "desc": "Log in for a total of #1[i] days"
     },
     "4082303": {
         "title": "Earth Month",
-        "desc": "Log in for a total of <unbreak>#1[i]</unbreak> days"
+        "desc": "Log in for a total of #1[i] days"
     },
     "4070901": {
         "title": "It Takes Three",
-        "desc": "Win a battle with a team that has <unbreak>#1[i]</unbreak> characters of the same Path"
+        "desc": "Win a battle with a team that has #1[i] characters of the same Path"
     },
     "4070902": {
         "title": "Match-Three",
-        "desc": "Win a battle with a team that has <unbreak>#1[i]</unbreak> characters of the same Type"
+        "desc": "Win a battle with a team that has #1[i] characters of the same Type"
     },
     "4071601": {
         "title": "One Big Happy Family",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle(s) with a team comprising Himeko, Welt, Dan Heng, and March 7th"
+        "desc": "Win #1[i] battle(s) with a team comprising Himeko, Welt, Dan Heng, and March 7th"
     },
     "4071602": {
         "title": "Architects (And Former Architects)",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle(s) with a team comprising Bronya, Gepard, Pela, and Serval"
+        "desc": "Win #1[i] battle(s) with a team comprising Bronya, Gepard, Pela, and Serval"
     },
     "4072305": {
         "title": "Versatile Joker",
-        "desc": "Use a total of <unbreak>#1[i]</unbreak> character(s) to form a team with Sampo and win at least 1 battle"
+        "desc": "Use a total of #1[i] character(s) to form a team with Sampo and win at least 1 battle"
     },
     "4080301": {
         "title": "Diogenes' Utopia",
-        "desc": "See what Belobog is famous for!\\n<color=#8790abff>※ You've obtained every useful prop in the trashcans!</color>"
+        "desc": "See what Belobog is famous for!\\n※ You've obtained every useful prop in the trashcans!"
     },
     "4080302": {
         "title": "Insatiable",
-        "desc": "Sometimes, there can be too much of a good thing...\\n<color=#8790abff>※ Use Vomit Inducing Agent <unbreak>#1[i]</unbreak> time(s)</color>"
+        "desc": "Sometimes, there can be too much of a good thing...\\n※ Use Vomit Inducing Agent #1[i] time(s)"
     },
     "4080303": {
         "title": "Trashy Humor",
-        "desc": "One man's trash is another man's treasure\\n<color=#8790abff>※ Use Trash to synthesize Consumables <unbreak>10</unbreak> times</color>"
+        "desc": "One man's trash is another man's treasure\\n※ Use Trash to synthesize Consumables 10 times"
     },
     "4080304": {
         "title": "Karmic Wheel",
-        "desc": "Let the Higher Existence that lives within our hearts sigh at you\\n<color=#8790abff>※ Find a way to use up your Praise of High Morals</color>"
+        "desc": "Let the Higher Existence that lives within our hearts sigh at you\\n※ Find a way to use up your Praise of High Morals"
     },
     "4080305": {
         "title": "Saint",
-        "desc": "Let the Higher Existence that lives within our hearts give you a thumbs-up\\n<color=#8790abff>※ Obtain Praise of High Morals <unbreak>#1[i]</unbreak> time(s)</color>"
+        "desc": "Let the Higher Existence that lives within our hearts give you a thumbs-up\\n※ Obtain Praise of High Morals #1[i] time(s)"
     },
     "4080501": {
         "title": "Hot-Blooded Trailblazer",
-        "desc": "Choose hot-blooded dialogue options <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Choose hot-blooded dialogue options #1[i] time(s)"
     },
     "4080502": {
         "title": "Pessimistic Trailblazer",
-        "desc": "Choose pessimistic dialogue options <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Choose pessimistic dialogue options #1[i] time(s)"
     },
     "4080503": {
         "title": "Apologetic Trailblazer",
-        "desc": "Choose apologetic dialogue options <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Choose apologetic dialogue options #1[i] time(s)"
     },
     "4080504": {
         "title": "Silent Trailblazer",
-        "desc": "Choose silent dialogue options <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Choose silent dialogue options #1[i] time(s)"
     },
     "4080505": {
         "title": "The Echoer",
-        "desc": "Choose repetitive dialogue options <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Choose repetitive dialogue options #1[i] time(s)"
     },
     "4080506": {
         "title": "The Meaning of Choice",
-        "desc": "Choose gender-specific dialogue options <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "Choose gender-specific dialogue options #1[i] time(s)"
     },
     "4070903": {
         "title": "Lone Wolf",
-        "desc": "Win <unbreak>#1[i]</unbreak> battles with only one character on the team"
+        "desc": "Win #1[i] battles with only one character on the team"
     },
     "4070904": {
         "title": "For the Amber Lord",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of Preservation"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of Preservation"
     },
     "4070905": {
         "title": "Ablution Dictum",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of Destruction"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of Destruction"
     },
     "4070906": {
         "title": "The Xianzhou Alliance",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of The Hunt"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of The Hunt"
     },
     "4070907": {
         "title": "Meaningless Achievement",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of Nihility"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of Nihility"
     },
     "4070908": {
         "title": "The Great Accord",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of Harmony"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of Harmony"
     },
     "4070909": {
         "title": "Knowledge Is Power",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of Erudition"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of Erudition"
     },
     "4070910": {
         "title": "Miracles of Yaoshi",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> characters following the Path of Abundance"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] characters following the Path of Abundance"
     },
     "4070911": {
         "title": "Tempestuous Suppression",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Wind-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Wind-Type character(s)"
     },
     "4070912": {
         "title": "Fulguration Beckoner",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Lightning-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Lightning-Type character(s)"
     },
     "4070913": {
         "title": "Total Conflagration",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Fire-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Fire-Type character(s)"
     },
     "4070914": {
         "title": "Glacier Dynast",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Ice-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Ice-Type character(s)"
     },
     "4070915": {
         "title": "Quantum Test",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Quantum-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Quantum-Type character(s)"
     },
     "4070916": {
         "title": "Imaginary Law",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Imaginary-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Imaginary-Type character(s)"
     },
     "4070917": {
         "title": "Speak with Fists",
-        "desc": "Win <unbreak>#2[i]</unbreak> battle(s) with a team that has <unbreak>#1[i]</unbreak> Physical-Type character(s)"
+        "desc": "Win #2[i] battle(s) with a team that has #1[i] Physical-Type character(s)"
     },
     "4090201": {
         "title": "The First and Last Freedom",
-        "desc": "Enter battle with <unbreak>#1[i]</unbreak> allies with HP percentage equal to or less than <unbreak>#2[i]%</unbreak> in Simulated Universe"
+        "desc": "Enter battle with #1[i] allies with HP percentage equal to or less than #2[i]% in Simulated Universe"
     },
     "4090202": {
         "title": "The Art of Loving",
-        "desc": "Allies receive Shields <unbreak>#1[i]</unbreak> times in Simulated Universe"
+        "desc": "Allies receive Shields #1[i] times in Simulated Universe"
     },
     "4090203": {
         "title": "Freeze!",
-        "desc": "Keep a single enemy Frozen for <unbreak>#1[i]</unbreak> turns in Simulated Universe"
+        "desc": "Keep a single enemy Frozen for #1[i] turns in Simulated Universe"
     },
     "4090204": {
         "title": "Elemental Reaction System",
-        "desc": "Deal <unbreak>#1[i]</unbreak> or more Types of DMG in a single attack in Simulated Universe"
+        "desc": "Deal #1[i] or more Types of DMG in a single attack in Simulated Universe"
     },
     "4090205": {
         "title": "Your Opponent Has Poor Connection",
-        "desc": "Allies take consecutive actions <unbreak>#1[i]</unbreak> time(s) in Simulated Universe"
+        "desc": "Allies take consecutive actions #1[i] time(s) in Simulated Universe"
     },
     "4090206": {
         "title": "Twenty Four Love Poems and a Song of Despair",
-        "desc": "All allies have HP percentages equal to or less than <unbreak>#1[i]%</unbreak> when winning a battle in Simulated Universe"
+        "desc": "All allies have HP percentages equal to or less than #1[i]% when winning a battle in Simulated Universe"
     },
     "4090207": {
         "title": "We Call the Heart Dancing in the Dark the Moon",
-        "desc": "Have at least <unbreak>#1[i]</unbreak> enemy unit(s) be afflicted with Shock, Burn, Bleed, and Wind Shear simultaneously in the Simulated Universe"
+        "desc": "Have at least #1[i] enemy unit(s) be afflicted with Shock, Burn, Bleed, and Wind Shear simultaneously in the Simulated Universe"
     },
     "4090301": {
         "title": "Good Night, My Friend",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies in Simulated Universe"
+        "desc": "Defeat #1[i] enemies in Simulated Universe"
     },
     "4090303": {
         "title": "Ready Player One",
-        "desc": "Defeat <unbreak>#1[i]</unbreak> enemies in Simulated Universe"
+        "desc": "Defeat #1[i] enemies in Simulated Universe"
     },
     "4090501": {
         "title": "Consumerism Psychology",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> Cosmic Fragment(s)"
+        "desc": "Obtain #1[i] Cosmic Fragment(s)"
     },
     "4090503": {
         "title": "The Great Cosmic Gatsby",
-        "desc": "Obtain <unbreak>#1[i]</unbreak> Cosmic Fragment(s)"
+        "desc": "Obtain #1[i] Cosmic Fragment(s)"
     },
     "4091001": {
         "title": "A Special Experience",
-        "desc": "Encounter <unbreak>#1[i]</unbreak> Special Event(s) in Simulated Universe"
+        "desc": "Encounter #1[i] Special Event(s) in Simulated Universe"
     },
     "4091003": {
         "title": "A Not-So-Special Experience",
-        "desc": "Encounter <unbreak>#1[i]</unbreak> Special Event(s) in Simulated Universe"
+        "desc": "Encounter #1[i] Special Event(s) in Simulated Universe"
     },
     "4092301": {
         "title": "A Room of One's Own",
@@ -1189,131 +1189,131 @@
     },
     "4092312": {
         "title": "Fevered Strike",
-        "desc": "Break <unbreak>#1[i]</unbreak> destructible object(s) in Simulated Universe"
+        "desc": "Break #1[i] destructible object(s) in Simulated Universe"
     },
     "4092313": {
         "title": "Rosebud",
-        "desc": "Break <unbreak>#1[i]</unbreak> destructible object(s) in Simulated Universe"
+        "desc": "Break #1[i] destructible object(s) in Simulated Universe"
     },
     "4092314": {
         "title": "Adrenaline",
-        "desc": "Actively Enhance Blessings <unbreak>#1[i]</unbreak> times in Simulated Universe"
+        "desc": "Actively Enhance Blessings #1[i] times in Simulated Universe"
     },
     "4092315": {
         "title": "Infectious Good Luck",
-        "desc": "Actively Enhance Blessings <unbreak>#1[i]</unbreak> times in Simulated Universe"
+        "desc": "Actively Enhance Blessings #1[i] times in Simulated Universe"
     },
     "4092316": {
         "title": "Do Android Snails Dream of Electric Trees?",
-        "desc": "Activate abilities in the Ability Tree <unbreak>#1[i]</unbreak> times"
+        "desc": "Activate abilities in the Ability Tree #1[i] times"
     },
     "4092317": {
         "title": "Expert Tree-Climber",
-        "desc": "Activate abilities in the Ability Tree <unbreak>#1[i]</unbreak> times"
+        "desc": "Activate abilities in the Ability Tree #1[i] times"
     },
     "4092318": {
         "title": "My Swiss Army Curios",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Curios in Simulated Universe"
+        "desc": "Unlock #1[i] Curios in Simulated Universe"
     },
     "4092319": {
         "title": "Life Is but a Game",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Curios in Simulated Universe"
+        "desc": "Unlock #1[i] Curios in Simulated Universe"
     },
     "4092320": {
         "title": "Who Moved My Pokeball?",
-        "desc": "Capture Trotters <unbreak>#1[i]</unbreak> times in Simulated Universe"
+        "desc": "Capture Trotters #1[i] times in Simulated Universe"
     },
     "4092321": {
         "title": "A Porcine Football Team",
-        "desc": "Capture Trotters <unbreak>#1[i]</unbreak> times in Simulated Universe"
+        "desc": "Capture Trotters #1[i] times in Simulated Universe"
     },
     "4092322": {
         "title": "Don't Let It Get Away!",
-        "desc": "Let Trotters escape <unbreak>#1[i]</unbreak> times in Simulated Universe"
+        "desc": "Let Trotters escape #1[i] times in Simulated Universe"
     },
     "4092323": {
         "title": "Existence Precedes Essence",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of Preservation in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of Preservation in Simulated Universe"
     },
     "4092324": {
         "title": "Memories Look at Me",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of Remembrance in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of Remembrance in Simulated Universe"
     },
     "4092325": {
         "title": "Create A Beautiful Chaos",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of Elation in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of Elation in Simulated Universe"
     },
     "4092326": {
         "title": "Velocity of the Universe's Expansion",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of The Hunt in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of The Hunt in Simulated Universe"
     },
     "4092327": {
         "title": "Wreck-It Self",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of Destruction in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of Destruction in Simulated Universe"
     },
     "4092328": {
         "title": "Gnosticism",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of Nihility in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of Nihility in Simulated Universe"
     },
     "4092329": {
         "title": "Exhalation",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessings of Abundance in Simulated Universe"
+        "desc": "Unlock #1[i] Blessings of Abundance in Simulated Universe"
     },
     "4092330": {
         "title": "Millennium Bug in Amber",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Preservation when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Preservation when clearing Simulated Universe"
     },
     "4092331": {
         "title": "You See Memories",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Remembrance when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Remembrance when clearing Simulated Universe"
     },
     "4092332": {
         "title": "Don't Worry Be Happy",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Elation when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Elation when clearing Simulated Universe"
     },
     "4092333": {
         "title": "The Speed of Thought",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of The Hunt when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of The Hunt when clearing Simulated Universe"
     },
     "4092334": {
         "title": "Cool Guys Don't Look At Explosions",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Destruction when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Destruction when clearing Simulated Universe"
     },
     "4092335": {
         "title": "The Plague of Fantasies",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Nihility when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Nihility when clearing Simulated Universe"
     },
     "4092336": {
         "title": "Angel's Breath",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Abundance when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Abundance when clearing Simulated Universe"
     },
     "4092337": {
         "title": "A Finger in Every Pie",
-        "desc": "Have Blessings from <unbreak>#1[i]</unbreak> or more Paths when clearing Simulated Universe"
+        "desc": "Have Blessings from #1[i] or more Paths when clearing Simulated Universe"
     },
     "4092338": {
         "title": "An Island Unto Oneself",
-        "desc": "Have <unbreak>#1[i]</unbreak> or less Blessing(s) when clearing Simulated Universe at difficulty 2 or higher"
+        "desc": "Have #1[i] or less Blessing(s) when clearing Simulated Universe at difficulty 2 or higher"
     },
     "4092339": {
         "title": "Private Collector",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) when clearing Simulated Universe"
     },
     "4092340": {
         "title": "Triangle Strategy",
-        "desc": "Flip cards <unbreak>#1[i]</unbreak> times in a single Nildis event in Simulated Universe"
+        "desc": "Flip cards #1[i] times in a single Nildis event in Simulated Universe"
     },
     "4092341": {
         "title": "Master Ball",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Curio(s) when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Curio(s) when clearing Simulated Universe"
     },
     "4092342": {
         "title": "A 4-Star Rarity Daydream",
-        "desc": "Have <unbreak>#1[i]</unbreak> or less Cosmic Fragment(s) when clearing Simulated Universe"
+        "desc": "Have #1[i] or less Cosmic Fragment(s) when clearing Simulated Universe"
     },
     "4092343": {
         "title": "It's Good to Be Rich!",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Cosmic Fragment(s) when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Cosmic Fragment(s) when clearing Simulated Universe"
     },
     "4092344": {
         "title": "On Fire off the Shoulder of Orion",
@@ -1341,7 +1341,7 @@
     },
     "4092351": {
         "title": "The Grand Budapest Hotel",
-        "desc": "Clear Simulated Universe at difficulty 2 or higher and use Techniques <unbreak>#1[i]</unbreak> times"
+        "desc": "Clear Simulated Universe at difficulty 2 or higher and use Techniques #1[i] times"
     },
     "4092352": {
         "title": "Aleph Is the Universe",
@@ -1349,7 +1349,7 @@
     },
     "4092353": {
         "title": "Coherence",
-        "desc": "Clear Simulated Universe at difficulty 2 or higher with <unbreak>#1[i]</unbreak> characters of the same Path"
+        "desc": "Clear Simulated Universe at difficulty 2 or higher with #1[i] characters of the same Path"
     },
     "4092361": {
         "title": "Does This Game Not Have a Platinum Trophy?",
@@ -1357,7 +1357,7 @@
     },
     "4042401": {
         "title": "Walk Into The Trap",
-        "desc": "Capture Lost Trotters <unbreak>#1[i]</unbreak> time(s) in battle"
+        "desc": "Capture Lost Trotters #1[i] time(s) in battle"
     },
     "4052401": {
         "title": "Where Can A Wanderer Rest?",
@@ -1369,7 +1369,7 @@
     },
     "4052403": {
         "title": "Coffin Dancer",
-        "desc": "Witness Luocha's hidden side.\\n<color=#8790abff>※ Check the restored recording and listen to Luocha's monologue.</color>"
+        "desc": "Witness Luocha's hidden side.\\n※ Check the restored recording and listen to Luocha's monologue."
     },
     "4052404": {
         "title": "Free For Today",
@@ -1397,35 +1397,35 @@
     },
     "4022401": {
         "title": "Texting Enjoyer",
-        "desc": "Reply to <unbreak>#1[i]</unbreak> idle chat texts from other characters"
+        "desc": "Reply to #1[i] idle chat texts from other characters"
     },
     "4022402": {
         "title": "That Friendship Has Sailed",
-        "desc": "Reply to <unbreak>#1[i]</unbreak> idle chat texts from other characters"
+        "desc": "Reply to #1[i] idle chat texts from other characters"
     },
     "4022403": {
         "title": "Glued to Books",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable items from the Xianzhou Luofu"
+        "desc": "Collect #1[i] readable items from the Xianzhou Luofu"
     },
     "4022404": {
         "title": "Learned in All Things",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable items from the Xianzhou Luofu"
+        "desc": "Collect #1[i] readable items from the Xianzhou Luofu"
     },
     "4072401": {
         "title": "This Fragile Body",
-        "desc": "Use Silver Wolf to apply different Type Weaknesses for a total of <unbreak>#1[i]</unbreak> time(s) to a single enemy in a single battle"
+        "desc": "Use Silver Wolf to apply different Type Weaknesses for a total of #1[i] time(s) to a single enemy in a single battle"
     },
     "4072402": {
         "title": "When the Hunter Becomes the Hunted",
-        "desc": "Use Silver Wolf to fight enemy Kafka and apply <unbreak>#1[i]</unbreak> Weakness(es) to her in a single battle"
+        "desc": "Use Silver Wolf to fight enemy Kafka and apply #1[i] Weakness(es) to her in a single battle"
     },
     "4082401": {
         "title": "Life in All Its Forms",
-        "desc": "Trigger <unbreak>#1[i]</unbreak> different HP restoration voice lines with Luocha's healing"
+        "desc": "Trigger #1[i] different HP restoration voice lines with Luocha's healing"
     },
     "4082402": {
         "title": "Starry Saga of the Shattered Sword",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle(s) with a team comprising Luocha, Sushang, and Yanqing"
+        "desc": "Win #1[i] battle(s) with a team comprising Luocha, Sushang, and Yanqing"
     },
     "4042501": {
         "title": "I Was Here Flying: Meridian Pin",
@@ -1449,15 +1449,15 @@
     },
     "4042506": {
         "title": "Travels Afar",
-        "desc": "Activate Space Anchors <unbreak>#1[i]</unbreak> times on the Xianzhou Luofu"
+        "desc": "Activate Space Anchors #1[i] times on the Xianzhou Luofu"
     },
     "4042507": {
         "title": "The Star of Wealth Shines Upon You",
-        "desc": "Open Treasures <unbreak>#1[i]</unbreak> times on the Xianzhou Luofu"
+        "desc": "Open Treasures #1[i] times on the Xianzhou Luofu"
     },
     "4072501": {
         "title": "Sickly Complexion",
-        "desc": "Dispel the Prana-Siphon state for a total of <unbreak>#1[i]</unbreak> times during a single battle against Phantylia"
+        "desc": "Dispel the Prana-Siphon state for a total of #1[i] times during a single battle against Phantylia"
     },
     "4072502": {
         "title": "Horticulturalist",
@@ -1469,7 +1469,7 @@
     },
     "4072504": {
         "title": "Unfulfilled Wish",
-        "desc": "\"Unnecessary.\"\\n<color=#8790abff>※ In a single battle, use the character Blade to restore his HP from less than or equal to <unbreak>#1[i]%</unbreak> to greater than or equal to <unbreak>30%</unbreak> in one single attack for <unbreak>#2[i]</unbreak> time(s)</color>"
+        "desc": "\"Unnecessary.\"\\n※ In a single battle, use the character Blade to restore his HP from less than or equal to #1[i]% to greater than or equal to 30% in one single attack for #2[i] time(s)"
     },
     "4082501": {
         "title": "Guardian of the Underworld",
@@ -1481,19 +1481,19 @@
     },
     "4072506": {
         "title": "Win by Decision",
-        "desc": "In a single battle, use Luka's \"Sky-Shatter Fist\" for a total of <unbreak>#1[i]</unbreak> time(s)"
+        "desc": "In a single battle, use Luka's \"Sky-Shatter Fist\" for a total of #1[i] time(s)"
     },
     "4032501": {
         "title": "Svah Sanishyu",
-        "desc": "If they come back to life, then just kill them again...\\n<color=#8790abff>※ Defeat the Master of the Disciples of Sanctus Medicus</color>"
+        "desc": "If they come back to life, then just kill them again...\\n※ Defeat the Master of the Disciples of Sanctus Medicus"
     },
     "4032502": {
         "title": "The Imbibitor Lunae Arrives",
-        "desc": "Sea's Depths Conceal No Stone, Dragon's Breaths Reveal the Moon.\\n<color=#8790abff>※ Witness Dan Heng part the waters in Scalegorge Waterscape</color>"
+        "desc": "Sea's Depths Conceal No Stone, Dragon's Breaths Reveal the Moon.\\n※ Witness Dan Heng part the waters in Scalegorge Waterscape"
     },
     "4032503": {
         "title": "The Arbor Snaps",
-        "desc": "All plots shall be overturned\\n<color=#8790abff>※ Help Jing Yuan to defeat Phantylia</color>"
+        "desc": "All plots shall be overturned\\n※ Help Jing Yuan to defeat Phantylia"
     },
     "4052501": {
         "title": "The Willing Does Not Bite",
@@ -1521,7 +1521,7 @@
     },
     "4052507": {
         "title": "Free Will",
-        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<color=#8790abff>※ You chose to help Kafka</color>"
+        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n※ You chose to help Kafka"
     },
     "4052508": {
         "title": "Ends Above the Means",
@@ -1545,79 +1545,79 @@
     },
     "4052511": {
         "title": "True Free Will",
-        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<color=#8790abff>※ You chose to leave Kafka. Not many people would, but this is how you proved your free will</color>"
+        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n※ You chose to leave Kafka. Not many people would, but this is how you proved your free will"
     },
     "4092601": {
-        "title": "<i>Spring in Fialta</i>",
-        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Elation, achieve a total of <unbreak>#1[i]</unbreak> different types of Happiness"
+        "title": "Spring in Fialta",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Elation, achieve a total of #1[i] different types of Happiness"
     },
     "4092602": {
         "title": "The Hunter Games",
-        "desc": "In Simulated Universe: Swarm Disaster, capture more than <unbreak>#1[i]</unbreak> Trotters through combat in the same plane while following the Path of The Hunt"
+        "desc": "In Simulated Universe: Swarm Disaster, capture more than #1[i] Trotters through combat in the same plane while following the Path of The Hunt"
     },
     "4092603": {
         "title": "Macadam Stories",
-        "desc": "In Simulated Universe: Swarm Disaster, use the Path of Remembrance to consecutively copy a Reward domain <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, use the Path of Remembrance to consecutively copy a Reward domain #1[i] times"
     },
     "4092604": {
         "title": "The Predator",
-        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Destruction, achieve <unbreak>#1[i]</unbreak> victories in battle"
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Destruction, achieve #1[i] victories in battle"
     },
     "4092605": {
         "title": "Symbolic Exchange and Death",
-        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Nihility, enter a Blank domain <unbreak>#1[i]</unbreak> times"
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Nihility, enter a Blank domain #1[i] times"
     },
     "4092606": {
         "title": "Simulated Universe Wasn't Built in a Day",
-        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Preservation, apply Cornerstone to <unbreak>#1[i]</unbreak> domains of different types"
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Preservation, apply Cornerstone to #1[i] domains of different types"
     },
     "4092607": {
         "title": "Nick of Time",
-        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Abundance, the remaining Countdown is more than or equal to <unbreak>#1[i]</unbreak>"
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Abundance, the remaining Countdown is more than or equal to #1[i]"
     },
     "4092608": {
         "title": "Back to Klendathu",
-        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Propagation, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain for <unbreak>#1[i]</unbreak> times"
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Propagation, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain for #1[i] times"
     },
     "4092609": {
-        "title": "<i>Welcome to the Monkey House</i>",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Elation for a total of <unbreak>#1[i]</unbreak> times"
+        "title": "Welcome to the Monkey House",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Elation for a total of #1[i] times"
     },
     "4092610": {
         "title": "Scattered Hailstones, Shattered Ghostbones",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: The Hunt for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: The Hunt for a total of #1[i] times"
     },
     "4092611": {
         "title": "Eternity and a Day",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Remembrance for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Remembrance for a total of #1[i] times"
     },
     "4092612": {
         "title": "The World as Representation",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Nihility for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Nihility for a total of #1[i] times"
     },
     "4092613": {
         "title": "Scorched Earth",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Destruction for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Destruction for a total of #1[i] times"
     },
     "4092614": {
         "title": "Hearken, Waken, Enliven",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Abundance for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Abundance for a total of #1[i] times"
     },
     "4092615": {
         "title": "Homogeneous Nucleation",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Preservation for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Preservation for a total of #1[i] times"
     },
     "4092616": {
         "title": "Methuselah's Children",
-        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Propagation for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Propagation for a total of #1[i] times"
     },
     "4092617": {
         "title": "Data Bank Overseer",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Cosmic Fragment(s) when clearing Simulated Universe: Swarm Disaster"
+        "desc": "Have #1[i] or more Cosmic Fragment(s) when clearing Simulated Universe: Swarm Disaster"
     },
     "4092618": {
         "title": "Stars Within Reach",
-        "desc": "<u>Wield unlimited power</u> in The IPC Promotion Saga of the Simulated Universe: Swarm Disaster"
+        "desc": "Wield unlimited power in The IPC Promotion Saga of the Simulated Universe: Swarm Disaster"
     },
     "4092619": {
         "title": "Q",
@@ -1629,23 +1629,23 @@
     },
     "4092621": {
         "title": "Wreck-It Self II",
-        "desc": "In one run of Simulated Universe: Swarm Disaster, break a number of destructible objects greater than or equal to <unbreak>#1[i]</unbreak>"
+        "desc": "In one run of Simulated Universe: Swarm Disaster, break a number of destructible objects greater than or equal to #1[i]"
     },
     "4092622": {
         "title": "Harvest Moon",
-        "desc": "In Simulated Universe: Swarm Disaster, capture Trotters equal to or greater than <unbreak>#1[i]</unbreak> within one Adventure domain"
+        "desc": "In Simulated Universe: Swarm Disaster, capture Trotters equal to or greater than #1[i] within one Adventure domain"
     },
     "4092623": {
         "title": "Room of Parting Paths",
-        "desc": "In Simulated Universe: Swarm Disaster, light up <unbreak>#1[i]</unbreak> hidden \"Trail of Pathstrider\""
+        "desc": "In Simulated Universe: Swarm Disaster, light up #1[i] hidden \"Trail of Pathstrider\""
     },
     "4092624": {
         "title": "Choir of One",
-        "desc": "Generate <unbreak>#1[i]</unbreak> Resonance Interplays in one run of Simulated Universe: Swarm Disaster"
+        "desc": "Generate #1[i] Resonance Interplays in one run of Simulated Universe: Swarm Disaster"
     },
     "4092625": {
         "title": "To Be, or Not to Be",
-        "desc": "In Simulated Universe: Swarm Disaster, make <unbreak>#1[i]</unbreak> Choices of the Paths in Occurrence domains"
+        "desc": "In Simulated Universe: Swarm Disaster, make #1[i] Choices of the Paths in Occurrence domains"
     },
     "4092626": {
         "title": "Dial of Destiny",
@@ -1653,11 +1653,11 @@
     },
     "4092627": {
         "title": "Things to Come",
-        "desc": "Cheat a total of <unbreak>#1[i]</unbreak> times in Simulated Universe: Swarm Disaster"
+        "desc": "Cheat a total of #1[i] times in Simulated Universe: Swarm Disaster"
     },
     "4092628": {
         "title": "Back to the Future",
-        "desc": "Reroll a total of <unbreak>#1[i]</unbreak> times in Simulated Universe: Swarm Disaster"
+        "desc": "Reroll a total of #1[i] times in Simulated Universe: Swarm Disaster"
     },
     "4092629": {
         "title": "The End of Eternity",
@@ -1669,23 +1669,23 @@
     },
     "4092631": {
         "title": "Weyland-Yutani Investigator",
-        "desc": "In Simulated Universe: Swarm Disaster, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain with a Path other than Propagation for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In Simulated Universe: Swarm Disaster, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain with a Path other than Propagation for a total of #1[i] times"
     },
     "4092632": {
         "title": "Mass Relay",
-        "desc": "Have the Planar Disarray's Disruption Level at level <unbreak>#1[i]</unbreak> or higher when completing Simulated Universe: Swarm Disaster"
+        "desc": "Have the Planar Disarray's Disruption Level at level #1[i] or higher when completing Simulated Universe: Swarm Disaster"
     },
     "4092633": {
         "title": "Will of the Hive",
-        "desc": "Unlock <unbreak>#1[i]</unbreak> Blessing of Propagation in Simulated Universe"
+        "desc": "Unlock #1[i] Blessing of Propagation in Simulated Universe"
     },
     "4092634": {
         "title": "Phase IV",
-        "desc": "Have <unbreak>#1[i]</unbreak> or more Blessing(s) of Propagation when clearing Simulated Universe"
+        "desc": "Have #1[i] or more Blessing(s) of Propagation when clearing Simulated Universe"
     },
     "4092635": {
-        "title": "The <unbreak>400</unbreak> Blows",
-        "desc": "Use Basic ATK at least <unbreak>#1[i]</unbreak> times and win within a single battle in Simulated Universe"
+        "title": "The 400 Blows",
+        "desc": "Use Basic ATK at least #1[i] times and win within a single battle in Simulated Universe"
     },
     "4092636": {
         "title": "Silent Running",
@@ -1697,7 +1697,7 @@
     },
     "4092638": {
         "title": "Nuke Them From Orbit",
-        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty V"
+        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty 5"
     },
     "4092639": {
         "title": "Plague Across Eons",
@@ -1713,15 +1713,15 @@
     },
     "4082601": {
         "title": "Hold Your Horses",
-        "desc": "Persist for <unbreak>#1[i]</unbreak> seconds without entering combat while being pursued by the enemy."
+        "desc": "Persist for #1[i] seconds without entering combat while being pursued by the enemy."
     },
     "4082602": {
         "title": "Tea is Thicker Than Water",
-        "desc": "Drink Immortal's Delight daily for <unbreak>#1[i]</unbreak> consecutive days"
+        "desc": "Drink Immortal's Delight daily for #1[i] consecutive days"
     },
     "4082603": {
         "title": "Luofu Foodie",
-        "desc": "Drink mung bean soda daily for <unbreak>#1[i]</unbreak> consecutive days"
+        "desc": "Drink mung bean soda daily for #1[i] consecutive days"
     },
     "4082604": {
         "title": "It's Just a Picture",
@@ -1733,11 +1733,11 @@
     },
     "4082606": {
         "title": "You've Been Pom'd!",
-        "desc": "Send Pom-Pom's stickers to a total of <unbreak>#1[i]</unbreak> friends"
+        "desc": "Send Pom-Pom's stickers to a total of #1[i] friends"
     },
     "4082607": {
         "title": "Astral Express-ions",
-        "desc": "Send a total of <unbreak>#1[i]</unbreak> Astral Express Crew Member stickers"
+        "desc": "Send a total of #1[i] Astral Express Crew Member stickers"
     },
     "4082608": {
         "title": "To The Other Me",
@@ -1745,7 +1745,7 @@
     },
     "4032601": {
         "title": "Transient Are the Living",
-        "desc": "Farewell, Xianzhou Luofu\\n<color=#8790abff>※ Participate in the soul-soothing ceremony and form an alliance with the Xianzhou</color>"
+        "desc": "Farewell, Xianzhou Luofu\\n※ Participate in the soul-soothing ceremony and form an alliance with the Xianzhou"
     },
     "4052601": {
         "title": "Let Aurum Alley Thrive Once More!",
@@ -1753,19 +1753,19 @@
     },
     "4052603": {
         "title": "Peaceful Prime Time",
-        "desc": "Listen to full episode of Interastral Peace Broadcast No. <unbreak>#1[i]</unbreak>"
+        "desc": "Listen to full episode of Interastral Peace Broadcast No. #1[i]"
     },
     "4052604": {
         "title": "Trojan Starskiff",
-        "desc": "Stack <unbreak>#1[i]</unbreak> Aurumaton Gatekeeper(s) on the freight starskiff in Aurum Alley's Hustle and Bustle"
+        "desc": "Stack #1[i] Aurumaton Gatekeeper(s) on the freight starskiff in Aurum Alley's Hustle and Bustle"
     },
     "4052605": {
         "title": "Outclassed by None",
-        "desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} on <unbreak>#1[i]</unbreak> freight starskiff(s) during Aurum Alley's Hustle and Bustle"
+        "desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} on #1[i] freight starskiff(s) during Aurum Alley's Hustle and Bustle"
     },
     "4052606": {
         "title": "Horn of Plenty",
-        "desc": "Earn <unbreak>#1[i]</unbreak> of Merchant Guild's funds for the Aurum Alley Merchant Guild in Aurum Alley's Hustle and Bustle"
+        "desc": "Earn #1[i] of Merchant Guild's funds for the Aurum Alley Merchant Guild in Aurum Alley's Hustle and Bustle"
     },
     "4052607": {
         "title": "Pawnshop No. 8",
@@ -1781,15 +1781,15 @@
     },
     "4052610": {
         "title": "Funds Expended, Fortunes Expanded",
-        "desc": "Spend <unbreak>#1[i]</unbreak> of Merchant Guild's funds in Aurum Alley's Hustle and Bustle"
+        "desc": "Spend #1[i] of Merchant Guild's funds in Aurum Alley's Hustle and Bustle"
     },
     "4052611": {
         "title": "Stellar Stacker",
-        "desc": "Arrange <unbreak>#1[i]</unbreak> units of inventory goods onto a single freight starskiff in Aurum Alley's Hustle and Bustle"
+        "desc": "Arrange #1[i] units of inventory goods onto a single freight starskiff in Aurum Alley's Hustle and Bustle"
     },
     "4052612": {
         "title": "Markets: Skyline",
-        "desc": "In Aurum Alley's Hustle and Bustle, achieve a shipping lane planning score of <unbreak>#1[i]</unbreak> for any store"
+        "desc": "In Aurum Alley's Hustle and Bustle, achieve a shipping lane planning score of #1[i] for any store"
     },
     "4052613": {
         "title": "Truthful Trailblazer",
@@ -1849,7 +1849,7 @@
     },
     "4072607": {
         "title": "Just a Bug",
-        "desc": "In a single attack, simultaneously defeat <unbreak>#1[i]</unbreak> Swarm: True Sting(s)"
+        "desc": "In a single attack, simultaneously defeat #1[i] Swarm: True Sting(s)"
     },
     "4072608": {
         "title": "Wardance: Glaive Trial",
@@ -1857,23 +1857,23 @@
     },
     "4072609": {
         "title": "Full Metal Racket",
-        "desc": "Enter a battle by attacking a distant enemy with Natasha during exploration"
+        "desc": "Enter a battle by attacking a distant enemy or destroy a destructible object at a distance with Natasha during exploration"
     },
     "4072610": {
         "title": "Dragon Trifecta",
-        "desc": "Use Fulgurant Leap during Dan Heng • Imbibitor Lunae's turn for <unbreak>#1[i]</unbreak> consecutive times in a single battle"
+        "desc": "Use Fulgurant Leap during Dan Heng • Imbibitor Lunae's turn for #1[i] consecutive times in a single battle"
     },
     "4072611": {
         "title": "Survival, Survival, Survival",
-        "desc": "Use Lynx to increase allies' Max HP <unbreak>#1[i]</unbreak> times in a single battle"
+        "desc": "Use Lynx to increase allies' Max HP #1[i] times in a single battle"
     },
     "4072612": {
         "title": "Heh, Cosmic Big Lotto?",
-        "desc": "In a single battle, trigger the HP Restore effect of Fu Xuan's Talent \"Bleak Breeds Bliss\" for a total of <unbreak>#1[i]</unbreak> times"
+        "desc": "In a single battle, trigger the HP Restore effect of Fu Xuan's Talent \"Bleak Breeds Bliss\" for a total of #1[i] times"
     },
     "4032701": {
         "title": "Sunny Deeds Beget Rainy Needs",
-        "desc": "Help Jarilo-VI and Belobog solve their enormous crisis (again)\\n<color=#8790abff>※ Complete Trailblaze Continuance \"Future Market\"</color>"
+        "desc": "Help Jarilo-VI and Belobog solve their enormous crisis (again)\\n※ Complete Trailblaze Continuance \"Future Market\""
     },
     "4052701": {
         "title": "Into Hall of Fame",
@@ -1953,7 +1953,7 @@
     },
     "4052720": {
         "title": "The First Step of the Future",
-        "desc": "Stay updated on the development progress of Belobog.\\n<color=#8790abff>※ Purchase <i>Miners Weekly</i> Issue <unbreak>226</unbreak></color>"
+        "desc": "Stay updated on the development progress of Belobog.\\n※ Purchase Miners Weekly Issue 226"
     },
     "4052721": {
         "title": "Inorganic Wisdom Fruit",
@@ -2013,7 +2013,7 @@
     },
     "4082701": {
         "title": "Spamming SPAM",
-        "desc": "Feed Trotter in large quantities\\n<color=#8790abff>※ Use the \"{TEXTJOIN#54}\" Chat Box to send a large amount of text content</color>"
+        "desc": "Feed Trotter in large quantities\\n※ Use the \"{TEXTJOIN#54}\" Chat Box to send a large amount of text content"
     },
     "4082702": {
         "title": "War at Home",
@@ -2025,7 +2025,7 @@
     },
     "4082704": {
         "title": "Trust the Process",
-        "desc": "Purchase <unbreak>#1[i]</unbreak> Unclaimed Valuable Parcels from Maozhen in Cloudford"
+        "desc": "Purchase #1[i] Unclaimed Valuable Parcels from Maozhen in Cloudford"
     },
     "4082705": {
         "title": "All Is Well",
@@ -2045,7 +2045,7 @@
     },
     "4082709": {
         "title": "Wooden Dummy: Star Rail",
-        "desc": "Complete <unbreak>#1[i]</unbreak> battles using the Automatic Wooden Dummy"
+        "desc": "Complete #1[i] battles using the Automatic Wooden Dummy"
     },
     "4092801": {
         "title": "Knight of Beauty's Self-Help",
@@ -2053,11 +2053,11 @@
     },
     "4082801": {
         "title": "Call Me in Your Heart",
-        "desc": "Triggered <unbreak>#1[i]</unbreak> unique voice lines when adding characters to a team with {NICKNAME}"
+        "desc": "Triggered #1[i] unique voice lines when adding characters to a team with {NICKNAME}"
     },
     "4082802": {
         "title": "Meta-Guardians of the Galaxy",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle with a team comprising Argenti and {NICKNAME}"
+        "desc": "Win #1[i] battle with a team comprising Argenti and {NICKNAME}"
     },
     "4082803": {
         "title": "Strategic Runaway",
@@ -2065,7 +2065,7 @@
     },
     "4082804": {
         "title": "Who You Gonna Call?",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle(s) with a team comprising Huohuo, Sushang, Guinaifen, and {NICKNAME}"
+        "desc": "Win #1[i] battle(s) with a team comprising Huohuo, Sushang, Guinaifen, and {NICKNAME}"
     },
     "4082805": {
         "title": "Good Night Makka Pakka",
@@ -2077,11 +2077,11 @@
     },
     "4032801": {
         "title": "Fluffy, Puffy Tail",
-        "desc": "Collect ghost stories with the ghost-hunting squad\\n<color=#8790abff>※ Retrieve Tail and subdue the heliobi that have escaped on the Luofu...</color>"
+        "desc": "Collect ghost stories with the ghost-hunting squad\\n※ Retrieve Tail and subdue the heliobi that have escaped on the Luofu..."
     },
     "4032802": {
         "title": "The Dangers in My Heart",
-        "desc": "Explore supernatural events in Fyxestroll Garden with Guinaifen\\n<color=#8790abff>※ Subdue the great heliobus Cirrus and resolve the heliobus crisis in Fyxestroll Garden.</color>"
+        "desc": "Explore supernatural events in Fyxestroll Garden with Guinaifen\\n※ Subdue the great heliobus Cirrus and resolve the heliobus crisis in Fyxestroll Garden."
     },
     "4012801": {
         "title": "Orderly Entrance",
@@ -2125,19 +2125,19 @@
     },
     "4052810": {
         "title": "\"Leave a Like!\"",
-        "desc": "Liked <unbreak>#1[i]</unbreak> post(s) on the Ghostly Grove website"
+        "desc": "Liked #1[i] post(s) on the Ghostly Grove website"
     },
     "4052811": {
         "title": "Clout Within Grasp",
-        "desc": "Gave over <unbreak>#1[i]</unbreak> replies on the Ghostly Grove website"
+        "desc": "Gave over #1[i] replies on the Ghostly Grove website"
     },
     "4052812": {
         "title": "Gathered Is Blazing Fire, Scattered Are Shining Stars",
-        "desc": "Collected <unbreak>#1[i]</unbreak> dispersed heliobi with \"exorcist cycrane\""
+        "desc": "Collected #1[i] dispersed heliobi with \"exorcist cycrane\""
     },
     "4052813": {
         "title": "Boo Ha Ha!",
-        "desc": "Obtained <unbreak>#1[i]</unbreak> reward(s) from the child's quiz in Fyxestroll Garden"
+        "desc": "Obtained #1[i] reward(s) from the child's quiz in Fyxestroll Garden"
     },
     "4052814": {
         "title": "When Fingertip Sings",
@@ -2145,11 +2145,11 @@
     },
     "4052815": {
         "title": "Mountain of Recto, Water of Verso",
-        "desc": "Perform a duet of <i>Wedding Wine</i> with the Ghost Actor and deliver it perfectly"
+        "desc": "Perform a duet of Wedding Wine with the Ghost Actor and deliver it perfectly"
     },
     "4052816": {
         "title": "Apprentice, Disciple, and Renegade",
-        "desc": "Perform a duet of <i>Wedding Wine</i> with the Ghost Actor and mess the lyrics up"
+        "desc": "Perform a duet of Wedding Wine with the Ghost Actor and mess the lyrics up"
     },
     "4052817": {
         "title": "The Sorcerer's Tombstone",
@@ -2189,19 +2189,19 @@
     },
     "4042802": {
         "title": "The Golem: How He Came Into the World",
-        "desc": "In Fyxestroll Garden, obtain a total of <unbreak>#1[i]</unbreak> \"Pathfinder\" rewards"
+        "desc": "In Fyxestroll Garden, obtain a total of #1[i] \"Pathfinder\" rewards"
     },
     "4072801": {
         "title": "Come Here! Now Go Away!",
-        "desc": "Use Huohuo's Technique \"Fiend: Impeachment of Evil\" and simultaneously cause <unbreak>#1[i]</unbreak> targets to flee"
+        "desc": "Use Huohuo's Technique \"Fiend: Impeachment of Evil\" and simultaneously cause #1[i] targets to flee"
     },
     "4072802": {
         "title": "Inferno",
-        "desc": "Have <unbreak>#1[i]</unbreak> Flamespawns simultaneously on the field during the \"Illusory Maze: Cirrus\" challenge"
+        "desc": "Have #1[i] Flamespawns simultaneously on the field during the \"Illusory Maze: Cirrus\" challenge"
     },
     "4072803": {
         "title": "Quintuple Savage",
-        "desc": "Simultaneously trigger <unbreak>#1[i]</unbreak> or more \"Quincunx Smite\" and end the battle"
+        "desc": "Simultaneously trigger #1[i] or more \"Quincunx Smite\" and end the battle"
     },
     "4072804": {
         "title": "Ghosty Scythe of Vice",
@@ -2213,11 +2213,11 @@
     },
     "4072806": {
         "title": "Even The Rich Are Starving",
-        "desc": "Enemies with the \"Usurp\" anomaly failed to steal Skill Points <unbreak>#1[i]</unbreak> times when attacking"
+        "desc": "Enemies with the \"Usurp\" anomaly failed to steal Skill Points #1[i] times when attacking"
     },
     "4032901": {
         "title": "Divine Verso, Mundane Recto",
-        "desc": "Resolve the new crisis on the Herta Space Station\\n<color=#8790abff>※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\"</color>"
+        "desc": "Resolve the new crisis on the Herta Space Station\\n※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\""
     },
     "4052901": {
         "title": "Never Updating",
@@ -2269,11 +2269,11 @@
     },
     "4052913": {
         "title": "One Player Short",
-        "desc": "Place <unbreak>#1[i]</unbreak> Lucky Snack(s) in the same area"
+        "desc": "Place #1[i] Lucky Snack(s) in the same area"
     },
     "4052914": {
         "title": "Midnight's Children",
-        "desc": "Place <unbreak>#1[i]</unbreak> Trash Cake(s) in the same area"
+        "desc": "Place #1[i] Trash Cake(s) in the same area"
     },
     "4052915": {
         "title": "Creations Mimic Creators",
@@ -2309,47 +2309,47 @@
     },
     "4072904": {
         "title": "Sororal Duo",
-        "desc": "Win <unbreak>#1[i]</unbreak> battle(s) with a team comprising Hanya and Xueyi"
+        "desc": "Win #1[i] battle(s) with a team comprising Hanya and Xueyi"
     },
     "4072905": {
         "title": "Let Her Cook",
-        "desc": "Stop and listen to Hanya's prattling\\n<color=#8790abff>※ Fully listen to all of Hanya's idle animation voice-over lines, and her action idle voice-over lines</color>"
+        "desc": "Stop and listen to Hanya's prattling\\n※ Fully listen to all of Hanya's idle animation voice-over lines, and her action idle voice-over lines"
     },
     "4072906": {
         "title": "Trigger Warning",
-        "desc": "Use Dr. Ratio's Technique, Mold of Idolatry, to Taunt <unbreak>#1[i]</unbreak> or more enemies at once"
+        "desc": "Use Dr. Ratio's Technique, Mold of Idolatry, to Taunt #1[i] or more enemies at once"
     },
     "4072907": {
         "title": "Chain Peoplebreaker",
-        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for <unbreak>#1[i]</unbreak> consecutive turns"
+        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for #1[i] consecutive turns"
     },
     "4092902": {
         "title": "All Hail Deus Eruditionis",
-        "desc": "In Simulated Universe, unlock <unbreak>#1[i]</unbreak> Blessings of Erudition"
+        "desc": "In Simulated Universe, unlock #1[i] Blessings of Erudition"
     },
     "4092903": {
         "title": "Omnissiah",
-        "desc": "When clearing Simulated Universe, have <unbreak>#1[i]</unbreak> or more Blessing(s) of Erudition"
+        "desc": "When clearing Simulated Universe, have #1[i] or more Blessing(s) of Erudition"
     },
     "4092904": {
         "title": "The Four Color Theorem",
-        "desc": "In Simulated Universe: Gold and Gears, apply the Knowledge effect to a total of <unbreak>#1[i]</unbreak> domains"
+        "desc": "In Simulated Universe: Gold and Gears, apply the Knowledge effect to a total of #1[i] domains"
     },
     "4092905": {
         "title": "World on a Wire",
-        "desc": "In Simulated Universe: Gold and Gears, watch a total of <unbreak>#1[i]</unbreak> recommended Secret stories"
+        "desc": "In Simulated Universe: Gold and Gears, watch a total of #1[i] recommended Secret stories"
     },
     "4092906": {
         "title": "Galaxy Brain",
-        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches <unbreak>#1[i]</unbreak>"
+        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches #1[i]"
     },
     "4092907": {
         "title": "The Mental Pale",
-        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches -<unbreak>#1[i]</unbreak>"
+        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches -#1[i]"
     },
     "4092909": {
         "title": "Hive Mind",
-        "desc": "In Simulated Universe: Gold and Gears, complete <unbreak>#1[i]</unbreak> changes to Intra-Cognition"
+        "desc": "In Simulated Universe: Gold and Gears, complete #1[i] changes to Intra-Cognition"
     },
     "4092910": {
         "title": "The Wolf of Astral Street",
@@ -2361,27 +2361,27 @@
     },
     "4092912": {
         "title": "Class-D Personnel",
-        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio <unbreak>#1[i]</unbreak> time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) Occurrence"
+        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio #1[i] time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) Occurrence"
     },
     "4092913": {
         "title": "A Death Knell for Leibowitz",
-        "desc": "When clearing Simulated Universe: Gold and Gears, achieve victory in <unbreak>#1[i]</unbreak> or more battle(s) using Custom Dice: Combat Extrapolation"
+        "desc": "When clearing Simulated Universe: Gold and Gears, achieve victory in #1[i] or more battle(s) using Custom Dice: Combat Extrapolation"
     },
     "4092914": {
         "title": "Tau Zero",
-        "desc": "When clearing Simulated Universe: Gold and Gears, complete Occurrence interaction <unbreak>#1[i]</unbreak> or more time(s) using Custom Dice: Occurrence Extrapolation"
+        "desc": "When clearing Simulated Universe: Gold and Gears, complete Occurrence interaction #1[i] or more time(s) using Custom Dice: Occurrence Extrapolation"
     },
     "4092915": {
         "title": "Changing Planes",
-        "desc": "In Simulated Universe: Gold and Gears, use Custom Dice: Pursuit to enter <unbreak>#1[i]</unbreak> or more non-adjacent domain(s) in succession"
+        "desc": "In Simulated Universe: Gold and Gears, use Custom Dice: Pursuit to enter #1[i] or more non-adjacent domain(s) in succession"
     },
     "4092916": {
         "title": "When Pigs Pry",
-        "desc": "When clearing Simulated Universe: Gold and Gears, defeat <unbreak>#1[i]</unbreak> or more Trotter(s) in combat using Custom Dice: Trotter Extrapolation"
+        "desc": "When clearing Simulated Universe: Gold and Gears, defeat #1[i] or more Trotter(s) in combat using Custom Dice: Trotter Extrapolation"
     },
     "4092917": {
         "title": "Star Port Controller",
-        "desc": "When clearing Simulated Universe: Gold and Gears, enter <unbreak>#1[i]</unbreak> or more domain(s) with a beacon using Custom Dice: Walker Symbiosis"
+        "desc": "When clearing Simulated Universe: Gold and Gears, enter #1[i] or more domain(s) with a beacon using Custom Dice: Walker Symbiosis"
     },
     "4092918": {
         "title": "To Terminus",
@@ -2389,27 +2389,27 @@
     },
     "4092919": {
         "title": "The Man Who Sold the Moon",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have <unbreak>#1[i]</unbreak> or more Cosmic Fragment(s) using Custom Dice: Investment Sale"
+        "desc": "When clearing Simulated Universe: Gold and Gears, have #1[i] or more Cosmic Fragment(s) using Custom Dice: Investment Sale"
     },
     "4092920": {
         "title": "Halcyon Holdings Corporate Board Specialist",
-        "desc": "When clearing Simulated Universe: Gold and Gears, apply the Knowledge effect to <unbreak>#1[i]</unbreak> or more domain(s) using the Custom Dice: Amber Barrier"
+        "desc": "When clearing Simulated Universe: Gold and Gears, apply the Knowledge effect to #1[i] or more domain(s) using the Custom Dice: Amber Barrier"
     },
     "4092921": {
         "title": "Time Enough for Play",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have <unbreak>#1[i]</unbreak> or more points in the countdown using Custom Dice: Countdown"
+        "desc": "When clearing Simulated Universe: Gold and Gears, have #1[i] or more points in the countdown using Custom Dice: Countdown"
     },
     "4092922": {
         "title": "Spacer's Choice Vendor",
-        "desc": "When clearing Simulated Universe: Gold and Gears, make <unbreak>#1[i]</unbreak> or more purchase(s) across the Blessing, Curio, or Enhance stores using Custom Dice: Company Time"
+        "desc": "When clearing Simulated Universe: Gold and Gears, make #1[i] or more purchase(s) across the Blessing, Curio, or Enhance stores using Custom Dice: Company Time"
     },
     "4092923": {
         "title": "The Merchant and the Alchemist's Gate",
-        "desc": "When clearing Simulated Universe: Gold and Gears, use <unbreak>#1[i]</unbreak> or more reroll or cheat attempt(s) using Custom Dice: Data Inflation"
+        "desc": "When clearing Simulated Universe: Gold and Gears, use #1[i] or more reroll or cheat attempt(s) using Custom Dice: Data Inflation"
     },
     "4092924": {
         "title": "Herta's Treasure",
-        "desc": "When clearing Simulated Universe: Gold and Gears, acquire <unbreak>#1[i]</unbreak> or more Curio(s) using Custom Dice: Curio Extrapolation"
+        "desc": "When clearing Simulated Universe: Gold and Gears, acquire #1[i] or more Curio(s) using Custom Dice: Curio Extrapolation"
     },
     "4092925": {
         "title": "I Am Alpha",
@@ -2421,71 +2421,71 @@
     },
     "4092927": {
         "title": "Sixty-Sided Die",
-        "desc": "In Simulated Universe: Gold and Gears, unlock <unbreak>#1[i]</unbreak> Dice Face(s)"
+        "desc": "In Simulated Universe: Gold and Gears, unlock #1[i] Dice Face(s)"
     },
     "4092928": {
         "title": "Roulette of Destiny",
-        "desc": "In Simulated Universe: Gold and Gears, unlock all <unbreak>#1[i]</unbreak> Custom Dice"
+        "desc": "In Simulated Universe: Gold and Gears, unlock all #1[i] Custom Dice"
     },
     "4092929": {
         "title": "XK-Class Scenario",
-        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V"
+        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty 5"
     },
     "4092930": {
         "title": "Mechanical Ascension",
-        "desc": "In Simulated Universe: Gold and Gears, activate the No. <unbreak>#1[i]</unbreak> Neural Network node"
+        "desc": "In Simulated Universe: Gold and Gears, activate the No. #1[i] Neural Network node"
     },
     "4092931": {
         "title": "Colossus: The Forbin Project",
-        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Stats Conundrum level is <unbreak>#1[i]</unbreak> or higher"
+        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Stats Conundrum level is #1[i] or higher"
     },
     "4092932": {
         "title": "Bubblegum Crisis",
-        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Auxiliary Conundrum level is <unbreak>#1[i]</unbreak> or higher"
+        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Auxiliary Conundrum level is #1[i] or higher"
     },
     "4092933": {
         "title": "Sea of Rust",
-        "desc": "Clear Simulated Universe: Gold and Gears at Conundrum Level <unbreak>#1[i]</unbreak> or higher in Torturous Difficulty"
+        "desc": "Clear Simulated Universe: Gold and Gears at Conundrum Level #1[i] or higher in Torturous Difficulty"
     },
     "4092934": {
         "title": "Key to a Bygone Space",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have the Planar Disarray's Disruption Level at level <unbreak>#1[i]</unbreak> or higher"
+        "desc": "When clearing Simulated Universe: Gold and Gears, have the Planar Disarray's Disruption Level at level #1[i] or higher"
     },
     "4092935": {
         "title": "King of Curses",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have <unbreak>#1[i]</unbreak> or more Negative Curio(s)"
+        "desc": "When clearing Simulated Universe: Gold and Gears, have #1[i] or more Negative Curio(s)"
     },
     "4092936": {
         "title": "Normal Distribution",
-        "desc": "In Simulated Universe: Gold and Gears, roll <unbreak>#1[i]</unbreak> different Dice Faces in succession on the same Communing Device"
+        "desc": "In Simulated Universe: Gold and Gears, roll #1[i] different Dice Faces in succession on the same Communing Device"
     },
     "4092937": {
         "title": "Gloomy Blues",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have <unbreak>#1[i]</unbreak> blue Dice Face(s) equipped (Difficulty III or higher)"
+        "desc": "When clearing Simulated Universe: Gold and Gears, have #1[i] blue Dice Face(s) equipped (Difficulty 3 or higher)"
     },
     "4092938": {
         "title": "All Watched Over By Machines of Loving Grace",
-        "desc": "In Simulated Universe: Gold and Gears, endure <unbreak>#1[i]</unbreak> or more Resonance Extrapolation(s) in a single battle"
+        "desc": "In Simulated Universe: Gold and Gears, endure #1[i] or more Resonance Extrapolation(s) in a single battle"
     },
     "4092939": {
         "title": "Wheel of Destiny",
-        "desc": "In Simulated Universe: Gold and Gears, obtain the grand prize <unbreak>#1[i]</unbreak> time(s) in Lucky Compass Challenge"
+        "desc": "In Simulated Universe: Gold and Gears, obtain the grand prize #1[i] time(s) in Lucky Compass Challenge"
     },
     "4092940": {
         "title": "Evasive Reflex",
-        "desc": "In Simulated Universe: Gold and Gears, successfully perform dodge <unbreak>#1[i]</unbreak> times consecutively in the Avoiding the Beams Challenge"
+        "desc": "In Simulated Universe: Gold and Gears, successfully perform dodge #1[i] times consecutively in the Avoiding the Beams Challenge"
     },
     "4092941": {
         "title": "Exterminatus",
-        "desc": "In Simulated Universe: Gold and Gears, use Ultimate <unbreak>#1[i]</unbreak> times in succession"
+        "desc": "In Simulated Universe: Gold and Gears, use Ultimate #1[i] times in succession"
     },
     "4043001": {
         "title": "This Side of Paradise",
-        "desc": "Activate Space Anchors <unbreak>#1[i]</unbreak> times in Penacony."
+        "desc": "Activate Space Anchors #1[i] times in Penacony."
     },
     "4043002": {
         "title": "Penacony Dreams",
-        "desc": "Open Treasures <unbreak>#1[i]</unbreak> times in Penacony."
+        "desc": "Open Treasures #1[i] times in Penacony."
     },
     "4043003": {
         "title": "\"Space Walk\"",
@@ -2493,15 +2493,15 @@
     },
     "4043004": {
         "title": "Chirp?",
-        "desc": "Help <unbreak>#1[i]</unbreak> Origami Bird(s) return to the Great Tree."
+        "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
     },
     "4043005": {
         "title": "Chirp! Chirp!",
-        "desc": "Help <unbreak>#1[i]</unbreak> Origami Bird(s) return to the Great Tree."
+        "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
     },
     "4043006": {
         "title": "Always Sync With Time",
-        "desc": "Fix <unbreak>#1[i]</unbreak> Dream Tickers."
+        "desc": "Fix #1[i] Dream Tickers."
     },
     "4043007": {
         "title": "Whose Dream Is It?",
@@ -2521,7 +2521,7 @@
     },
     "4043009": {
         "title": "Pictorial World",
-        "desc": "Earn rewards <unbreak>#1[i]</unbreak> times from the Dream Jigsaw."
+        "desc": "Earn rewards #1[i] times from the Dream Jigsaw."
     },
     "4083002": {
         "title": "Parallax",
@@ -2569,7 +2569,7 @@
     },
     "4073002": {
         "title": "National Sensation",
-        "desc": "Switch <unbreak>#1[i]</unbreak> Dreamjolt Troupe's Mr. Domescreens to the Surprise Channel consecutively in a single battle"
+        "desc": "Switch #1[i] Dreamjolt Troupe's Mr. Domescreens to the Surprise Channel consecutively in a single battle"
     },
     "4073003": {
         "title": "Hazardous Waste",
@@ -2605,7 +2605,7 @@
     },
     "4043017": {
         "title": "Walks with Wolves",
-        "desc": "Collect the complete <i>Hanu's Adventure (Part 1)</i> collection"
+        "desc": "Collect the complete Hanu's Adventure (Part 1) collection"
     },
     "4043018": {
         "title": "Lie in Wait",
@@ -2616,7 +2616,7 @@
         "desc": "The rocket teleportation in Hanu's Adventure lasts more than #1 seconds."
     },
     "4043020": {
-        "title": "<unbreak>100%</unbreak> Alertness",
+        "title": "100% Alertness",
         "desc": "Survive in Hanu's Adventure"
     },
     "4053002": {
@@ -2661,47 +2661,47 @@
     },
     "4053012": {
         "title": "Savor Emotions",
-        "desc": "What does Clockwork do?\\n<color=#8790abff>※ Guide the emotions of #1 people in the Dreamscape.</color>"
+        "desc": "What does Clockwork do?\\n※ Guide the emotions of #1 people in the Dreamscape."
     },
     "4053014": {
         "title": "Surge of Warmth",
-        "desc": "Clockwork helps people discover their true selves.\\n<color=#8790abff>※ Resolve #1 emergencies in Clockwork.</color>"
+        "desc": "Clockwork helps people discover their true selves.\\n※ Resolve #1 emergencies in Clockwork."
     },
     "4053015": {
         "title": "Thumping Heart",
-        "desc": "In dreams, even emotions are tangible.\\n<color=#8790abff>※ Collect #1 Emo Gears.</color>"
+        "desc": "In dreams, even emotions are tangible.\\n※ Collect #1 Emo Gears."
     },
     "4053016": {
         "title": "I Know Your Thoughts",
-        "desc": "Can you resist the temptation of counseling?\\n<color=#8790abff>※ Guide the emotions of at least #1 people in the Dreamscape.</color>"
+        "desc": "Can you resist the temptation of counseling?\\n※ Guide the emotions of at least #1 people in the Dreamscape."
     },
     "4043021": {
         "title": "Learning in Sleep",
-        "desc": "Collect <unbreak>#1[i]</unbreak> readable items in Penacony"
+        "desc": "Collect #1[i] readable items in Penacony"
     },
     "4033001": {
         "title": "Do You Remember Me?",
-        "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n<color=#8790abff>※ Encounter Acheron in a strange dreamland.</color>"
+        "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n※ Encounter Acheron in a strange dreamland."
     },
     "4033002": {
         "title": "Trailblazer in Dreamscape",
-        "desc": "You have arrived at the Incredible Land of the Dreams!\\n<color=#8790abff>※ Arrive at the Golden Hour.</color>"
+        "desc": "You have arrived at the Incredible Land of the Dreams!\\n※ Arrive at the Golden Hour."
     },
     "4033003": {
         "title": "Gentleness, the Name of Nocturne",
-        "desc": "See how shooting stars fly across the dream sky.\\n<color=#8790abff>※ Learn Firefly's secrets at the Dream's Edge.</color>"
+        "desc": "See how shooting stars fly across the dream sky.\\n※ Learn Firefly's secrets at the Dream's Edge."
     },
     "4033004": {
         "title": "The Pursuit of Sweetness",
-        "desc": "Discover the serendipitous joy in dreamscape\\n<color=#8790abff>※ Escape from the shadow of \"death\"</color>"
+        "desc": "Discover the serendipitous joy in dreamscape\\n※ Escape from the shadow of \"death\""
     },
     "4033005": {
         "title": "Old Friends, New Friends",
-        "desc": "Embrace the warmth in the ocean of memories...\\n<color=#8790abff>※ Fight Stellaron Hunter Sam.</color>"
+        "desc": "Embrace the warmth in the ocean of memories...\\n※ Fight Stellaron Hunter Sam."
     },
     "4033006": {
         "title": "If I Can Stop One Heart From Breaking",
-        "desc": "The entire Penacony will go mad...\\n<color=#8790abff>※ Witness the second murder.</color>"
+        "desc": "The entire Penacony will go mad...\\n※ Witness the second murder."
     },
     "4053017": {
         "title": "My Favorite Car",
@@ -2713,7 +2713,7 @@
     },
     "4053019": {
         "title": "The Number You Have Dialed Is Unavailable",
-        "desc": "There are always off-limits places.\\n<color=#8790abff>※ Call an unreachable number.</color>"
+        "desc": "There are always off-limits places.\\n※ Call an unreachable number."
     },
     "4053020": {
         "title": "Glasses in the City",
@@ -2729,7 +2729,7 @@
     },
     "4053023": {
         "title": "Don't Pick Up Anything Ominous",
-        "desc": "Not all urban myths are just myths.\\n<color=#8790abff>※ Pick up an eerie tape.</color>"
+        "desc": "Not all urban myths are just myths.\\n※ Pick up an eerie tape."
     },
     "4053024": {
         "title": "The Wolf of Glaux Avenue",
@@ -2745,23 +2745,23 @@
     },
     "4053027": {
         "title": "Rashomon",
-        "desc": "So... who hit whom?\\n<color=#8790abff>※ Witness the entire process of the car accident at Glaux Avenue.</color>"
+        "desc": "So... who hit whom?\\n※ Witness the entire process of the car accident at Glaux Avenue."
     },
     "4053028": {
         "title": "Magique Pepeshi",
-        "desc": "Pepeshi? Or mimic?\\n<color=#8790abff>※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.</color>"
+        "desc": "Pepeshi? Or mimic?\\n※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby."
     },
     "4053029": {
         "title": "The Planet of Festivities and Six Alfalfa Credits",
-        "desc": "Which is more important? Love, or dream?\\n<color=#8790abff>※ Discover the story of a family torn apart by the dreams of its members.</color>"
+        "desc": "Which is more important? Love, or dream?\\n※ Discover the story of a family torn apart by the dreams of its members."
     },
     "4053030": {
         "title": "Mental Health Care",
-        "desc": "The environment must be protected.\\n<color=#8790abff>※ Help Go-Ray recycle trash in the Dreamscape.</color>"
+        "desc": "The environment must be protected.\\n※ Help Go-Ray recycle trash in the Dreamscape."
     },
     "4053031": {
         "title": "The Interpretation of Dreams",
-        "desc": "Peek into <unbreak>#1[i]</unbreak> people's dreams through the Dreampeek Call"
+        "desc": "Peek into #1[i] people's dreams through the Dreampeek Call"
     },
     "4083006": {
         "title": "Rules Are Made to Be Broken...",
@@ -2777,7 +2777,7 @@
     },
     "4053033": {
         "title": "No Man's Symphony",
-        "desc": "What happens when a joyful player becomes even more joyful?\\n<color=#8790abff>※ Enhance Max's music with even more joy</color>"
+        "desc": "What happens when a joyful player becomes even more joyful?\\n※ Enhance Max's music with even more joy"
     },
     "4053034": {
         "title": "On the Path of Voracity...",
@@ -2789,11 +2789,11 @@
     },
     "4053036": {
         "title": "Between the Sky and You",
-        "desc": "Revisit the secret place alone\\n<color=#8790abff>※ Return to Firefly's secret base after everything has concluded</color>"
+        "desc": "Revisit the secret place alone\\n※ Return to Firefly's secret base after everything has concluded"
     },
     "4053037": {
         "title": "See That Ladder? You Can Climb It!",
-        "desc": "Attempt to climb the ladder at the Dream's Edge\\n<color=#8790abff>※ Actually, you can't climb it</color>"
+        "desc": "Attempt to climb the ladder at the Dream's Edge\\n※ Actually, you can't climb it"
     },
     "4053038": {
         "title": "Gravity Waterfall",
@@ -2813,7 +2813,7 @@
     },
     "4053042": {
         "title": "Deja Vu",
-        "desc": "Encounter the familiar \"sights\" in the Dreamscape\\n<color=#8790abff>※ Yep, it's the trashcans!</color>"
+        "desc": "Encounter the familiar \"sights\" in the Dreamscape\\n※ Yep, it's the trashcans!"
     },
     "4053043": {
         "title": "Ramesrash II",
@@ -2825,7 +2825,7 @@
     },
     "4053045": {
         "title": "Enemy of the Pepeshi",
-        "desc": "Offend every Pepeshi you encounter with precision and speed.\\n<color=#8790abff>※ Try to touch the fluff ball of every Pepeshi in the Golden Hour</color>"
+        "desc": "Offend every Pepeshi you encounter with precision and speed.\\n※ Try to touch the fluff ball of every Pepeshi in the Golden Hour"
     },
     "4053046": {
         "title": "The Worst Nameless Ever",
@@ -2833,23 +2833,23 @@
     },
     "4053047": {
         "title": "Gate to Stars",
-        "desc": "Explorer or pirate?\\n<color=#8790abff>※ Listen to Colleen's story about the universe</color>"
+        "desc": "Explorer or pirate?\\n※ Listen to Colleen's story about the universe"
     },
     "4053048": {
         "title": "This Is Simply Amazing",
-        "desc": "Witness a \"great vision\"\\n<color=#8790abff>※ Collect Family members' comments on the Dream's Edge project</color>"
+        "desc": "Witness a \"great vision\"\\n※ Collect Family members' comments on the Dream's Edge project"
     },
     "4053049": {
         "title": "Dream of Trustification",
-        "desc": "Everything you see is MY invention!\\n<color=#8790abff>※ Help Emmrich complete his plan</color>"
+        "desc": "Everything you see is MY invention!\\n※ Help Emmrich complete his plan"
     },
     "4053050": {
         "title": "Reality Sinks, Dream Drifts",
-        "desc": "Humans can't empathize with each other after all\\n<color=#8790abff>※ Listen to the conversation between Larose and Forla</color>"
+        "desc": "Humans can't empathize with each other after all\\n※ Listen to the conversation between Larose and Forla"
     },
     "4053051": {
         "title": "The Long Goodbye",
-        "desc": "May she bid farewell to her troubled past\\n<color=#8790abff>※ Witness Lew Archer's story</color>"
+        "desc": "May she bid farewell to her troubled past\\n※ Witness Lew Archer's story"
     },
     "4083008": {
         "title": "Truth Must Circulate Like Currency",
@@ -2861,23 +2861,23 @@
     },
     "4053053": {
         "title": "Oti's Economics",
-        "desc": "If everyone gets money, then no one gets money\\n<color=#8790abff>※ Repeatedly trigger the cash-spewer on the streets</color>"
+        "desc": "If everyone gets money, then no one gets money\\n※ Repeatedly trigger the cash-spewer on the streets"
     },
     "4033007": {
         "title": "Sibyl, What Do You Want?",
-        "desc": "Where will good fortune lead gamblers?\\n<color=#8790abff>※ Witness the life of Kakavasha</color>"
+        "desc": "Where will good fortune lead gamblers?\\n※ Witness the life of Kakavasha"
     },
     "4033009": {
         "title": "A Drop of the Hard Stuff",
-        "desc": "Cheers to sweet dreams and the dreamer!\\n<color=#8790abff>※ Obtain Gallagher's special mix</color>"
+        "desc": "Cheers to sweet dreams and the dreamer!\\n※ Obtain Gallagher's special mix"
     },
     "4033010": {
         "title": "She Replied, I Want to Die.",
-        "desc": "Sit in the best seat and watch the grand finale\\n<color=#8790abff>※ Defeat \"Ten Stonehearts\" Aventurine</color>"
+        "desc": "Sit in the best seat and watch the grand finale\\n※ Defeat \"Ten Stonehearts\" Aventurine"
     },
     "4033011": {
         "title": "To Icarus",
-        "desc": "Relive the past in a faraway land\\n<color=#8790abff>※ Listen to Acheron and Welt's conversation</color>"
+        "desc": "Relive the past in a faraway land\\n※ Listen to Acheron and Welt's conversation"
     },
     "4043022": {
         "title": "Home Alone",
@@ -2905,7 +2905,7 @@
     },
     "4043028": {
         "title": "Biggest DRS Beneficiary",
-        "desc": "Perform Turbo Dash <unbreak>#1[i]</unbreak> times in a row without mistakes or interruption in Clockie's Extras: Fast & Furynuts"
+        "desc": "Perform Turbo Dash #1[i] times in a row without mistakes or interruption in Clockie's Extras: Fast & Furynuts"
     },
     "4043029": {
         "title": "Slow Road to Hell",
@@ -2925,7 +2925,7 @@
     },
     "4043033": {
         "title": "Living With a Wolf",
-        "desc": "Collect the complete <i>Hanu's Adventure (Part 2)</i> collection"
+        "desc": "Collect the complete Hanu's Adventure (Part 2) collection"
     },
     "4043034": {
         "title": "Maximum Firepower",
@@ -2980,7 +2980,7 @@
         "desc": "Leave your special mix at the Dreamjolt Hostelry"
     },
     "4053065": {
-        "title": "Make Your Dream a Blast",
+        "title": "Make Your Dreams a Blast",
         "desc": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles"
     },
     "4053066": {
@@ -3005,7 +3005,7 @@
     },
     "4073013": {
         "title": "Lady Snowblood",
-        "desc": "In a single battle, using Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle"
+        "desc": "In a single battle, use Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle"
     },
     "4073014": {
         "title": "Blind Stealing",
@@ -3040,7 +3040,307 @@
         "desc": "Take a group photo at the photo board in Clock Studios Theme Park"
     },
     "4043036": {
-        "title": "<i>Pac-Man</i>",
+        "title": "Pac-Man",
         "desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden"
+    },
+    "4033201": {
+        "title": "The Last Tycoon",
+        "desc": "Commune with the Watchmaker\\n※ Meet the first Nameless in Penacony"
+    },
+    "4033202": {
+        "title": "We Will Be Freemen as Our Fathers Were",
+        "desc": "Inherit the Watchmaker's legacy\\n※ Continue the unfinished journey of the last Nameless in Penacony"
+    },
+    "4033203": {
+        "title": "If We Walk in the Light",
+        "desc": "Embark on a new trailblaze journey as desired\\n※ Defeat the Harmonious Choir, Dominicus..."
+    },
+    "4033204": {
+        "title": "In the End, We Awaken From Our Dreams",
+        "desc": "Witness the first light of dawn on Penacony\\nDefeat \"Embryo of Philosophy\" Sunday"
+    },
+    "4033205": {
+        "title": "Sincerity Is Eternally the Ultimate",
+        "desc": "Make peace with the Penacony's custodian of justice\\n※ Persuade Argenti in Superstar Showdown"
+    },
+    "4033206": {
+        "title": "The Ultimate is Eternal Sincerity",
+        "desc": "Defeat Penacony's custodian of justice\\n※ Defeat Argenti in Superstar Showdown"
+    },
+    "4043201": {
+        "title": "Elysian Balloon",
+        "desc": "Break the special Boss Stone balloon at Dreamflux Reef"
+    },
+    "4043202": {
+        "title": "Second Balloon Eruption",
+        "desc": "Break the special Boss Stone balloon at Scorchsand Audition Venue"
+    },
+    "4043203": {
+        "title": "A Post-Balloon Odyssey",
+        "desc": "Break the special Boss Stone balloon at Penacony Grand Theater"
+    },
+    "4043205": {
+        "title": "New Penacony Dreams",
+        "desc": "Open Treasures #1[i] time(s) in Penacony"
+    },
+    "4043206": {
+        "title": "Blood Sugar Highs",
+        "desc": "Eat all the SoulGlad items in the Fast & Furynuts challenge located at the Scorchsand Audition Venue"
+    },
+    "4043207": {
+        "title": "Chirp... I Can't Move Anymore",
+        "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
+    },
+    "4043208": {
+        "title": "Audition Funhouse",
+        "desc": "Discover any hidden challenge on the Audition Shuttle interface"
+    },
+    "4043209": {
+        "title": "Audition Rizzler",
+        "desc": "Successfully triggered a total of #1 Audition Shuttle hidden challenge(s)"
+    },
+    "4043210": {
+        "title": "Disqualified!",
+        "desc": "Break all Boss Stone balloons in the Audition Plaza"
+    },
+    "4053201": {
+        "title": "Bottling History",
+        "desc": "Explore the Four Great Treasures of the soda cellar in the Scorchsand Audition Venue"
+    },
+    "4053202": {
+        "title": "The Tale of Syrupy Medicine",
+        "desc": "Find the most precious hoard of the soda cellar in the Scorchsand Audition Venue"
+    },
+    "4053203": {
+        "title": "Gold and Gear... Clock?",
+        "desc": "Uncover the mystery behind Clockie turning rocks into gold in the Scorchsand Audition Venue"
+    },
+    "4053204": {
+        "title": "Just A Walking Shadow",
+        "desc": "Listen to the stories of the eight puppets by Penacony Grand Theater's stage"
+    },
+    "4043211": {
+        "title": "First Blood",
+        "desc": "Complete the Hanu Wars challenge for the first time"
+    },
+    "4083202": {
+        "title": "Think Thrice Before Acts",
+        "desc": "After placing Bubble Bridge on the Dream Module, move the Dream Module away without passing through the Bubble Bridge"
+    },
+    "4043212": {
+        "title": "Wolflike",
+        "desc": "Rebound every piece of Boss Stone's coins in any \"Way of the Wolf (End)\" stages"
+    },
+    "4043213": {
+        "title": "Old Wolf Homecoming",
+        "desc": "Complete all \"Way of the Wolf (End)\" stages"
+    },
+    "4043214": {
+        "title": "Like a Wolf Arrives!",
+        "desc": "Defeat Boss Stone in any \"Way of the Wolf (End)\" stages without rebounding any coin attacks"
+    },
+    "4043215": {
+        "title": "Fifteenth Blood",
+        "desc": "Complete all Hanu Wars challenges"
+    },
+    "4043216": {
+        "title": "How Many Drops Are We At Now?",
+        "desc": "Complete all Hanu Wars challenges flawlessly"
+    },
+    "4043217": {
+        "title": "Armor-Piercing Bullet",
+        "desc": "Hit #1 target(s) with a single shot in Hanu Wars"
+    },
+    "4043218": {
+        "title": "The Crocodile Enemy",
+        "desc": "Defeat Steely Gator in the final stage of Hanu's Adventure"
+    },
+    "4043219": {
+        "title": "Goodbye, Hanunue",
+        "desc": "Collect all Hanu's Adventure story books"
+    },
+    "4043220": {
+        "title": "Final Blood",
+        "desc": "Hit all targets for the first time in Hanu Wars"
+    },
+    "4043221": {
+        "title": "Hanu's Legacy",
+        "desc": "Find the hidden treasure in the Festivity Auditions' Gunfire Trial"
+    },
+    "4043222": {
+        "title": "Za Warudo!",
+        "desc": "Hit #1 target(s) using Clock Time in Hanu Wars"
+    },
+    "4053206": {
+        "title": "Unfinished Dream Song",
+        "desc": "Persuade Orla to awaken from the Dreamscape"
+    },
+    "4053207": {
+        "title": "Just Leave",
+        "desc": "Let Orla and her companions leave"
+    },
+    "4053208": {
+        "title": "The Birth of Hanu Union",
+        "desc": "Help all the billboard staff escape in the Brother Hanu's Great Heist Commercial for Dreamjoy Memoir"
+    },
+    "4053209": {
+        "title": "SoulGlad Ambassador",
+        "desc": "Step across all SoulGlad Floor Tiles in all maps in the Bubbly Clockie Commercial for Dreamjoy Memoir"
+    },
+    "4053210": {
+        "title": "The Wonderful Wizard of Dreamville",
+        "desc": "Ensure that all shots perfectly meet the director's requirements in the Dreamjoy Ascension Commercial for Dreamjoy Memoir"
+    },
+    "4053211": {
+        "title": "Clockie and His Companions",
+        "desc": "Help Dreamjoy Memoir's animators produce all of the extra stories"
+    },
+    "4053212": {
+        "title": "Railboard 100",
+        "desc": "Obtain Robin's records"
+    },
+    "4053213": {
+        "title": "Lifeboat",
+        "desc": "Help the SoulGlad who wants to become a superstar"
+    },
+    "4053214": {
+        "title": "Dreamflux Study Group",
+        "desc": "Create a new home for the vagrants"
+    },
+    "4053215": {
+        "title": "Angel's Murmur",
+        "desc": "Witness the end of Emanator of Cans"
+    },
+    "4053216": {
+        "title": "The Feather He Dropped",
+        "desc": "Help Robin find clues about Sunday"
+    },
+    "4053217": {
+        "title": "Permanent Boarding Pass",
+        "desc": "Ride the Spheroid to the mysterious station at the Dreamflux Reef"
+    },
+    "4053218": {
+        "title": "Anyway, It's Cool",
+        "desc": "Find seven special manhole covers at Dreamflux Reef"
+    },
+    "4053219": {
+        "title": "Where Splendor Meets Sorrow",
+        "desc": "Find Clockie's traces in the elevator shaft in Dreamflux Reef"
+    },
+    "4053220": {
+        "title": "Temporal Wonder",
+        "desc": "Complete the Adventure Mission \"Once Upon a Dreamville...\""
+    },
+    "4053221": {
+        "title": "Whispers of the Past",
+        "desc": "Complete the editing work of all endings in Dreamjoy Memoir"
+    },
+    "4053222": {
+        "title": "Dreamscape Top 100",
+        "desc": "Reach an Audience Score of #1 in Dreamjoy Memoir's Anthology"
+    },
+    "4053223": {
+        "title": "Emotions Beyond the Lens",
+        "desc": "All three Audience Emotions reach at least #1 simultaneously in Dreamjoy Memoir"
+    },
+    "4053224": {
+        "title": "The Lost Generation",
+        "desc": "Enter a special story branch in Dreamjoy Memoir"
+    },
+    "4053225": {
+        "title": "High-Budget Movie",
+        "desc": "In Dreamjoy Memoir, obtain at least #1 Time Dice, \"#2\", in the same turn"
+    },
+    "4053226": {
+        "title": "Natural 0 Roll",
+        "desc": "When conducting the test screening in Dreamjoy Memoir, all the required Emotions perfectly match the review criteria"
+    },
+    "4053227": {
+        "title": "Rail Road, Take Me Home",
+        "desc": "Enter A Child's Dream through the Watchmaker's dream bubble in Dreamflux Reef"
+    },
+    "4043224": {
+        "title": "Saturation Bombing",
+        "desc": "Defeat #1 of Boss Stone's minions at once in a Hanu's Adventure stage"
+    },
+    "4043226": {
+        "title": "In the Name of The Family",
+        "desc": "Help Family members retrieve all the stolen goods"
+    },
+    "4083203": {
+        "title": "Going Dutch",
+        "desc": "Let Boothill and Aventurine fight over taking the bill\\n※ In the same battle, trigger Aventurine's \"Skill 1\" voice line and Boothill's \"Battle Begins: Weakness Break\" voice line"
+    },
+    "4073201": {
+        "title": "JACKPOT!",
+        "desc": "Make Dreamjolt Troupe's Fortune Seller produce \"Jackpot!\" once"
+    },
+    "4073202": {
+        "title": "Soap Opera",
+        "desc": "Have #1 character(s) enter the sleeping state when battling \"Tomorrow in Harmonious Chords\""
+    },
+    "4073203": {
+        "title": "Passion Play",
+        "desc": "Use one character to take all DMG from \"Past Confined and Caged\"'s ability, \"Desmios Evangelion\" without being knocked down"
+    },
+    "4073204": {
+        "title": "Ensemble Piece",
+        "desc": "In the first phase of \"The Past, Present, and Eternal Show,\" cause #1 enemies to take turns to become Impresario for 1 time"
+    },
+    "4073205": {
+        "title": "One-Act Play",
+        "desc": "In the second phase of \"The Past, Present, and Eternal Show,\" the enemy uses \"Dance for Synchrony\" at most once"
+    },
+    "4073206": {
+        "title": "Literary Fragment",
+        "desc": "After \"Present Inebriated in Revelry\" enters the Charge state, interrupt its Charging"
+    },
+    "4073207": {
+        "title": "Duration of a Song",
+        "desc": "Listen to Robin's singing\\n※ In combat, view Robin for more than #1 seconds in Checking Mode after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\""
+    },
+    "4073208": {
+        "title": "Pied Piper of Hamelin",
+        "desc": "After using Robin's Technique \"Overture of Inebriation\" in exploration, attract #1 or more enemies to follow"
+    },
+    "4073209": {
+        "title": "Ultimate Dance Move!",
+        "desc": "In combat, use the Backup Dancer effect of {NICKNAME}: Harmony's Ultimate \"All-Out Footlight Parade\" to defeat an Elite Enemy"
+    },
+    "4073210": {
+        "title": "Russian Roulette",
+        "desc": "In combat, ally Boothill accumulates a total of #1 stack(s) of Pocket Trickshot within 1 turn"
+    },
+    "4073211": {
+        "title": "Workday Without God",
+        "desc": "Break all Echoes of Faded Dreams before The \"Harmonious Choir\" The Great Septimus uses \"Volteggiando\" or \"Tempestoso\""
+    },
+    "4073212": {
+        "title": "And Then It Is Monday...",
+        "desc": "Accumulate enough Shield to completely block \"Embryo of Philosophy\" Sunday's ability, Im Anfang war die Tat"
+    },
+    "4053228": {
+        "title": "Where Are You Going, Mikhail?",
+        "desc": "I have walked the path I should have walked\\n※ When the dust settles, return to A Child's Moongazing Spot"
+    },
+    "4053229": {
+        "title": "Boxes and Ladders",
+        "desc": "Climb the mountain made from wooden boxes at Dreamflux Reef"
+    },
+    "4053230": {
+        "title": "Waiting for Godot",
+        "desc": "Patiently wait for the arrival of the ghost train"
+    },
+    "4053231": {
+        "title": "An Afternoon's Worth of Sitting",
+        "desc": "Enjoy a brief moment of respite on the couch at Dreamflux Reef"
+    },
+    "4053232": {
+        "title": "City of Love",
+        "desc": "Help the Billboard Hurrylove to pass a message to its lover"
+    },
+    "4013201": {
+        "title": "Nessun Dorma",
+        "desc": "Tread on the Path of Harmony"
     }
 }
