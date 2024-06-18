@@ -389,7 +389,7 @@
     },
     "4051110": {
         "title": "The Lifecycle of Software Objects",
-        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (Part 2)\""
+        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (II)\""
     },
     "4080602": {
         "title": "Outworlder",
@@ -397,7 +397,7 @@
     },
     "4051111": {
         "title": "For a Breath I Tarry",
-        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\""
+        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (II)\""
     },
     "4080603": {
         "title": "50 Credits!?",
@@ -1453,7 +1453,7 @@
     },
     "4042507": {
         "title": "The Star of Wealth Shines Upon You",
-        "desc": "Open Treasures #1[i] times on the Xianzhou Luofu"
+        "desc": "Open Treasures #1[i] time(s) on the Xianzhou Luofu"
     },
     "4072501": {
         "title": "Sickly Complexion",
@@ -2321,7 +2321,7 @@
     },
     "4072907": {
         "title": "Chain Peoplebreaker",
-        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for #1[i] consecutive turns"
+        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito, Ergo Sum, for #1[i] consecutive turns"
     },
     "4092902": {
         "title": "All Hail Deus Eruditionis",
@@ -2357,7 +2357,7 @@
     },
     "4092911": {
         "title": "Pacifica Is Still Pacifica",
-        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) Occurrence."
+        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheat Code (II) Occurrence."
     },
     "4092912": {
         "title": "Class-D Personnel",
@@ -2492,11 +2492,11 @@
         "desc": "Complete the mission \"Slaughterhouse\" and uncover the truth within the hotel in the Dreamscape."
     },
     "4043004": {
-        "title": "Chirp?",
+        "title": "Tweet?",
         "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
     },
     "4043005": {
-        "title": "Chirp! Chirp!",
+        "title": "Tweet! Tweet!",
         "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
     },
     "4043006": {
@@ -2605,19 +2605,19 @@
     },
     "4043017": {
         "title": "Walks with Wolves",
-        "desc": "Collect the complete Hanu's Adventure (Part 1) collection"
+        "desc": "Collect the complete Hanu's Adventure (I) collection"
     },
     "4043018": {
         "title": "Lie in Wait",
-        "desc": "Push down objects in Hanu's Adventure without hitting any enemies."
+        "desc": "Push down objects in Hanu's Adventure without hitting any enemies"
     },
     "4043019": {
         "title": "Escape Velocity Reached",
-        "desc": "The rocket teleportation in Hanu's Adventure lasts more than #1 seconds."
+        "desc": "The rocket teleportation in Hanu's Adventure lasts more than #1 seconds"
     },
     "4043020": {
         "title": "100% Alertness",
-        "desc": "Survive in Hanu's Adventure"
+        "desc": "Brush past death in Hanu's Adventure"
     },
     "4053002": {
         "title": "Towards the Brighter Side",
@@ -2925,7 +2925,7 @@
     },
     "4043033": {
         "title": "Living With a Wolf",
-        "desc": "Collect the complete Hanu's Adventure (Part 2) collection"
+        "desc": "Collect the complete Hanu's Adventure (II) collection"
     },
     "4043034": {
         "title": "Maximum Firepower",
@@ -3088,7 +3088,7 @@
         "desc": "Eat all the SoulGlad items in the Fast & Furynuts challenge located at the Scorchsand Audition Venue"
     },
     "4043207": {
-        "title": "Chirp... I Can't Move Anymore",
+        "title": "Tweet... I Can't Move Anymore",
         "desc": "Help #1[i] Origami Bird(s) return to the Great Tree."
     },
     "4043208": {
@@ -3297,7 +3297,7 @@
     },
     "4073207": {
         "title": "Duration of a Song",
-        "desc": "Listen to Robin's singing\\n※ In combat, view Robin for more than #1 seconds in Checking Mode after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\""
+        "desc": "Listen to Robin's singing\\n※ In combat, view Robin for more than #1 seconds in Real-Time Combat View after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\""
     },
     "4073208": {
         "title": "Pied Piper of Hamelin",
@@ -3342,5 +3342,181 @@
     "4013201": {
         "title": "Nessun Dorma",
         "desc": "Tread on the Path of Harmony"
+    },
+    "4033301": {
+        "title": "All the Flowers are Dying",
+        "desc": "Here's to the departed, toasting the bitter reality\\n※ Crafting the special drink \"Bitter Dreams\""
+    },
+    "4033302": {
+        "title": "It's a Wonderful Life",
+        "desc": "Here's to the departed, toasting the honeyed tomorrow\\n※ Crafting the special drink \"Drowning Sweetness\""
+    },
+    "4033303": {
+        "title": "Going my Way",
+        "desc": "Encounter the Astral Express unexpectedly\\n※ As Firefly, run into the Express Crew on the Radiant Feldspar"
+    },
+    "4033304": {
+        "title": "On the Road",
+        "desc": "Pass by the Astral Express\\n※ As Firefly, focus on finding the \"Bonajade Exchange\" aboard the Radiant Feldspar"
+    },
+    "4033305": {
+        "title": "Ship of Fools",
+        "desc": "Add new footnotes to our destiny.\\n※ Successfully resolve the \"bomb\" threat and watch the grand fireworks"
+    },
+    "4033306": {
+        "title": "Tell Me, O Muse",
+        "desc": "Decide upon the next stop at Penacony\\n※ To Amphoreus, The Eternal Land!"
+    },
+    "4043301": {
+        "title": "Balloons, Towards Tomorrow~",
+        "desc": "Break the special Boss Stone balloon at {TEXTJOIN#87}"
+    },
+    "4043302": {
+        "title": "Alas, Not a Concert Band",
+        "desc": "Rescue the Boss Ticker on {TEXTJOIN#87}"
+    },
+    "4053205": {
+        "title": "Stickers, So Many Stickers",
+        "desc": "Achieve 100% page completion progress for Dreamscape Pass"
+    },
+    "4053301": {
+        "title": "No Business on Continental Grounds",
+        "desc": "Complete the Adventure Mission \"Checking Out\""
+    },
+    "4053302": {
+        "title": "Requiem of the Rose",
+        "desc": "Complete the Adventure Mission \"Grim Film of Finality\""
+    },
+    "4053303": {
+        "title": "My Captain, My Ship",
+        "desc": "Complete the Adventure Mission \"Cloud-Bound Hearts\""
+    },
+    "4053304": {
+        "title": "Unplanned Group Photo",
+        "desc": "Take a group photo during the Origami Bird Clash event"
+    },
+    "4053305": {
+        "title": "Omega Ruby",
+        "desc": "During the Origami Bird Clash event, place Silbird Wolf, Birefly, and Trailbirder on arcade machines of the same side"
+    },
+    "4053306": {
+        "title": "Alpha Sapphire",
+        "desc": "During the Origami Bird Clash event, place Trailbirder and March Bird on arcade machines adjacent to each other"
+    },
+    "4053307": {
+        "title": "Easy As Pie",
+        "desc": "During the Origami Bird Clash event, trigger Origami Bird abilities #1 time(s) in a single match"
+    },
+    "4053308": {
+        "title": "Angry Origami Birds",
+        "desc": "During the Origami Bird Clash event, manually trigger bomb combos #1 time(s) in a single match"
+    },
+    "4053309": {
+        "title": "For the Birds",
+        "desc": "During the Origami Bird Clash event, achieve a Combat Power value of #1 in a single match"
+    },
+    "4053310": {
+        "title": "Origami Zoo",
+        "desc": "Obtain victory in all Open Challenges in the Origami Bird Clash Event"
+    },
+    "4053311": {
+        "title": "A Star is Born",
+        "desc": "Appoint the appropriate performers on the stage of {TEXTJOIN#87}"
+    },
+    "4053312": {
+        "title": "Need for Speed",
+        "desc": "Park your car in the exclusive parking space at {TEXTJOIN#87}"
+    },
+    "4053313": {
+        "title": "Family Cinema",
+        "desc": "Use the projector on {TEXTJOIN#87} and invite the Express Crew to take a look"
+    },
+    "4053315": {
+        "title": "Eighteen Lordly Trashcans",
+        "desc": "Complete all Trashcan of Trials's challenges on {TEXTJOIN#87}"
+    },
+    "4053316": {
+        "title": "LuckEx",
+        "desc": "Receive the package delivered by Aventurine on {TEXTJOIN#87}"
+    },
+    "4053317": {
+        "title": "Astral Express Night Live",
+        "desc": "Purchase Lil' Brother Hanu TV with golden capsule coins and install it in the coach of the Astral Express"
+    },
+    "4053318": {
+        "title": "The Invisible Guest",
+        "desc": "Transform into Brother Hanu and enter other Crew members' rooms"
+    },
+    "4053319": {
+        "title": "Self-Funded Merch",
+        "desc": "Obtain {NICKNAME}'s captain merchandise"
+    },
+    "4053320": {
+        "title": "Shadow Captain",
+        "desc": "Speak with {NICKNAME}'s Captain Billboard"
+    },
+    "4053321": {
+        "title": "Host's Choice",
+        "desc": "Before gaining ownership of {TEXTJOIN#87}, sprint and play in its swimming pool and get reprimanded"
+    },
+    "4053322": {
+        "title": "Beneath the Black Mirror",
+        "desc": "Activate surveillance in the control room and observe the hull of {TEXTJOIN#87}"
+    },
+    "4053323": {
+        "title": "Return to Glory",
+        "desc": "Rename the Radiant Feldspar and change its empennage's paint scheme"
+    },
+    "4053324": {
+        "title": "Invisible Cities",
+        "desc": "Use the telescope on {TEXTJOIN#87}"
+    },
+    "4053325": {
+        "title": "My Heart Will Go On",
+        "desc": "Look into the distance from the bow of {TEXTJOIN#87}"
+    },
+    "4073301": {
+        "title": "Planet of Festivities Special Team",
+        "desc": "Win #1[i] battle(s) with a team comprising Topaz & Numby, Dr. Ratio, Aventurine, and Jade"
+    },
+    "4073302": {
+        "title": "Save the Cat!",
+        "desc": "Win #1[i] battle(s) with a team comprising Silver Wolf, Blade, Kafka, and Firefly"
+    },
+    "4073303": {
+        "title": "The Contractor",
+        "desc": "In a single battle, reduce an ally's HP to #1 when they are under the Debt Collector effect from Jade's Skill"
+    },
+    "4073304": {
+        "title": "Go Now, A— SAM",
+        "desc": "Use ally Firefly in combat against boss Kafka and be Dominated by her"
+    },
+    "4073305": {
+        "title": "I Will... Set the Seas Ablaze!",
+        "desc": "In a single battle, use Fyrefly Type-IV: Deathstar Overload #1 time(s) before the Complete Combustion state ends while using SAM"
+    },
+    "4083301": {
+        "title": "Guest's Choice",
+        "desc": "After gaining ownership of {TEXTJOIN#87}, sprint and play in its swimming pool"
+    },
+    "4073306": {
+        "title": "Seeing Summer",
+        "desc": "Win #1[i] battle(s) with a team comprising Firefly and {NICKNAME}"
+    },
+    "4053326": {
+        "title": "Utter Horror Story",
+        "desc": "Read all of Bella's Emotions with Clockwork"
+    },
+    "4053327": {
+        "title": "The Evil Within",
+        "desc": "Read all of Stefano's Happy Emotions with Clockwork"
+    },
+    "4053328": {
+        "title": "Gold Coins of Starlight",
+        "desc": "Collect all the golden capsule coins on Penacony"
+    },
+    "4053329": {
+        "title": "O Captain! My Captain!",
+        "desc": "Enter the Captain's quarters on {TEXTJOIN#87} for the first time"
     }
 }

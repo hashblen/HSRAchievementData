@@ -2172,11 +2172,11 @@
                 "Books": {
                     "1": {
                         "id": "190438",
-                        "title": "(Part I)"
+                        "title": "(I)"
                     },
                     "2": {
                         "id": "190439",
-                        "title": "(Part II)"
+                        "title": "(II)"
                     }
                 }
             },
@@ -3025,11 +3025,11 @@
                 }
             },
             "334": {
-                "Title": "Supernatural Encounters in Paperfold Academy",
+                "Title": "Supernatural Encounters in Paperfold University",
                 "Books": {
                     "1": {
                         "id": "190611",
-                        "title": "Supernatural Encounters in Paperfold Academy"
+                        "title": "Supernatural Encounters in Paperfold University"
                     }
                 }
             },
@@ -3254,27 +3254,189 @@
                 "Books": {
                     "1": {
                         "id": "190648",
-                        "title": "The Unchosen Path (Part 1)"
+                        "title": "The Unchosen Path (I)"
                     },
                     "2": {
                         "id": "190649",
-                        "title": "The Unchosen Path (Part 2)"
+                        "title": "The Unchosen Path (II)"
                     },
                     "3": {
                         "id": "190650",
-                        "title": "The Unchosen Path (Part 3)"
+                        "title": "The Unchosen Path (III)"
                     },
                     "4": {
                         "id": "190651",
-                        "title": "The Unchosen Path (Part 4)"
+                        "title": "The Unchosen Path (IV)"
                     },
                     "5": {
                         "id": "190652",
-                        "title": "The Unchosen Path (Part 5)"
+                        "title": "The Unchosen Path (V)"
                     },
                     "6": {
                         "id": "190653",
-                        "title": "The Unchosen Path (Part 6)"
+                        "title": "The Unchosen Path (VI)"
+                    }
+                }
+            },
+            "360": {
+                "Title": "Shelved Business Proposal Draft (Version 7.0)",
+                "Books": {
+                    "1": {
+                        "id": "190655",
+                        "title": "Shelved Business Proposal Draft (Version 7.0)"
+                    }
+                }
+            },
+            "361": {
+                "Title": "Evening Tavern Stories: Halovian Special Issue",
+                "Books": {
+                    "1": {
+                        "id": "190656",
+                        "title": "Evening Tavern Stories: Halovian Special Issue"
+                    }
+                }
+            },
+            "362": {
+                "Title": "Letter to Be Sent",
+                "Books": {
+                    "1": {
+                        "id": "190657",
+                        "title": "Letter to Be Sent"
+                    }
+                }
+            },
+            "363": {
+                "Title": "Back to the Radiant Feldspar",
+                "Books": {
+                    "1": {
+                        "id": "190658",
+                        "title": "Back to the Radiant Feldspar"
+                    }
+                }
+            },
+            "364": {
+                "Title": "The History of Penacony Airship Design Excerpt",
+                "Books": {
+                    "1": {
+                        "id": "190659",
+                        "title": "The History of Penacony Airship Design Excerpt"
+                    }
+                }
+            },
+            "365": {
+                "Title": "Whispers of the Elites: A Reporter's Correspondence",
+                "Books": {
+                    "1": {
+                        "id": "190660",
+                        "title": "Whispers of the Elites: A Reporter's Correspondence"
+                    }
+                }
+            },
+            "366": {
+                "Title": "Era of Dreams: A Record of Legendary Captains Excerpt",
+                "Books": {
+                    "1": {
+                        "id": "190661",
+                        "title": "Era of Dreams: A Record of Legendary Captains Excerpt"
+                    }
+                }
+            },
+            "367": {
+                "Title": "Card Addressed to a Guest",
+                "Books": {
+                    "1": {
+                        "id": "190662",
+                        "title": "Card Addressed to a Guest"
+                    }
+                }
+            },
+            "368": {
+                "Title": "The Search For Calypso",
+                "Books": {
+                    "1": {
+                        "id": "190663",
+                        "title": "The Search For Calypso"
+                    }
+                }
+            },
+            "369": {
+                "Title": "Fabricated Travelogue",
+                "Books": {
+                    "1": {
+                        "id": "190664",
+                        "title": "Fabricated Travelogue"
+                    }
+                }
+            },
+            "370": {
+                "Title": "Meal List of Unknown Origin",
+                "Books": {
+                    "1": {
+                        "id": "190665",
+                        "title": "Meal List of Unknown Origin"
+                    }
+                }
+            },
+            "371": {
+                "Title": "Invalid Pawn Ticket",
+                "Books": {
+                    "1": {
+                        "id": "190666",
+                        "title": "Invalid Pawn Ticket"
+                    }
+                }
+            },
+            "372": {
+                "Title": "Dream Bubble Notes",
+                "Books": {
+                    "1": {
+                        "id": "190667",
+                        "title": "Dream Bubble Notes"
+                    }
+                }
+            },
+            "373": {
+                "Title": "Observational Notes on Memory Zone Lifeforms",
+                "Books": {
+                    "1": {
+                        "id": "190668",
+                        "title": "Observational Notes on Memory Zone Lifeforms"
+                    }
+                }
+            },
+            "374": {
+                "Title": "Dreamscape Literary Bestsellers",
+                "Books": {
+                    "1": {
+                        "id": "190669",
+                        "title": "Dreamscape Literary Bestsellers"
+                    }
+                }
+            },
+            "375": {
+                "Title": "VIP Itinerary Guide",
+                "Books": {
+                    "1": {
+                        "id": "190670",
+                        "title": "VIP Itinerary Guide"
+                    }
+                }
+            },
+            "376": {
+                "Title": "Memory Zone Fairy Tales: The Ghost Ship",
+                "Books": {
+                    "1": {
+                        "id": "190671",
+                        "title": "Memory Zone Fairy Tales: The Ghost Ship"
+                    }
+                }
+            },
+            "377": {
+                "Title": "In-Flight Precautions",
+                "Books": {
+                    "1": {
+                        "id": "190672",
+                        "title": "In-Flight Precautions"
                     }
                 }
             }
